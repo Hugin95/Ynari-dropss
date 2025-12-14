@@ -1,0 +1,6390 @@
+
+Group	Ǫ���θ����
+{
+	Mob	105
+	Type	drop
+	1	30069	1	1
+}
+Group	ȸ���θ����
+{
+	Mob	107
+	Type	drop
+ 	1	30027	1	1
+	2	30070	1	1
+	3	30028	1	1
+	4	30069	1	1
+	5	50723	1	2
+}
+Group	mistret_3
+{
+	Mob	108
+	Type	drop
+	1	30004	1	1
+}
+Group	���������
+{
+	Mob	109
+	Type	drop
+	1	30003	1	1
+	2	30004	1	1
+}
+Group	ȸ����
+{
+	Mob	111
+	Type	drop
+	1	30071	1	1
+	2	50721	1	2
+	3	50724	1	2
+}
+Group	������
+{
+	Mob	112
+	Type	drop
+	1	30053	1	1
+	2	30010	1	1
+	3	30071	1	1
+	4	50723	1	2
+}
+Group	�Ұ�
+{
+	Mob	113
+	Type	drop
+	1	30072	1	1
+	2	50721	1	1.5
+}
+Group	tigru
+{
+	Mob	114
+	Type	drop
+	1	30038	1	1
+}
+Group	��ȣ
+{
+	Mob	115
+	Type	drop
+	1	30023	1	1
+	2	50723	1	2.5
+}
+Group	���ֹ���_�θ����
+{
+	Mob	131
+	Type	 drop
+}
+Group	���ֹ�������
+{
+	Mob	131
+	Type	drop
+}
+Group	���ֹ����θ����
+{
+	Mob	132
+	Type	drop
+}
+Group	���ֹ���_Ǫ���θ����
+{
+	Mob	134
+	Type	drop
+	 1	30069	1	1
+}
+Group	���ֹ���_���������
+{
+	Kill_drop	30
+	Mob	138
+	Type	kill
+}
+Group	���ֹ�����
+{
+	Mob	139
+	Type	drop
+}
+Group	���ֹ���ȸ����
+{
+	Mob	140
+	Type	drop
+	1	30010	1	1
+	2	50726	1	2
+	3	50724	1	2
+}
+Group	���ֹ���_������
+{
+	Kill_drop	30
+	Mob	141
+	Type	kill
+}
+Group	���ֹ���ȣ����
+{
+	Mob	143
+	Type	drop
+	1	50723	1	2
+}
+Group	Ǫ���θ����û��
+{
+	Mob	151
+	Type	drop	
+}
+Group	ȸ���θ���빫��
+{
+	Mob	152
+	Type	drop
+}
+Group	�������������
+{
+	Mob	153
+	Type	drop	
+}
+Group	�Ұ�����
+{
+	Mob	154
+	Type	drop
+}
+Group	��ȣ�Ͼ�
+{
+	Mob	155
+	Type	drop
+	1	30023	1	1
+	2	30037	1	1
+}
+Group	mistret_2
+{
+	Mob	178
+	Type	drop
+	1	30004	1	1
+}
+Group	mistret
+{
+	Mob	179
+	Type	drop
+	1	30003	1	1
+}
+Group	��߽�
+{
+	Mob	191
+	Type	drop
+	1	50130	1	50
+	2	71027	1	50
+	3	71028	1	50
+	4	71029	1	50
+	5	71030	1	50
+	6	71044	1	50
+	7	71045	1	50
+}
+Group	����
+{
+	Mob	192
+	Type	drop
+	1	50130	1	50
+	2	71027	1	50
+	3	71028	1	50
+	4	71029	1	50
+	5	71030	1	50
+	6	71044	1	50
+	7	71045	1	50
+}
+Group	����
+{
+	Mob	193
+	Type	drop
+	1	50130	1	50
+	2	71027	1	50
+	3	71028	1	50
+	4	71029	1	50
+	5	71030	1	50
+	6	71044	1	50
+	7	71045	1	50
+}
+Group	ȣ��
+{
+	Mob	194
+	Type	drop
+	1	50130	1	50
+	2	30037	1	1
+	3	71027	1	50
+	4	71028	1	50
+	5	71029	1	50
+	6	71030	1	50
+	7	71044	1	50
+	8	71045	1	50
+}
+Group	arahann_1
+{
+	Mob	254
+	Type	drop
+	1	30079	1	1
+}
+Group	���ܿ�
+{
+	Mob	301
+	Type	drop
+	1	30034	1	1
+	2	30031	1	1
+}
+Group	���ú�
+{
+	Mob	302
+	Type	drop
+	1	30031	1	1
+	2	30017	1	1
+}
+Group	amazon_general
+{
+	Mob	303
+	Type	drop
+	1	30073	1	1
+	2	30018	1	1
+}
+Group	������_�̷�
+{
+	Mob	304
+	Type	drop
+	1	30018	1	1
+	2	30011	1	1
+}
+Group	���ܿ�����
+{
+	Mob	331
+	Type	drop
+	1	50131	1	60
+}
+Group	���ú�����
+{
+	Mob	332
+	Type	drop
+	1	50131	1	60	
+}
+Group	����������
+{
+	Mob	333
+	Type	drop
+	1	50131	1	60		
+}
+Group	����������
+{
+	Mob	334
+	Type	drop
+	1	50131	1	60		
+}
+Group	amazon_comandant
+{
+	Mob	353
+	Type	drop
+	1	30073	1	1
+}
+Group	����
+{
+	Mob	391
+	Type	drop
+	1	30035	1	1
+	2	30011	1	1
+	3	30018	1	1
+}
+Group	����
+{
+	Mob	392
+	Type	drop
+	1	30035	1	1
+	2	30011	1	1
+	3	30073	1	1
+	4	30017	1	1
+}
+Group	����
+{
+	Mob	393
+	Type	drop
+	1	30035	1	1
+	2	30011	1	1
+}
+Group	����
+{
+	Mob	394
+	Type	drop
+	1	30035	1	1
+	2	30011	1	1
+	3	30073	1	1
+}
+Group	mi_jung
+{
+	Mob	395
+	Type	drop
+	1	30018	1	1
+}
+Group	mi_jung_1
+{
+	Mob	396
+	Type	drop
+	1	30017	1	1
+}
+Group	mi_jung_3
+{
+	Mob	397
+	Type	drop
+	1	30035	1	1
+}
+Group	jin_hee
+{
+	Mob	398
+	Type	drop
+	1	30073	1	1
+}
+Group	��ǳ�ܿ�
+{
+	Mob	401
+	Type	drop
+	1	30032	1	1
+}
+Group	��ǳ�ܿ�
+{
+	Mob	402
+	Type	drop
+	1	30074	1	1
+}
+Group	��ǳ�ü�
+{
+	Mob	403
+	Type	drop
+}
+Group	��ǳ���_�۵�
+{
+
+	Mob	404
+	Type	drop
+	1	30021	1	1
+	2	30005	1	1
+}
+Group	��ǳ���_����
+{
+	Kill_drop	500
+	Mob	405
+	Type	kill
+}
+Group	��ǳ�������
+{
+	Mob	405
+	Type	drop
+	1	30005	1	1
+}
+Group	��ǳ���_����
+{
+	Mob	406
+	Type	drop
+	1	30030	1	1
+}
+Group	��ǳ�ܿ��κ�
+{
+	Mob	431
+	Type	drop
+	1	50127	1	80
+}
+Group	��ǳ���ݴ���
+{
+	Mob	432
+	Type	drop
+	1	50127	1	80	
+}
+Group	��ǳ�ü�����
+{
+	Mob	433
+	Type	drop
+	1	50128	1	80
+}
+Group	��ǳ�������
+{
+	Mob	434
+	Type	drop
+	1	50128	1	80	
+}
+Group	��ǳ�����ȣ
+{
+	Mob	435
+	Type	drop
+	1	50128	1	80	
+}
+Group	��ǳ�������
+{
+	Mob	436
+	Type	drop
+	1	50128	1	80	
+}
+Group	soldat_negru
+{
+	Mob	451
+	Type	drop
+	1	30032	1	1
+}
+Group	soldat_negru_1
+{
+	Mob	454
+	Type	drop
+	1	30021	1	1
+}
+Group	soldat_negru_3
+{
+	Mob	455
+	Type	drop
+	1	30005	1	1
+}
+Group	soldat_negru_2
+{
+	Mob	456
+	Type	drop
+	1	30021	1	1
+	2	30030	1	1
+}
+Group	��ȯ
+{
+	Mob	491
+	Type	drop
+	1	50129	1	50
+	2	30075	1	1
+}
+Group	����
+{
+	Mob	492
+	Type	drop
+	1	50129	1	50
+	2	30075	1	1
+
+}
+Group	����
+{
+	Mob	493
+	Type	drop
+	1	50129	1	50
+	2	30075	1	1
+
+}
+Group	����
+{
+	Mob	494
+	Type	drop
+	1	50129	1	50
+	2	30075	1	1
+
+}
+Group	infanteris_salbatic
+{
+	Mob	501
+	Type	drop
+	1	30033	1	1
+	2	30041	1	1
+}
+Group	����������
+{
+	Mob	502
+	Type	drop
+	1	30041	1	1
+
+}
+Group	����ĳ�ü�
+{
+	Mob	503
+	Type	drop
+	1	30052	1	1
+}
+Group	���������
+{
+	Mob	504
+	Type	drop
+	1	30092	1	1
+}
+Group	����ĳ������
+{
+	Mob	531
+	Type	drop
+	1	17083	1	6
+	2	17123	1	6
+	3	17143	1	6
+}
+Group	����ĳ��������
+{
+	Mob	532
+	Type	drop
+	1	17083	1	6
+	2	17123	1	6
+	3	17143	1	6	
+	
+}
+Group	����ĳ�ü���õ
+{
+	Mob	533
+	Type	drop
+	1	290	1	35
+	2	1170	1	10
+	3	2150	1	10
+	4	5110	1	10
+	5	7160	1	10
+}
+Group	����ĳ�δ��尭õ
+{
+	Mob	534
+	Type	drop
+	1	290	1	35
+	2	1170	1	10
+	3	2150	1	10
+	4	5110	1		10	
+}
+Group	salbatic_dur_17
+{
+	Mob	551
+	Type	drop
+	1	30033	1	1
+}
+Group	salbatic_dur_4
+{
+	Mob	552
+	Type	drop
+}
+Group	salbatic_dur_1
+{
+	Mob	553
+	Type	drop
+	1	30052	1	1
+}
+Group	salbatic_dur
+{
+	Mob	554
+	Type	drop
+	1	30092	1	1
+	2	50725	1	2.5
+}
+Group	����ܴ���
+{
+	Mob	591
+	Type	drop
+	1	50129	1	100
+	2	30075	1	10
+	3	50128	1	100
+
+}
+Group	����ܴ���
+{
+	Mob	595
+	Type	drop
+}
+Group	�����ͺ��л��
+{
+	Mob	601
+	Type	drop
+}
+Group	������ô�ĺ���Ǹ�
+{
+	Mob	602
+	Type	drop
+}
+Group	�������������ε�
+{
+	Mob	603
+	Type	drop
+}
+Group	�����͸����ο���
+{
+	Mob	604
+	Type	drop
+}
+Group	�����ͺ�
+{
+	Kill_drop	30
+	Mob	631
+	Type	kill
+}
+Group	�����ͺ�
+{
+	Mob	631
+	Type	drop
+	1	30007	1	1
+}
+Group	������_ô�ĺ�
+{
+	Kill_drop	600
+	Mob	632
+	Type	kill
+}
+Group	������ô�ĺ�
+{
+	Mob	632
+	Type	drop
+	1	50726	1	2
+}
+Group	������_����
+{
+	Kill_drop	1200
+	Mob	633
+	Type	kill
+}
+Group	����������
+{
+	Mob	633
+	Type	drop
+	1	50721	1	1.5
+}
+Group	�����͸���
+{
+	Mob	634
+	Type	drop
+	
+}
+Group	�������屺
+{
+	Mob	635
+	Type	drop
+}
+Group	�����
+{
+	Mob	636
+	Type	drop
+	1	30006	1	1
+	2	50721	1	2
+}
+Group	�Ŵ�_�����
+{
+	Mob	637
+	Type	drop
+	1	30077	1	1
+}
+Group	vale_4
+{
+	Mob	651
+	Type	drop
+	1	30007	1	1
+	2	50722	1	2
+}
+Group	vale_3
+{
+	Mob	655
+	Type	drop
+	1	30076	1	1
+	2	50722	1	2
+}
+Group	vale_1
+{
+	Mob	656
+	Type	drop
+	1	30006	1	1
+	2	50727	1	2
+}
+Group	vale_9
+{
+	Mob	657
+	Type	drop
+	1	30077	1	1
+}
+Group	localnicul_bufnita
+{
+	Level_limit	90
+	Mob	686
+	Type	limit
+	1	79605	1	0.4
+}
+Group	preotul_bufnita
+{
+	Level_limit	90
+	Mob	687
+	Type	limit
+	1	79605	1	0.4
+}
+Group	generalul_bufnita
+{
+	Level_limit	90
+	Mob	688
+	Type	limit
+	1	79605	1	0.4
+}
+Group	regele_bufnitelor
+{
+	Level_limit	90
+	Mob	689
+	Type	limit
+	1	30199	1	30
+	2	71153	1	50
+	3	27991	1	100
+	4	27991	1	100
+	5	71085	5	100
+	6	71085	5	100
+	7	166	1	100
+	8	3146	1	100
+	9	2136	1	100
+	10	1116	1	100
+	11	5096	1	100
+	12	7136	1	100
+	13	146	1	100
+	14	246	1	100
+	15	5106	1	100
+	16	72347	1	100
+	17	72348	1	70
+	18	72349	1	20
+	19	71035	1	20
+	20	71084	100	100
+	21	71084	50	50
+	22	25041	1	30
+	23	72726	1	100
+	24	72730	1	100
+	25	31045	1	20
+	26	30197	1	40
+	27	30168	1	100	
+	28	30550	1	60
+	29	71085	5	60
+	30	71084	50	30	
+	31	72347	1	50
+	32	72348	1	40
+	33	30550	1	50
+	34	71084	50	30
+	35	71084	50	30
+}
+Group	��������
+{
+	Mob	691
+	Type	drop
+	1	70043	1	10
+	2	71001	1	100
+	3	71094	1	100
+	4	50513	1	50
+	5	25040	1	80
+	6	50070	1	300
+	7	30168	1	20
+	8	70003	1	30
+	9	70102	3	25
+	10	18000	1	5
+	11	70024	1	10
+	12	72724	1	100
+	13	72728	1	100
+}
+Group	�б�������
+{
+	
+	Mob	701
+	Type	drop
+	1	30008	1	0.03
+}
+Group	�б����Ѻ�
+{
+	Kill_drop	500
+	Mob	702
+	Type	kill
+}
+Group	�б����Ѻ�
+{
+	Mob	702
+	Type	drop
+	1	30078	1	0.02
+}
+Group	�б���������
+{
+	Kill_drop	200
+	Mob	703
+	Type	kill
+}
+Group	�б���������
+{
+	Mob	703
+	Type	drop
+	1	3210	1	0.1
+}
+Group	�б�������
+{
+	Kill_drop	500
+	Mob	704
+	Type	kill
+}
+Group	�б�������
+{
+	Mob	704
+	Type	drop
+	1	3210	1	0.1
+	2	30051	1	0.03
+}
+Group	�б����ິ
+{
+	Mob	705
+	Type	drop	
+	1	30079	1	0.02
+}
+Group	�б����ڷ�
+{
+	Mob	706
+	Type	drop
+	1	30047	1	0.04
+}
+Group	�б���ȯ��
+{
+	Mob	707
+	Type	drop
+	1	30078	1	0.02
+}
+Group	���б�������
+{
+	Mob	731
+	Type	drop	
+}
+Group	���б���������
+{
+	Mob	732
+	Type	drop	
+	1	30051	1	0.03
+}
+Group	���б�������
+{
+	
+	Mob	734
+	Type	drop
+	1	30079	1	0.02
+}
+Group	group_735
+{
+	
+	Mob	735
+	Type	drop
+	1	30080	1	0.02
+}
+Group	���б����ڷ�
+{
+	Kill_drop	300
+	Mob	736
+	Type	kill
+}
+Group	���б����ڷ�
+{
+	Mob	736
+	Type	drop
+}
+Group	���б���ȯ��
+{
+	Kill_drop	300
+	Mob	737
+	Type	kill
+}
+Group	���б���ȯ��
+{
+	Mob	737
+	Type	drop
+	
+}
+Group	high_arahan_2
+{
+	Mob	751
+	Type	drop
+	1	30078	1	0.02
+	2	30008	1	0.03
+}
+Group	high_arahan
+{
+	Mob	752
+	Type	drop
+	1	3210	1	6	
+	2	30078	1	0.02
+}
+Group	high_arahan96
+{
+	Mob	756
+	Type	drop
+	1	30047	1	0.04
+}
+Group	high_arahan_5
+{
+	Mob	757
+	Type	drop
+	1	30078	1	0.02
+}
+Group	high_arahan_1
+{
+	Mob	772
+	Type	drop
+	1	30051	1	0.03
+	2	30080	1	0.02
+	3	50723	1	2.5
+	4	50724	1	2
+}
+Group	high_arahan_4
+{
+	Mob	773
+	Type	drop	
+}
+Group	high_arahan_8
+{
+	Mob	774
+	Type	drop
+	1	30079	1	0.02
+	2	50725	1	2.5
+	3	50724	1	2
+}
+Group	high_arahan_6
+{
+	Mob	775
+	Type	drop	
+	1	30080	1	0.02
+}
+Group	high_arahan_7
+{
+	Mob	776
+	Type	drop	
+	1	30080	1	0.02
+}
+Group	high_arahan_3
+{
+	Mob	777
+	Type	drop
+	1	30080	1	0.02
+}
+Group	�б�����
+{
+	Kill_drop	1
+	Mob	791
+	Type	kill
+}
+Group	�б�����
+{
+	Mob	791
+	Type	drop
+	1	70043	1	0
+	2	71001	1	0
+	3	71094	1	0
+	4	50513	1	0
+	5	25040	1	0
+	6	70005	1	0
+	7	30168	1	0
+	8	18000	1	0
+	9	50071	1	0
+	
+	
+}
+Group	ȯ���ѹб�����
+{
+	Mob	792
+	Type	drop
+	1	70043	1	10
+	2	71001	1	100
+	3	71094	1	100
+	4	50513	1	50
+	5	25040	1	80
+	6	70005	1	10
+	7	30168	1	50
+	8	18000	1	5
+	9	50071	1	300
+	10	70024	1	10
+	11	72724	1	100
+	12	72728	1	100
+
+
+}
+Group	�ñ�
+{
+	Mob	901
+	Type	drop
+	1	30083	1	0.03
+	
+}
+Group	����������
+{
+	Mob	902
+	Type	drop
+	1	30009	1	0.03
+	2	30083	1	0.03
+}
+Group	����������
+{
+	Mob	903
+	Type	drop
+	1	30083	1	0.03
+}
+Group	����������
+{
+	Mob	904
+	Type	drop
+	1	30039	1	0.01
+}
+Group	��������â��
+{
+	Mob	905
+	Type	drop
+	1	30085	1	0.02
+}
+Group	���������ü�
+{
+	Mob	906
+	Type	drop
+}
+Group	������������
+{
+	Mob	907
+	Type	drop
+	
+}
+Group	��ͺ�
+{
+	Mob	1001
+	Type	drop
+	1	30015	1	0.02
+}
+Group	��ͱú�
+{
+	Kill_drop	200
+	Mob	1002
+	Type	kill
+}
+Group	��ͱú�
+{
+	Mob	1002
+	Type	drop
+	1	30015	1	0.02
+	2	30087	1	0.01
+	
+}
+Group	���â��
+{
+	Kill_drop	100
+	Mob	1003
+	Type	kill
+}
+Group	���â��
+{
+	Mob	1003
+	Type	drop
+	1	30015	1	0.02
+	2	30016	1	0.01
+	
+}
+Group	����ּ���
+{
+	Kill_drop	50
+	Mob	1004
+	Type	kill
+}
+Group	shaman_demon
+{
+	Mob	1004
+	Type	drop
+	1	30015	1	0.02
+	2	30086	1	0.03
+}
+Group	���ͱú�
+{
+	Mob	1032
+	Type	drop
+	
+}
+Group	spiritul_maniei
+{
+	Mob	1035
+	Type	drop
+	1	30086	1	0.03
+}
+Group	��Ȱ�����ͺ�
+{
+	Kill_drop	0
+	Mob	1061
+	Type	kill
+}
+Group	��Ȱ�����ͺ�
+{
+	Mob	1061
+	Type	drop
+	1	30193	1	0.03
+}
+Group	��Ȱ�����ͱú�
+{
+	Kill_drop	0.0
+	Mob	1062
+	Type	drop
+}
+Group	��Ȱ������â��
+{
+	Kill_drop	10000
+	Mob	1063
+	Type	kill
+}
+Group	��Ȱ������â��
+{
+	Mob	1063
+	Type	drop
+	1	30193	1	0.03
+}
+Group	Refining_1064
+{
+	Mob	1064
+	Type	drop
+}
+Group	��Ȱ�������ּ���
+{
+	Kill_drop	10000
+	Mob	1064
+	Type	kill
+}
+Group	��Ȱ�ѿ����Ǹ���
+{
+	Kill_drop	40000
+	Mob	1065
+	Type	kill
+}
+Group	��Ȱ�ѿ����Ǹ���
+{
+	Mob	1065
+	Type	drop
+	1	30086	1	0.03
+}
+Group	��Ȱ��ȥ���Ǹ���
+{
+	Kill_drop	0
+	Mob	1066
+	Type	kill
+}
+Group	��Ȱ��ȥ���Ǹ���
+{
+	Mob	1066
+	Type	drop
+	
+}
+Group	��Ȱ��������
+{
+	Kill_drop	0
+	Mob	1068
+	Type	kill
+}
+Group	��Ȱ��������
+{
+	Mob	1068
+	Type	drop
+	
+}
+Group	��Ȱ��������
+{
+	Level_limit	75
+	Mob	1068
+	Type	limit
+}
+Group	��Ȱ�����ɻ�
+{
+	Kill_drop	0
+	Mob	1069
+	Type	kill
+}
+Group	��Ȱ�����ɻ�
+{
+	Mob	1069
+	Type	drop
+}
+Group	��Ȱ�����ɻ�
+{
+	Level_limit	75
+	Mob	1069
+	Type	limit
+}
+Group	��Ȱ�Ѻһ��
+{
+	Kill_drop	0
+	Mob	1070
+	Type	kill
+}
+Group	��Ȱ�Ѻһ��
+{
+	Mob	1070
+	Type	drop
+}
+Group	��Ȱ�Ѻһ��
+{
+	Level_limit	75
+	Mob	1070
+	Type	limit
+}
+Group	��Ȱ����Ȱ����
+{
+	Kill_drop	0
+	Mob	1071
+	Type	kill
+}
+Group	��Ȱ����Ȱ����
+{
+	Mob	1071
+	Type	drop
+}
+Group	��Ȱ����Ȱ����
+{
+	Level_limit	75
+	Mob	1071
+	Type	limit
+}
+
+Group	��Ϳ�
+{
+	Mob	1091
+	Type	drop
+
+}
+Group	��Ϳ�
+{
+	
+	Mob	1092
+	Type	drop
+	1	50081	1	300	
+	2	70005	1	30	
+	3	71084	15	300	
+	4	71094	1	50	
+	5	70024	1	50	
+	6	71001	1	60
+}
+Group	���
+{
+	Level_limit	75
+	Mob	1093
+	Type	limit
+	1	50082	1	100
+	2	70005	1	14
+	3	70043	1	4
+	4	71084	5	300
+	5	71094	1	300
+	6	71001	1	20
+	7	30320	1	300
+	8	27987	2	100
+	9	50001	1	100
+	10	76029	1	50
+	11	50255	1	50
+}
+Group	death_reaper_upp
+{
+	type 	kill			
+	mob	1093			
+	kill_drop	25	
+}
+Group	����
+{
+	Mob	1101
+	Type	drop
+	1	30048	1	0.03
+}
+Group	�����Թ�����
+{
+	Mob	1102
+	Type	drop
+	1	30049	1	0.03
+	2	50728	1	2
+}
+Group	����
+{
+	Mob	1103
+	Type	drop
+	1	30088	1	0.02
+}
+Group	����
+{
+	Mob	1104
+	Type	drop
+	1	30014	1	0.01
+}
+Group	����
+{
+	Mob	1105
+	Type	drop
+	1	30089	1	0.04
+}
+Group	������
+{
+	Mob	1106
+	Type	drop
+	1	30090	1	0.03
+	2	50728	1	2
+}
+Group	��������
+{
+	Mob	1107
+	Type	drop
+	1	30050	1	0.03
+}
+Group	EisSplitter
+{
+	Level_limit	75
+	Mob	1131
+	Type	limit
+}
+Group	Refine_1131
+{
+	Mob	1131
+	Type	drop
+}
+Group	Eiskillerwal
+{
+	Level_limit	75
+	Mob	1132
+	Type	limit
+	
+}
+Group	Eisinsekt
+{
+	Level_limit	75
+	Mob	1133
+	Type	limit
+	
+}
+Group	Eisl?e
+{
+	Level_limit	75
+	Mob	1134
+	Type	limit
+	
+}
+Group	Eismann
+{
+	Level_limit	92
+	Mob	1135
+	Type	limit
+	1	30251	1	0.5
+	
+}
+Group	Yeti
+{
+	Level_limit	75
+	Mob	1136
+	Type	limit
+	
+}
+Group	Eisgolem
+{
+	Level_limit	92
+	Mob	1137
+	Type	limit
+	1	30251	1	0.5
+	
+}
+Group	Refine_1137
+{
+	Mob	1137
+	Type	drop
+}
+Group	insecta_gheata
+{
+	Mob	1153
+	Type	drop
+	1	50722	1	1.5
+}
+Group	omul_ghetii
+{
+	Mob	1155
+	Type	drop
+	1	50725	1	2
+}
+Group	ice_witch
+{
+	Level_limit	75
+	Mob	1192
+	Type	limit
+	1	25041	1	40
+	2	70031	1	31
+	3	11296	1	40
+	4	11496	1	40
+	5	11696	1	40
+	6	11896	1	40
+	7	13060	1	40
+	8	13080	1	40
+	9	13100	1	40
+	10	13120	1	40
+	11	14207	1	20
+	12	16207	1	20
+	13	17207	1	20
+	14	30190	1	300
+	15	72347	1	60
+	16	72348	1	40
+	17	71084	10	100
+	18	71084	10	100
+	19	71084	10	100
+	20	71084	10	100
+	21	71084	10	100
+	22	71084	10	100
+	23	71084	10	100
+	24	71084	10	100
+	25	71084	10	100
+	26	71084	10	100
+}
+Group	û�ͺ�
+{
+	Mob	1301
+	Type	drop
+	1	30060	1	0.03
+
+}
+Group	û����
+{
+	Mob	1302
+	Type	drop
+	1	30061	1	0.03
+}
+Group	Ǯ�ٸӸ�������
+{
+	Mob	1303
+	Type	drop
+	1	30040	1	0.04
+}
+Group	��������
+{
+	Kill_drop	1
+	Mob	1304
+	Type	kill
+	1	50078	1	100	0
+}
+Group	��������
+{
+	Mob	1304
+	Type	drop
+	1	30168	1	25
+	2	70043	1	15
+	3	71001	1	100
+	4	71094	1	100
+	5	50513	1	100
+	6	72725	1	50
+	7	72729	1	50
+	8	70102	5	30
+	9	25040	1	300
+	10	70024	1	10
+	11	70024	1	10
+}
+Group	arahan1_1
+{
+	Mob	1332
+	Type	drop
+}
+Group	���ͺ�
+{
+	Kill_drop	0
+	Mob	1401
+	Type	kill
+}
+Group	���ͺ�
+{
+	Mob	1401
+	Type	drop
+}
+Group	����ô�ĺ�
+{
+	Kill_drop	1500
+	Mob	1402
+	Type	kill
+}
+Group	����ô�ĺ�
+{
+	Mob	1402
+	Type	drop
+}
+Group	����õ���
+{
+	Kill_drop	500
+	Mob	1403
+	Type	kill
+}
+Group	����õ���
+{
+	Level_limit	80
+	Mob	1403
+	Type	limit
+	1	30166	1	0.6	
+}
+Group	����õ���
+{
+	Level_limit	86
+	Mob	1403
+	Type	limit
+}
+Group	Refine_1501
+{
+	Mob	1501
+	Type	drop
+}
+Group	����
+{
+	Kill_drop	100
+	Mob	1501
+	Type	kill
+}
+Group	������
+{
+	Kill_drop	100
+	Mob	1502
+	Type	kill
+}
+Group	������
+{
+	Mob	1502
+	Type	drop
+}
+Group	�Ŵ�������
+{
+	Kill_drop	3000
+	Mob	1503
+	Type	kill
+}
+Group	�Ŵ�������
+{
+	Mob	1503
+	Type	drop
+}
+Group	�����ϱ�
+{
+	Level_limit	80
+	Mob	1601
+	Type	limit
+	1	30166	1	0.6	
+}
+Group	�����ϲ�
+{
+	Mob	1601
+	Type	drop
+	1	30194	1	0.5
+}
+Group	���Ͱ�����
+{
+	Level_limit	80
+	Mob	1602
+	Type	limit
+	1	30166	1	0.6
+}
+Group	���Ͱ�����
+{
+	Mob	1602
+	Type	drop
+	1	30194	1	0.5
+	2	50727	1	2
+}
+Group	���͹����
+{
+	Kill_drop	2000
+	Mob	1603
+	Type	kill
+}
+Group	���͹����
+{
+	Mob	1603
+	Type	drop
+	1	30194	1	0.5
+}
+Group	���͹����
+{
+	Level_limit	86
+	Mob	1603
+	Type	limit
+}
+Group	����ȣ
+{
+	Kill_drop	1
+	Mob	1901
+	Type	kill
+}
+Group	����ȣ
+{
+	Mob	1901
+	Type	drop
+	1	70043	1	10
+	2	71001	1	100
+	3	71094	1	100
+	4	50513	1	50
+	5	25040	1	300
+	6	50077	1	300
+	7	70035	1	50
+	8	70035	1	50
+	9	30168	1	20
+	10	70102	3	25
+	11	18000	1	5
+	12	70024	1	10
+	13	72724	1	100
+	14	72728	1	100
+}
+Group	������ȣ				
+{					
+	type	kill			
+	mob	1902			
+	kill_drop	1			
+
+}					
+					
+Group	��Ÿ�������ȣ1				
+{					
+	type	kill			
+	mob	1904			
+	kill_drop	1			
+
+}					
+					
+Group	��Ÿ�������ȣ2				
+{					
+	type	kill			
+	mob	1905			
+	kill_drop	1			
+
+}					
+					
+Group	��Ÿ�������ȣ3				
+{					
+	type	kill			
+	mob	1906			
+	kill_drop	1			
+
+}					
+Group	�����Ź�
+{
+	Mob	2001
+	Type	drop
+	1	30058	1	0.03
+	2	30057	1	0.03
+	3	50721	1	1.5
+}
+Group	���Ź�
+{
+	Mob	2002
+	Type	drop
+	1	30056	1	0.03
+}
+Group	�������Ź�
+{
+	Mob	2003
+	Type	drop
+	1	30025	1	0.03
+	2	30056	1	0.03
+}
+Group	���԰Ź�
+{
+	Mob	2004
+	Type	drop
+	1	30058	1	0.03
+	2	50727	1	2
+}
+Group	�����Ź�
+{
+	Kill_drop	500
+	Mob	2005
+	Type	kill
+}
+Group	�����Ź�
+{
+	Mob	2005
+	Type	drop
+	1	30059	1	0.04
+	2	50727	1	2
+}
+Group	�������Ź�
+{
+	Mob	2031
+	Type	drop
+}
+Group	�����͵��Ź�
+{
+	Kill_drop	300
+	Mob	2033
+	Type	kill
+}
+Group	�����͵��Ź�
+{
+	Mob	2033
+	Type	drop
+	1	50727	1	2
+}
+Group	���Ե��Ź�
+{
+	Kill_drop	500
+	Mob	2034
+	Type	kill
+}
+Group	���Ե��Ź�
+{
+	Mob	2034
+	Type	drop
+}
+Group	�������Ź�
+{
+	Kill_drop	300
+	Mob	2035
+	Type	kill
+}
+Group	�������Ź�
+{
+	Mob	2035
+	Type	drop
+}
+Group	�������Ź�
+{
+	Kill_drop	90
+	Mob	2036
+	Type	kill
+}
+Group	drop_x_1
+{
+	Mob	2051
+	Type	drop
+	1	30057	1	0.03
+}
+Group	drop_x_2
+{
+	Mob	2053
+	Type	drop
+	1	30025	1	0.03
+}
+Group	drop_x_3
+{
+	Mob	2054
+	Type	drop
+	1	30058	1	0.03
+}
+Group	�������Ź�
+{
+	Mob	2061
+	Type	drop
+}
+Group	�������Ź�
+{
+	Level_limit	60
+	Mob	2061
+	Type	limit
+}
+Group	�͵��Ź�
+{
+	Mob	2062
+	Type	drop
+}
+Group	�����͵��Ź�
+{
+	Mob	2063
+	Type	drop
+}
+Group	���Ե��Ź�
+{
+	Mob	2064
+	Type	drop
+}
+Group	���Ե��Ź�
+{
+	Level_limit	60
+	Mob	2064
+	Type	limit
+
+}
+Group	�������Ź�
+{
+	Mob	2065
+	Type	drop
+}
+Group	�������Ź�
+{
+	Level_limit	60
+	Mob	2065
+	Type	limit
+}
+Group	���հŹ�
+{
+	Kill_drop	1
+	Mob	2091
+	Type	kill
+}
+Group	���հŹ�
+{
+	Mob	2091
+	Type	drop
+	1	70043	1	10
+	2	71001	1	100
+	3	71094	1	100
+	4	50513	1	50
+	5	25040	1	80
+	6	50073	1	300
+	7	30168	1	20
+	8	70102	3	25
+	9	18000	1	5
+	10	70024	1	10
+	11	72724	1	100
+	12	72728	1	100
+
+
+
+}
+Group	�񸶱;�
+{
+	Kill_drop	30
+	Mob	2102
+	Type	kill
+}
+Group	�񸶱;�
+{
+	Mob	2102
+	Type	drop
+}
+Group	�������
+{
+	Kill_drop	1000
+	Mob	2103
+	Type	kill
+}
+Group	�������
+{
+	Mob	2103
+	Type	drop
+	1	30046	1	0.01
+	2	50721	1	2
+}
+Group	�����ΰ�
+{
+	Mob	2104
+	Type	drop
+
+}
+Group	�����ü�
+{
+	Mob	2105
+	Type	drop	
+	1	30055	1	0.02
+	2	30081	1	0.04
+}
+Group	���ιݻ�˺�
+{
+	Mob	2106
+	Type	drop
+	1	30022	1	0.02
+}
+Group	���ιݻ�ú�
+{
+	Mob	2107
+	Type	drop
+	1	30067	1	0.01
+	2	30082	1	0.03	
+}
+Group	�縷�ǹ�����
+{
+	Kill_drop	100
+	Mob	2108
+	Type	kill
+}
+Group	�縷�ǹ�����
+{
+	Mob	2108
+	Type	drop
+}
+Group	�������Ź�
+{
+	Level_limit	60
+	Mob	2131
+	Type	limit
+}
+Group	�����ΰ�
+{
+	Mob	2131
+	Type	drop
+	1	30045	1	0.01
+}
+Group	�͵��Ź�
+{
+	Level_limit	60
+	Mob	2132
+	Type	limit
+}
+Group	�����ü�
+{
+	Mob	2132
+	Type	drop
+}
+Group	���ιݻ�˺�
+{
+	Mob	2133
+	Type	drop
+}
+Group	�����͵��Ź�
+{
+	Level_limit	60
+	Mob	2133
+	Type	limit
+}
+Group	���ιݻ�ú�
+{
+	Mob	2134
+	Type	drop
+}
+Group	���Ե��Ź�
+
+{
+	Level_limit	60
+	Mob	2134
+	Type	limit
+}	
+Group	�������Ź�
+{
+	Level_limit	60
+	Mob	2135
+	Type	limit
+}
+Group	scorpion_regal
+{
+	Mob	2153
+	Type	drop
+}
+Group	�Ŵ�縷�ź�
+{
+	Kill_drop	1
+	Mob	2191
+	Type	kill
+}
+Group	�Ŵ�縷�ź�
+{
+	Mob	2191
+	Type	drop
+	1	70043	1	10
+	2	71001	1	100
+	3	71094	1	100
+	4	50513	1	50
+	5	25040	1	80
+	6	50076	1	300
+	7	30168	1	20
+	8	70102	3	25
+	9	18000	1	5
+	10	70024	1	10
+	11	72724	1	100
+	12	72728	1	100
+	
+}
+Group	����������
+{
+	Mob	2201
+	Type	drop
+	1	30042	1	0.02
+}
+Group	ȭ��
+{
+	Kill_drop	1000
+	Mob	2202
+	Type	kill
+}
+Group	ȭ��
+{
+	Mob	2202
+	Type	drop
+	1	50727	1	2
+}
+Group	������
+{
+	Mob	2203
+	Type	drop
+	1	30019	1	0.01
+	2	50722	1	1.5
+	3	50728	1	2
+}
+Group	������
+{
+	Mob	2204
+	Type	drop
+}
+Group	��ȭ����
+{
+	Kill_drop	500
+	Mob	2205
+	Type	kill
+}
+Group	��ȭ����
+{
+	Mob	2205
+	Type	drop
+	1	30091	1	0.03
+	2	50723	1	2
+}
+Group	ȭ����
+{
+	Kill_drop	1
+	Mob	2206
+	Type	kill
+	1	50079	1	100	0
+
+}
+Group	ȭ����
+{
+	Mob	2206
+	Type	drop
+	1	25040	1	300
+	2	30168	1	20
+	3	70043	1	15
+	4	71001	1	100
+	5	71094	1	100
+	6	50513	1	100
+	7	72724	1	50
+	8	72728	1	50
+	9	70102	5	30
+	10	18000	1	10
+	11	70024	1	10
+	12	70024	1	10
+
+
+}
+Group	�͸�
+{
+	Kill_drop	0
+	Mob	2301
+	Type	kill
+}
+Group	�͸�
+{
+	Mob	2301
+	Type	drop
+	1	50727	1	1.5
+}
+Group	�صձ͸�
+{
+	Kill_drop	2000
+	Mob	2302
+	Type	kill
+}
+Group	�صձ͸�
+{
+	Mob	2302
+	Type	drop
+	1	50726	1	2
+}
+Group	���
+{
+	Kill_drop	1000
+	Mob	2303
+	Type	kill
+}
+Group	driada_drop
+{
+	Mob	2303
+	Type	drop
+	1	50725	1	2.5
+}
+Group	���
+{
+	Level_limit	70
+	Mob	2303
+	Type	limit
+	1	30165	1	0.5
+}
+Group	Refining_2304
+{
+	Level_limit	70
+	Mob	2304
+	Type	limit
+	1	30165	1	0.5
+}
+Group	ȭ���͸�
+{
+	Kill_drop	15000
+	Mob	2304
+	Type	kill
+}
+Group	��͸�
+{
+	Kill_drop	10000
+	Mob	2305
+	Type	kill
+}
+Group	trent_flowers
+{
+	Mob	2305
+	Type	drop
+	1	50727	1	2
+}
+Group	boss_trent2
+{
+	
+	Mob	2307
+	Type	drop
+	1	30192	1	15
+	2	30197	1	15
+	3	11280	1	30
+	4	11480	1	30
+	5	11680	1	30
+	6	11880	1	30
+	7	27991	1	60
+	8	71084	10	300
+	9	30168	1	20
+	10	150	1	10
+	11	140	1	5
+	12	160	1	10
+	13	240	1	10
+	14	3130	1	10
+	15	3140	1	10
+	16	1110	1	10
+	17	2130	1	10
+	18	5090	1	10
+	19	5100	1	7
+	20	7130	1	10
+	21	7140	1	10
+	22	71001	2	100
+	23	71094	2	100
+	24	25040	2	80
+}
+Group	���͸�
+{
+	Kill_drop	800
+	Mob	2311
+	Type	kill
+}
+Group	���͸�
+{
+	Mob	2311
+	Type	drop
+}
+Group	�ص����͸�
+{
+	Kill_drop	800
+	Mob	2312
+	Type	kill
+}
+Group	�ص����͸�
+{
+	Level_limit	85
+	Mob	2312
+	Type	limit
+	1	30167	1	0.1
+}
+Group	�����
+{
+	Kill_drop	1000
+	Mob	2313
+	Type	kill
+}
+Group	driada_rosie_drop
+{
+	Mob	2313
+	Type	drop
+	1	50726	1	2
+}
+Group	�����
+{
+	Level_limit	85
+	Mob	2313
+	Type	limit
+}
+Group	�����
+{
+	Level_limit	86
+	Mob	2313
+	Type	limit
+}
+Group	ȭ�����͸�
+{
+	Kill_drop	6000
+	Mob	2314
+	Type	kill
+}
+Group	salcie_rosie_drop
+{
+	Mob	2314
+	Type	drop
+	1	50727	1	2
+}
+Group	ȭ�����͸�
+{
+	Level_limit	85
+	Mob	2314
+	Type	limit
+	1	30167	1	0.1
+}
+Group	ȭ�����͸�
+{
+	Level_limit	86
+	Mob	2314
+	Type	limit
+}
+Group	����͸�
+{
+	Kill_drop	3000
+	Mob	2315
+	Type	kill
+}
+Group	copac_rosu_drop
+{
+	Mob	2315
+	Type	drop
+	1	50728	1	2
+}
+Group	�����͸�
+{
+	Level_limit	70
+	Mob	2315
+	Type	limit
+}
+Group	�����͸�
+{
+	Level_limit	86
+	Mob	2315
+	Type	limit
+}
+Group	Setaou-K?pfer87
+{
+	Level_limit	75
+	Mob	2401
+	Type	limit
+
+}
+Group	Setaou-J?er89
+{
+	Level_limit	94
+	Mob	2402
+	Type	limit
+	
+
+}
+Group	Setaou-Seherin89
+{
+	Level_limit	75
+	Mob	2403
+	Type	limit
+}
+Group	Refine_2404
+{
+	Mob	2404
+	Type	drop
+}
+Group	Setaou-Anf?rer90
+{
+	Level_limit	75
+	Mob	2404
+	Type	limit
+}
+Group	Setaou-Soldat91
+{
+	Level_limit	75
+	Mob	2411
+	Type	limit
+}
+Group	Setaou-J?er93
+{
+	Level_limit	94
+	Mob	2412
+	Type	limit
+	1	30252	1	0.4
+	
+}
+Group	Refine_2413
+{
+	Mob	2413
+	Type	drop
+}
+Group	Setaou-Seherin95
+{
+	Level_limit	75
+	Mob	2413
+	Type	limit
+}
+Group	Refine_2414
+{
+	Level_limit	94
+	Mob	2414
+	Type	limit
+	1	30252	1	0.4
+	
+}
+Group	Setaou_Commander
+{
+	Level_limit	94
+	Mob	2414
+	Type	limit
+	1	30252	1	0.2
+}
+Group	Setaou-General1
+{
+	Level_limit	75
+	Mob	2491
+	Type	limit
+}
+Group	Setaou-General2
+{
+	Level_limit	75
+	Mob	2492
+	Type	limit
+	1	30179	1	300
+	2	30179	1	300
+	3	14207	1	30
+	4	16207	1	30
+	5	17207	1	30
+	6	70031	1	10
+	7	70039	1	15
+	8	72726	1	100
+	9	72730	1	100
+	10	72347	1	40
+	11	72348	1	30
+	12	30179	1	80
+	13	30196	1	20
+}
+Group	Water_Dragon
+{
+	Mob	2493
+	Type	drop
+}
+Group	Water_Dragon_HL
+{
+	Level_limit	85
+	Mob	2493
+	Type	limit
+	1	83011	1	100
+	2	7150	1	30
+	3	2180	1	30
+	4	3150	1	30
+	5	72347	1	80
+	6	72348	1	75
+	7	25041	1	35
+	8	31139	1	100
+	9	30199	1	30
+	10	30168	1	70
+	11	31045	1	30
+	12	27992	1	10
+	13	27993	1	10
+	14	27994	1	7
+	15	71084	10	50
+	16	71084	5	60
+	17	30190	1	100
+	18	30190	1	100
+	19	70039	1	50
+	20	170	1	30
+	21	250	1	30
+	22	1120	1	30
+	23	76029	1	50
+	24	76029	1	50
+	25	80019	2	50
+	26	80019	1	50
+	27	51643	1	50
+	28	50255	1	50
+	29	50255	1	50
+}
+Group	Setaou-General3
+{
+	Level_limit	85
+	Mob	2494
+	Type	drop
+}
+Group	Setaou-General4
+{
+	Level_limit	85
+	Mob	2495
+	Type	drop
+}
+Group dungeon_mic_1
+{
+	Level_limit	35
+	Mob	4812
+	Type	limit
+	1	70024	1	150	--schimba_verde_50%
+	2	71151	1	150	--magie_verde_50%
+	3	71152	1	150	--putere_verde_50%
+	4	50131	1	150	--cutie_citrin_50%
+}
+Group dungeon_mic_2
+{
+	Level_limit	35
+	Mob	4813
+	Type	limit
+	1	70025	1	150	--schimba_alba_50%
+	2	71084	1	105	--vrajeste_obiectul_35%
+	3	71085	1	105	--imbunatatirea_obiectului_35%
+}
+Group	boss_4814
+{
+	Level_limit	35
+	Mob	4814
+	Type	limit
+	1	71084	1	90	--schimba_vrajeste_obiectul_30%
+	2	27987	1	100	--scoica
+}
+Group	boss_4815_final
+{
+	Level_limit	35
+	Mob	4815
+	Type	limit
+	1	71001	1	150	--exo_50%
+	2	71094	1	150	--citit_50%
+	3	70024	1	150	--marmura_50%
+	4	71085	1	150	--add_50%
+	5	71084	1	150	--schimba_50%
+	6	50130	1	150	--cufar_competitie_50%
+	7	70102	3	150	--boabe_zen_x3_50%
+	8	70042	1	10	--aschia_diavolului
+	9	25040	1	150	--bless_50%
+}
+Group	halloween_vrajitorul
+{
+	Level_limit	75
+	Mob	4830
+	Type	limit
+	1	70102	5	50
+	2	27987	5	300
+}
+Group	halloween_vrajitoarea
+{
+	Level_limit	75
+	Mob	4831
+	Type	limit
+	1	70035	1	300
+	2	70064	1	300
+	3	79508	1	300
+	4	71001	1	300
+	5	71094	1	300
+}
+Group	halloween_munin
+{
+	Level_limit	75
+	Mob	4832
+	Type	limit
+	1	79507	1	300
+	2	70064	1	300
+	3	70035	1	100
+	4	70035	1	100
+	5	27991	1	15
+}
+Group	halloween_sperietoare
+{
+	Level_limit	75
+	Mob	4833
+	Type	limit
+	1	70064	1	300
+	2	30336	1	300
+	3	70102	5	50
+	4	27987	5	300
+}
+Group	halloween_boss
+{
+	Level_limit	75
+	Mob	4834
+	Type	limit
+	1	70063	1	300
+	2	71084	40	300
+	3	70043	1	50
+	4	70039	1	15	
+	5	33023	1	300
+	6	71084	100	50
+	7	71001	2	300
+	8	71094	2	300
+}
+Group	����
+{
+	Kill_drop	1
+	Mob	5002
+	Type	kill
+}
+Group	����
+{
+	Mob	5002
+	Type	drop
+	1	27002	100	0
+	2	27003	50	0
+	3	27005	100	0
+	4	27006	50	0
+}
+Group	�̺�Ʈ��_�ٳ���
+{
+	Kill_drop	1
+	Mob	5004
+	Type	kill
+}
+Group	�ϼ���_������
+{
+	Kill_drop	550
+	Mob	5101
+	Type	kill
+}
+Group	�ϼ�������
+{
+	Mob	5101
+	Type	drop
+1	50050	1	0.3
+}
+Group	�ϼ���_������
+{
+	Kill_drop	250
+	Mob	5102
+	Type	kill
+}
+Group	�ϼ���_������
+{
+
+	Mob	5103
+	Type	drop
+1	50050	1	0.3
+}
+Group	�ϼ���_������
+{
+	Kill_drop	100
+	Mob	5104
+	Type	kill
+}
+Group	�ϼ��������
+{
+	Mob	5104
+	Type	drop
+1	50050	1	0.3
+}
+Group	�߼���_������
+{
+	Kill_drop	550
+	Mob	5111
+	Type	kill
+}
+Group	�߼�������
+{
+	Mob	5111
+	Type	drop
+	1	50723	1	2
+2	50050	1	0.15
+}
+Group	�߼���_������
+{
+	Kill_drop	300
+	Mob	5112
+	Type	kill
+}
+Group	�߼�����
+{
+	Mob	5112
+	Type	drop
+1	50050	1	0.15
+}
+Group	�߼���_������
+{
+	Kill_drop	250
+	Mob	5113
+	Type	kill
+}
+Group	�߼�����
+{
+	Mob	5113
+	Type	drop
+1	50050	1	0.15
+}
+Group	�߼���_������
+{
+	Kill_drop	100
+	Mob	5114
+	Type	kill
+}
+Group	�߼��������
+{
+	Mob	5114
+	Type	drop
+1	50050	1	0.15
+}
+Group	�߼���_��������
+{
+	Kill_drop	100
+	Mob	5115
+	Type	kill
+}
+Group	�߼�����������
+{
+	Mob	5115
+	Type	drop
+1	50050	1	0.15
+}
+Group	�߼������������
+{
+	Mob	5116
+	Type	drop
+1	50050	1	0.15
+}
+Group	�󼱵�_������
+{
+	Kill_drop	550
+	Mob	5121
+	Type	kill
+}
+Group	�󼱵�����
+{
+	Mob	5121
+	Type	drop
+1	50050	1	0.75
+}
+Group	�󼱵�_������
+{
+	Kill_drop	300
+	Mob	5122
+	Type	kill
+}
+Group	�󼱵���������
+{
+	Mob	5122
+	Type	drop
+1	50050	1	0.75
+}
+Group	�󼱵�_������
+{
+	Kill_drop	250
+	Mob	5123
+	Type	kill
+}
+Group	�󼱵�_�����a
+{
+
+	Mob	5123
+	Type	drop
+1	50050	1	0.75
+}
+Group	�󼱵�_������
+{
+	Kill_drop	100
+	Mob	5124
+	Type	kill
+}
+Group	�󼱵�����
+{
+	Mob	5124
+	Type	drop
+1	50050	1	0.75
+}
+Group	�󼱵�_��������
+{
+	Kill_drop	80
+	Mob	5125
+	Type	kill
+}
+Group	�󼱵���������
+{
+	Mob	5125
+	Type	drop
+1	50050	1	0.75
+}
+Group	�󼱵�_�ݿ�����
+{
+	Kill_drop	30
+	Mob	5126
+	Type	kill
+}
+Group	�󼱵��ݿ�����
+{
+	Mob	5126
+	Type	drop
+1	50050	1	0.75
+}
+Group	�󼱵����������
+{
+	Mob	5127
+	Type	drop
+1	50050	1	0.75
+}
+Group	evil_gorilla_soldier
+{
+	Mob	5151
+	Type	drop
+1	50050	1	0.75
+}
+Group	evil_gorilla_grenadier
+{
+	Mob	5152
+	Type	drop
+1	50050	1	0.75
+}
+Group	evil_gorilla_general
+{
+	Mob	5154
+	Type	drop
+1	50050	1	0.75
+}
+Group	evil_gorilla_stone
+{
+	Mob	5155
+	Type	drop
+1	50050	1	0.75
+}
+Group	evil_gorilla_gold
+{
+	Mob	5156
+	Type	drop
+1	50050	1	0.75
+}
+Group	�̻�뼺
+{
+	Kill_drop	10
+	Mob	5161
+	Type	kill
+}
+Group	�̻�뼺
+{
+	Mob	5161
+	Type	drop
+1	50050	1	0.75
+}
+Group	��õ�뼺
+{
+	Kill_drop	10
+	Mob	5162
+	Type	kill
+
+}
+Group	��õ�뼺
+{
+	Mob	5162
+	Type	drop
+1	50050	1	0.75
+}
+Group	��õ�뼺
+{
+	Kill_drop	10
+	Mob	5163
+	Type	kill
+}
+Group	��õ�뼺
+{
+	Mob	5163
+	Type	drop
+1	50050	1	0.75
+}
+
+Group	�񸶼�
+{
+	Mob	8001
+	Type	drop
+	1	50300	1	43
+	2	20	1	20
+	3	2010	1	20
+	4	3010	1	20
+	5	4000	1	20
+	6	5000	1	20
+	7	7010	1	20
+	8	21	1	16
+	9	2011	1	16
+	10	3011	1	16
+	11	4001	1	16
+	12	5001	1	16
+	13	7011	1	16
+	14	11200	1	16
+	15	11400	1	16
+	16	11600	1	16
+	17	11800	1	16
+	18	11201	1	13
+	19	11401	1	13
+	20	11601	1	13
+	21	11801	1	13
+	22	70038	1	132
+	23	27101	1	21
+	24	27104	1	21
+	25	76023	1	42
+	26	76024	1	15
+}
+
+Group	������
+{
+	Mob	8002
+	Type	drop
+	1	50300	1	72
+	2	30	1	20
+	3	1010	1	20
+	4	2020	1	20
+	5	3020	1	20
+	6	7020	1	20
+	7	31	1	16
+	8	1011	1	16
+	9	2021	1	16
+	10	3021	1	16
+	11	7021	1	16
+	12	11210	1	16
+	13	11410	1	16
+	14	11610	1	16
+	15	11810	1	16
+	16	11211	1	13
+	17	11411	1	13
+	18	11611	1	13
+	19	11811	1	13
+	20	70038	1	132
+	21	76023	1	42
+	22	76024	1	15
+	23	27101	1	18
+	24	27104	1	18
+}
+
+Group	������
+{
+	Mob	8003
+	Type	drop
+	1	50300	1	72
+	2	40	1	20
+	3	2030	1	20
+	4	3030	1	20
+	5	4010	1	20
+	6	5010	1	20
+	7	7030	1	20
+	8	41	1	16
+	9	2031	1	16
+	10	3031	1	16
+	11	4011	1	16
+	12	5011	1	16
+	13	7031	1	16
+	14	11210	1	16
+	15	11410	1	16
+	16	11610	1	16
+	17	11810	1	16
+	18	11211	1	13
+	19	11411	1	13
+	20	11611	1	13
+	21	11811	1	13
+	22	76023	1	60
+	23	76024	1	15
+	24	70038	1	132
+	25	27101	1	21
+	26	27104	1	21
+}
+
+Group	�帶��
+{
+	Mob	8004
+	Type	drop
+	1	50300	1	72
+	2	50	1	20
+	3	1020	1	20
+	4	2040	1	20
+	5	3040	1	20
+	6	5020	1	20
+	7	7040	1	20
+	8	51	1	16
+	9	1021	1	16
+	10	2041	1	16
+	11	3041	1	16
+	12	5021	1	16
+	13	7041	1	16
+	14	11220	1	16
+	15	11420	1	16
+	16	11620	1	16
+	17	11820	1	16
+	18	11221	1	13
+	19	11421	1	13
+	20	11621	1	13
+	21	11821	1	13
+	22	76023	1	60
+	23	76024	1	24
+	24	70038	1	132
+	25	27101	1	36
+	26	27104	1	36
+}
+
+Group	�渶��
+{
+	Mob	8005
+	Type	drop
+	1	50300	1	72
+	2	60	1	20
+	3	2050	1	20
+	4	3050	1	20
+	5	4020	1	20
+	6	7050	1	20
+	7	61	1	16
+	8	2051	1	16
+	9	3051	1	16
+	10	4021	1	16
+	11	7051	1	16
+	12	11220	1	16
+	13	11420	1	16
+	14	11620	1	16
+	15	11820	1	16
+	16	11221	1	13
+	17	11421	1	13
+	18	11621	1	13
+	19	11821	1	13
+	20	76016	1	14
+	21	76023	1	75
+	22	76024	1	30
+	23	70038	1	132
+	24	27101	1	36
+	25	27104	1	36
+	26	28440	1	0
+}
+
+Group	�ϸ���
+{
+	Mob	8006
+	Type	drop
+	1	50300	1	72
+	2	70	1	20
+	3	1030	1	20
+	4	2060	1	20
+	5	3060	1	20
+	6	5030	1	20
+	7	7060	1	20
+	8	71	1	16
+	9	1031	1	16
+	10	2061	1	16
+	11	3061	1	16
+	12	5031	1	16
+	13	7061	1	16
+	14	11230	1	16
+	15	11430	1	16
+	16	11630	1	16
+	17	11830	1	16
+	18	11231	1	13
+	19	11431	1	13
+	20	11631	1	13
+	21	11831	1	13
+	22	76016	1	7
+	23	76023	1	60
+	24	76024	1	15
+	25	70038	1	132
+	26	27101	1	27
+	27	27104	1	27
+	28	28440	1	0
+	29	61035	1	6
+}
+
+Group	������
+{
+	Mob	8007
+	Type	drop
+	1	50300	1	54
+	2	70	1	20
+	3	1030	1	20
+	4	2060	1	20
+	5	3060	1	20
+	6	5030	1	20
+	7	7060	1	20
+	8	71	1	16
+	9	1031	1	16
+	10	2061	1	16
+	11	3061	1	16
+	12	5031	1	16
+	13	7061	1	16
+	14	11240	1	16
+	15	11440	1	16
+	16	11640	1	16
+	17	11840	1	16
+	18	11241	1	13
+	19	11441	1	13
+	20	11641	1	13
+	21	11841	1	13
+	22	76016	1	7
+	23	76023	1	30
+	24	76024	1	15
+	25	70038	1	66
+	26	27101	1	18
+	27	27104	1	18
+	28	28440	1	0
+	29	61037	1	6
+}
+
+Group	ȥ����
+{
+	Mob	8008
+	Type	drop
+	1	50300	1	72
+	2	80	1	20
+	3	81	1	16
+	4	90	1	20
+	5	91	1	16
+	6	1040	1	20
+	7	1041	1	16
+	8	2070	1	20
+	9	2071	1	16
+	10	3070	1	20
+	11	3071	1	16
+	12	5050	1	20
+	13	5051	1	16
+	14	7080	1	20
+	15	7081	1	16
+	16	11240	1	16
+	17	11241	1	13
+	18	11440	1	16
+	19	11441	1	13
+	20	11640	1	16
+	21	11641	1	13
+	22	11840	1	16
+	23	11841	1	13
+	24	71151	1	20
+	25	71152	1	12
+	26	76015	1	6
+	27	76016	1	10
+	28	70038	1	132
+	29	50301	1	0.5
+	30	28440	1	0
+}
+
+Group	������
+{
+	Mob	8009
+	Type	drop
+	1	50300	1	72
+	2	90	1	20
+	3	91	1	16
+	4	100	1	20
+	5	101	1	16
+	6	1050	1	20
+	7	1051	1	16
+	8	1060	1	20
+	9	1061	1	16
+	10	2080	1	20
+	11	2081	1	16
+	12	2090	1	20
+	13	2091	1	16
+	14	3080	1	20
+	15	3081	1	16
+	16	3090	1	20
+	17	3091	1	16
+	18	5050	1	20
+	19	5051	1	16
+	20	5060	1	20
+	21	5061	1	16
+	22	7080	1	20
+	23	7081	1	16
+	24	7090	1	20
+	25	7091	1	16
+	26	11250	1	16
+	27	11251	1	13
+	28	11450	1	16
+	29	11451	1	13
+	30	11650	1	16
+	31	11651	1	13
+	32	11850	1	16
+	33	11851	1	13
+	34	71084	1	22
+	35	71085	1	12
+	36	70024	1	6
+	37	25040	1	10
+	38	70038	1	132
+	39	50301	1	2
+	40	28440	1	0
+}
+
+Group	������
+{
+	Mob	8010
+	Type	drop
+	1	50300	1	72
+	2	100	1	20
+	3	101	1	16
+	4	110	1	20
+	5	111	1	16
+	6	1060	1	20
+	7	1061	1	16
+	8	1070	1	20
+	9	1071	1	16
+	10	2090	1	20
+	11	2091	1	16
+	12	2100	1	20
+	13	2101	1	16
+	14	3090	1	20
+	15	3091	1	16
+	16	3100	1	20
+	17	3101	1	16
+	18	5060	1	20
+	19	5061	1	16
+	20	5070	1	20
+	21	5071	1	16
+	22	7090	1	20
+	23	7091	1	16
+	24	7100	1	20
+	25	7101	1	16
+	26	11260	1	16
+	27	11261	1	13
+	28	11460	1	16
+	29	11461	1	13
+	30	11660	1	16
+	31	11661	1	13
+	32	11860	1	16
+	33	11861	1	13
+	34	71084	1	24
+	35	71085	1	12
+	36	70024	1	6
+	37	25040	1	10
+	38	70038	1	132
+	39	71083	1	5
+	40	50302	1	8
+	41	28440	1	0
+}
+
+Group	�Ǹ���
+{
+	Mob	8011
+	Type	drop
+	1	50300	1	72
+	2	110	1	20
+	3	111	1	16
+	4	120	1	20
+	5	121	1	16
+	6	1070	1	20
+	7	1071	1	16
+	8	1080	1	20
+	9	1081	1	16
+	10	2100	1	20
+	11	2101	1	16
+	12	2110	1	20
+	13	2111	1	16
+	14	3100	1	20
+	15	3101	1	16
+	16	3110	1	20
+	17	3111	1	16
+	18	5070	1	20
+	19	5071	1	16
+	20	5080	1	20
+	21	5081	1	16
+	22	7100	1	20
+	23	7101	1	16
+	24	7110	1	20
+	25	7111	1	16
+	26	11260	1	16
+	27	11261	1	13
+	28	11460	1	16
+	29	11461	1	13
+	30	11660	1	16
+	31	11661	1	13
+	32	11860	1	16
+	33	11861	1	13
+	34	71084	1	24
+	35	71085	1	12
+	36	70024	1	4
+	37	25040	1	7
+	38	70038	1	132
+	39	50302	1	8
+	40	28440	1	0
+	42	61036	1	6
+}
+
+Group	���
+{
+	Mob	8012
+	Type	drop
+	1	50300	1	72
+	2	120	1	20
+	3	121	1	16
+	4	130	1	20
+	5	131	1	16
+	6	1080	1	20
+	7	1081	1	16
+	8	1090	1	20
+	9	1091	1	16
+	10	2110	1	20
+	11	2111	1	16
+	12	2120	1	20
+	13	2121	1	16
+	14	3110	1	20
+	15	3111	1	16
+	16	3120	1	20
+	17	3121	1	16
+	18	5070	1	20
+	19	5071	1	16
+	20	5080	1	20
+	21	5081	1	16
+	22	7110	1	20
+	23	7111	1	16
+	24	7120	1	20
+	25	7121	1	16
+	26	11260	1	16
+	27	11261	1	13
+	28	11460	1	16
+	29	11461	1	13
+	30	11660	1	16
+	31	11661	1	13
+	32	11860	1	16
+	33	11861	1	13
+	34	71084	1	26
+	35	71085	1	10
+	36	70024	1	5
+	37	25040	1	4
+	38	70038	1	132
+	39	50302	1	6
+	40	28440	1	0
+	42	61038	1	6
+}
+
+Group	�縶��
+{
+	Mob	8013
+	Type	drop
+	1	50300	1	72
+	2	130	1	20
+	3	131	1	16
+	4	1090	1	20
+	5	1091	1	16
+	6	2120	1	20
+	7	2121	1	16
+	8	3120	1	20
+	9	3121	1	16
+	10	5080	1	20
+	11	5081	1	16
+	12	7120	1	20
+	13	7121	1	16
+	14	11270	1	16
+	15	11271	1	13
+	16	11470	1	16
+	17	11471	1	13
+	18	11670	1	16
+	19	11671	1	13
+	20	11870	1	16
+	21	11871	1	13
+	22	71084	1	28
+	23	71085	1	10
+	24	70024	1	4
+	25	25040	1	5
+	26	70038	1	132
+	27	70035	1	3
+	28	50513	1	4.5
+	29	28440	1	0
+}
+
+Group	�츶��
+{
+	Mob	8014
+	Type	drop
+	1	130	1	20
+	2	131	1	16
+	3	1090	1	20
+	4	1091	1	16
+	5	2120	1	20
+	6	2121	1	16
+	7	3120	1	20
+	8	3121	1	16
+	9	5080	1	20
+	10	5081	1	16
+	11	7120	1	20
+	12	7121	1	16
+	13	11270	1	16
+	14	11271	1	13
+	15	11470	1	16
+	16	11471	1	13
+	17	11670	1	16
+	18	11671	1	13
+	19	11870	1	16
+	20	11871	1	13
+	21	71084	1	28
+	22	71085	1	8
+	23	70024	1	4
+	24	25040	1	5
+	25	70038	1	132
+	26	50513	1	5.5
+	27	70102	1	8
+	28	72347	1	3.5
+	29	28440	1	0
+}
+Group	������
+{
+	Mob	8015
+	Type	drop
+	
+	1	61031	1	6
+}
+Group	�Ǹ���
+{
+	Mob	8016
+	Type	drop
+	
+}
+Group	���
+{
+	Mob	8017
+	Type	drop 
+}
+Group	�縶��
+{
+	Mob	8018
+	Type	drop
+	
+}
+Group	�츶��
+{
+	Mob	8019
+	Type	drop
+}	
+Group	ǳ����
+{
+	Mob	8024
+	Type	drop
+	1	160	1	20
+	2	161	1	16
+	3	240	1	20
+	4	241	1	16
+	5	1110	1	20
+	6	1111	1	16
+	7	2130	1	20
+	8	2131	1	16
+	9	3130	1	20
+	10	3131	1	16
+	11	5090	1	20
+	12	5091	1	16
+	13	7130	1	20
+	14	7131	1	16
+	15	11280	1	16
+	16	11281	1	13
+	17	11480	1	16
+	18	11481	1	13
+	19	11680	1	16
+	20	11681	1	13
+	21	11880	1	16
+	22	11881	1	13
+	23	71084	1	34
+	24	71085	1	8
+	25	70024	1	4
+	26	25040	1	5
+	27	70038	1	132
+	28	70043	1	2
+	29	70005	1	2.2
+}
+Group	���ȼ�
+{
+	Mob	8025
+	Type	drop
+	1	160	1	20
+	2	161	1	16
+	3	240	1	20
+	4	241	1	16
+	5	1110	1	20
+	6	1111	1	16
+	7	2130	1	20
+	8	2131	1	16
+	9	3130	1	20
+	10	3131	1	16
+	11	5090	1	20
+	12	5091	1	16
+	13	7130	1	20
+	14	7131	1	16
+	15	11280	1	16
+	16	11281	1	13
+	17	11480	1	16
+	18	11481	1	13
+	19	11680	1	16
+	20	11681	1	13
+	21	11880	1	16
+	22	11881	1	13
+	23	71084	1	32
+	24	71085	1	6
+	25	25040	1	8
+	26	70038	1	132
+	27	70043	1	2.2
+	28	70005	1	2.5
+	29	72348	1	3
+	30	50303	1	8
+}
+Group	���뼮
+{
+	Mob	8026
+	Type	drop
+	1	160	1	20
+	2	161	1	16
+	3	240	1	20
+	4	241	1	16
+	5	1110	1	20
+	6	1111	1	16
+	7	2130	1	20
+	8	2131	1	16
+	9	3130	1	20
+	10	3131	1	16
+	11	5090	1	20
+	12	5091	1	16
+	13	7130	1	20
+	14	7131	1	16
+	15	11280	1	16
+	16	11281	1	13
+	17	11480	1	16
+	18	11481	1	13
+	19	11680	1	16
+	20	11681	1	13
+	21	11880	1	16
+	22	11881	1	13
+	23	13100	1	1
+	24	13080	1	1
+	25	13060	1	1
+	26	13120	1	1
+	27	71084	1	42
+	28	71085	1	5
+	29	25040	1	6
+	30	70038	1	132
+	31	70043	1	2
+	32	70005	1	2
+	33	50303	1	7
+	}
+Group	metin_stone_90
+{
+	Mob	8027
+	Type	drop
+	1	160	1	20
+	2	161	1	16
+	3	240	1	20
+	4	241	1	16
+	5	1110	1	20
+	6	1111	1	16
+	7	2130	1	20
+	8	2131	1	16
+	9	3130	1	20
+	10	3131	1	16
+	11	5090	1	20
+	12	5091	1	16
+	13	7130	1	20
+	14	7131	1	16
+	15	11280	1	16
+	16	11281	1	13
+	17	11480	1	16
+	18	11481	1	13
+	19	11680	1	16
+	20	11681	1	13
+	21	11880	1	16
+	22	11881	1	13
+	23	13100	1	1.5
+	24	13080	1	1.5
+	25	13060	1	1.5
+	26	13120	1	1.5
+	27	71084	1	37
+	28	71085	1	4
+	29	25040	1	2
+	30	70038	1	132
+	31	70043	1	2
+	32	70005	1	2
+	33	25100	1	2
+	34	27991	1	3.5
+	}
+
+
+Group	ȥ����			
+{				
+	mob	8051		
+	Type	drop		
+}								
+Group	�͸���			
+{				
+	mob	8052		
+	Type	drop		
+}				
+				
+Group	������			
+{				
+	mob	8053		
+	Type	drop		
+}				
+				
+Group	�븶��			
+{				
+	mob	8054		
+	Type	drop		
+}				
+				
+Group	������			
+{				
+	mob	8055		
+	Type	drop		
+}				
+				
+Group	������			
+{				
+	mob	8056		
+	Type	drop		
+}
+Group	metin_xmas_35
+{
+	Mob	8101
+	Type	drop
+	1	50300	1	300
+	2	71152	1	11
+	3	71151	1	70
+	4	70024	1	3
+	5	76016	1	15
+	6	28440	1	0
+	7	11240	1	20
+	8	11440	1	20
+	9	11640	1	20
+	10	11840	1	20
+	11	80	1	20
+	12	3070	1	20
+	13	1040	1	20
+	14	2070	1	20
+	15	7070	1	20
+	16	5040	1	20
+	17	14100	1	4
+	18	14100	1	4
+	19	50300	1	300
+	20	71152	1	11
+	21	71151	1	70
+	22	70024	1	3
+	23	76016	1	15
+	24	28440	1	0
+	25	11240	1	20
+	26	11440	1	20
+	27	11640	1	20
+	28	11840	1	20
+	29	80	1	20
+	30	3070	1	20
+	31	1040	1	20
+	32	2070	1	20
+	33	7070	1	20
+	34	5040	1	20
+	35	31013	1	300
+	
+}
+Group	metin_xmas_45
+{
+	Mob	8102
+	Type	drop
+	1	50300	1	300
+	2	71085	1 	9
+	3	71084	1	300
+	4	25040	1	7
+	5	71001	1	4
+	6	71094	1	4
+	7	70024	1	2
+	8	13041	1	1
+	9	16140	1	1
+	10	15100	1	0.5
+	11	17140	1	2
+	12	14140	1	4
+	13	11250	1	4
+	14	11450	1	4
+	15	11650	1	4
+	16	11850	1	4
+	17	27799	1	1
+	18	28440	1	0
+	19	100	1	5
+	20	3090	1	5
+	21	1060	1	5
+	22	2090	1	5
+	23	7090	1	5
+	24	7090	1	5
+	25	50300	1	300
+	26	71085	1 	9
+	27	71084	1	300
+	28	25040	1	7
+	29	71001	1	4
+	30	71094	1	4
+	31	70024	1	2
+	32	13041	1	1
+	33	16140	1	1
+	34	15100	1	0.5
+	35	17140	1	2
+	36	14140	1	4
+	37	11250	1	4
+	38	11450	1	4
+	39	11650	1	4
+	40	11850	1	4
+	41	27799	1	1
+	42	28440	1	0
+	43	100	1	5
+	44	3090	1	5
+	45	1060	1	5
+	46	2090	1	5
+	47	31013	1	300
+}
+Group	metin_xmas_50
+{
+	Mob	8103
+	Type	drop
+	1	71085	1	15
+	2	71084	1	300
+	3	70024	1	3
+	4	25040	1	7
+	5	50300	1	300
+	6	11260	1	1
+	7	11460	1	1
+	8	11660	1	1
+	9	11860	1	1
+	10	12240	1	1
+	11	12380	1	1
+	12	12520	1	1
+	13	12660	1	1
+	14	17160	1	1
+	15	14160	1	1
+	16	16160	1	1
+	17	15160	1	1
+	18	71001	1	4
+	19	71094	1	4
+	20	71083	1	0.5
+	21	28440	1	0
+	22	110	1	10
+	23	3100	1	10	
+	24	1070	1	10
+	25	2100	1	10
+	26	5060	1	10
+	27	7100	1	10
+	28	50302	1	3
+	29	50302	1	3
+	30	71085	1	15 
+	31	71084	1	300
+	32	70024	1	3
+	33	25040	1	7
+	34	50300	1	300
+	35	11260	1	1
+	36	11460	1	1
+	37	11660	1	1
+	38	11860	1	1
+	39	12240	1	1
+	40	12380	1	1
+	41	12520	1	1
+	42	12660	1	1
+	43	17160	1	1
+	44	14160	1	1
+	45	16160	1	1
+	46	15160	1	1
+	47	71001	1	4
+	48	71094	1	4
+	49	71083	1	0.5
+	50	28440	1	0
+	51	110	1	10
+	52	3100	1	10	
+	53	1070	1	10
+	54	2100	1	10
+	55	5060	1	10
+	56	7100	1	10
+	57	31013	1	300
+}
+Group	metin_xmas_55_sohan_middle
+{
+	Mob	8104
+	Type	drop
+	1	71085	1	15
+	2	71084	1	300
+	3	70024	1	3
+	4	25040	1	7
+	5	50300	1	300
+	6	15180	1	1
+	7	16180	1	3
+	8	17180	1	3
+	9	14180	1	3
+	10	11260	1	3
+	11	11460	1	3
+	12	11660	1	3
+	13	11860	1	3
+	14	15220	1	3
+	15	120	1	10
+	16	3110	1	10
+	17	1080	1	10
+	18	2110	1	10
+	19	5070	1	10	
+	20	7110	1	10
+	21	50302	1	3
+	22	50302	1	3
+	23	71085	1	15	
+	24	71084	1	300
+	25	70024	1	3	
+	26	25040	1	7
+	27	50300	1	300
+	28	15180	1	1
+	29	16180	1	3
+	30	17180	1	3
+	31	14180	1	3
+	32	11260	1	3
+	33	11460	1	3
+	34	11660	1	3
+	35	11860	1	3
+	36	15220	1	3
+	37	120	1	10
+	38	3110	1	10
+	39	1080	1	10
+	40	2110	1	10
+	41	5070	1	10	
+	42	7110	1	10
+	43	31013	1	300
+}
+Group	metin_xmas_60_temple
+{
+	Mob	8105
+	Type	drop
+	1	71085	1	10
+	2	71084	1	300
+	3	70024	1	2.5	
+	4	25040	1	7
+	5	50300	1	300
+	6	16180	1	3
+	7	17180	1	3
+	8	14180	1	3
+	9	11260	1	3
+	10	11460	1	3
+	11	11660	1	3
+	12	11860	1	3
+	13	15180	1	1
+	14	71001	1	2
+	15	71094	1	2
+	16	15220	1	3
+	17	28440	1	0
+	18	130	1	10
+	19	3120	1	10
+	20	1090	1	10
+	21	2120	1	10
+	22	5080	1	10
+	23	7120	1	10
+	24	7120	1	10
+	25	71085	1	10		 
+	26	71084	1	300
+	27	70024	1	2.5	
+	28	25040	1	7
+	29	50300	1	300
+	30	16180	1	3
+	31	17180	1	3
+	32	14180	1	3	
+	33	11260	1	3
+	34	11460	1	3
+	35	11660	1	3
+	36	11860	1	3
+	37	15180	1	1
+	38	71001	1	2
+	39	71094	1	2
+	40	15220	1	3
+	41	28440	1	0
+	42	130	1	10
+	43	3120	1	10
+	44	1090	1	10
+	45	2120	1	10
+	46	5080	1	10
+	47	31013	1	300
+}
+Group	metin_xmas_65_sohan
+{
+	Mob	8106
+	Type	drop
+	1	27987	1	5	
+	2	71085	1	10
+	3	71084	2	300
+	4	70035	1	2.8
+	5	70024	1	2.8
+	6	70102	1	8	
+	7	50513	1	5
+	8	28440	1	0
+	9	130	1	10
+	10	3120	1	10	
+	11	1090	1	10
+	12	2120	1	10
+	13	5080	1	10
+	14	7120	1	10
+	15	11270	1	8
+	16	11470	1	8
+	17	11670	1	8
+	18	11870	1	8
+	19	11870	1	8
+	20	27987	1	5	
+	21	71085	1	10 	 
+	22	71084	2	300
+	23	70035	1	2.8
+	24	70024	1	2.8
+	25	70102	1	8	
+	26	50513	1	5
+	27	28440	1	0
+	28	130	1	10
+	29	3120	1	10	
+	30	1090	1	10
+	31	2120	1	10
+	32	5080	1	10
+	33	7120	1	10
+	34	11270	1	8
+	35	11470	1	8
+	36	11670	1	8
+	37	31013	1	300
+}
+Group	metin_xmas_70
+{
+	Mob	8107
+	Type	drop
+	1	27987	1	5
+	2	71085	1	10 	 
+	3	71084	1	300
+	4	70024	1	2.8
+	5	72347	1	2
+	6	70102	1	8
+	7	50513	1	7
+	8	28440	1	0
+	9	71084	1	50
+	10	130	1	15
+	11	3120	1	15	
+	12	1090	1	15
+	13	2120	1	15
+	14	5080	1	15
+	15	7120	1	15
+	16	11270	1	8
+	17	11470	1	8
+	18	11670	1	8
+	19	11870	1	8
+	20	11870	1	8
+	21	27987	1	5
+	22	71085	1	10
+	23	71084	1	300
+	24	70024	1	2.8
+	25	72347	1	2
+	26	70102	1	8
+	27	50513	1	7
+	28	28440	1	0
+	29	71084	1	50
+	30	130	1	15
+	31	3120	1	15
+	32	1090	1	15
+	33	2120	1	15
+	34	5080	1	15
+	35	7120	1	15
+	36	11270	1	8
+	37	11470	1	8
+	38	11670	1	8
+	39	30268	1	300
+}
+Group	chaos_25
+{
+	Level_limit	25
+	Mob	8108
+	Type	limit
+	1	50300	1	300
+	2	76016	1	20
+	3	71151	1	300
+	4	71152	1	20
+	5	70024	1	7
+	6	28440	1	0
+	7	7080	1	5
+	8	5050	1	5
+	9	1050	1	5
+	10	2080	1	5
+	11	3080	1	5
+	12	90	1	5
+	13	11240	1	5
+	14	11440	1	5
+	15	11640	1	5
+	16	11840	1	5
+	17	71151	1	300
+	18	71152	1	20
+	19	50301	1	4
+	20	50061	1	7
+	21	31013	1	50
+}
+Group	chaos_45
+{
+	Level_limit	45
+	Mob	8109
+	Type	limit
+	1	71085	1	15
+	2	71084	1	300
+	3	70024	1	5	
+	4	25040	1	10
+	5	50300	1	300
+	6	16180	1	3
+	7	17180	1	3
+	8	14180	1	3	
+	9	11260	1	3
+	10	11460	1	3
+	11	11660	1	3
+	12	11860	1	3
+	13	15180	1	1
+	14	71001	1	8
+	15	71094	1	8
+	16	15220	1	3
+	17	28440	1	0
+	18	130	1	10
+	19	3120	1	10
+	20	1090	1	10
+	21	2120	1	10
+	22	5080	1	10
+	23	7120	1	10
+	24	71085	1	15	
+	25	71084	1	300
+	26	71084	1	40
+	27	71083	1	2
+	28	50302	1	5
+	29	31013	1	60
+
+	
+}
+Group	chaos_65
+{
+	Level_limit	65
+	Mob	8110
+	Type	limit
+	1	27987	1	3
+	2	71085	1	10	 
+	3	71084	1	300
+	4	25040	1	10
+	5	70024	1	5
+	6	70043	1	2.3
+	7	70005	1	1.5
+	8	71084	1	25
+	9	11280	1	1
+	10	11480	1	1
+	11	11680	1	1
+	12	11880	1	1
+	13	72348	1	3
+	14	71084	1	35
+	15	160	1	15
+	16	3140	1	15
+	17	2130	1	15
+	18	1110	1	15
+	19	5090	1	15
+	20	7130	1	15
+	21	50303	1	3
+	22	71084	1	300
+	23	71084	1	35
+	24	72347	1	5
+	25	50513	1	10
+	26	70102	1	11
+	27	70035	1	5
+}
+Group	Chaos_75
+{
+	Level_limit	75
+	Mob	8111
+	Type	limit
+	1	27991	1	2
+	2	71085	1	15
+	3	71084	1	300
+	4	25040	1	10
+	5	70005	1	1.7
+	6	31009	1	1
+	7	70024	1	3.5
+	8	27987	1	4
+	9	71084	1	30
+	10	160	1	30
+	11	2130	1	30
+	12	1110	1	30
+	13	5090	1	30
+	14	7130	1	30
+	15	25100	1	4
+	16	11280	1	20
+	17	11480	1	20
+	18	11680	1	20
+	19	11880	1	20
+	20	71084	1	300
+	21	71084	1	300
+	22	71084	1	300
+	23	71084	1	300
+	24	71084	1	30
+	25	70043	1	2.3
+	26	50303	1	3	
+}
+Group	��ȭ
+{
+	Mob	11506
+	Type	drop
+}
+Group	��ȭ
+{
+	Mob	11507
+	Type	drop
+}
+Group	��ȭ
+{
+	Mob	11508
+	Type	drop
+}
+Group	��ȭ
+{
+	Mob	11509
+	Type	drop	
+}
+Group	��ȭ
+{
+	Mob	11510
+	Type	drop
+}
+Group	����
+{
+	Mob	11041
+	Type	drop
+}
+Group	Setaou-Anf?rer97
+{
+	Level_limit	85
+	Mob	2475
+	Type	limit
+}
+Group	Setaou-Soldat80
+{
+	Level_limit	80
+	Mob	2431
+	Type	limit
+	
+}
+Group	Setaou-J?er82
+{
+	Level_limit	80
+	Mob	2432
+	Type	limit
+	
+}
+Group	Setaou-Seherin82
+{
+	Level_limit	80
+	Mob	2433
+	Type	limit
+	
+}
+Group	Setaou-Anf?rer83
+{
+	Level_limit	80
+	Mob	2434
+	Type	limit
+	
+}
+Group	Setaou-Soldat84
+{
+	Level_limit	80
+	Mob	2451
+	Type	limit
+}
+Group	Setaou-J?er86
+{
+	Level_limit	80
+	Mob	2452
+	Type	limit
+}
+Group	Setaou-Seherin88
+{
+	Level_limit	80
+	Mob	2453
+	Type	limit
+}
+Group	Setaou-Anf?rer90
+{
+	Level_limit	80
+	Mob	2454
+	Type	limit
+}
+Group	�Ʊ�			
+{				
+	Level_limit	75		
+	Mob	2501		
+	Type	limit		
+}				
+				
+Group	�ƱͰ�			
+{				
+	Level_limit	75		
+	Mob	2502		
+	Type	limit		
+				
+}				
+				
+Group	�ƱͰ�����			
+{				
+	Level_limit	75		
+	Mob	2503		
+	Type	limit		
+}				
+				
+Group	�Ʊ͵��ݺ�			
+{				
+	Level_limit	75		
+	Mob	2504		
+	Type	limit		
+}				
+				
+Group	�ƱͰ���â��			
+{				
+	Level_limit	75		
+	Mob	2505		
+	Type	limit		
+}				
+				
+Group	�ƱͰ����ü�			
+{				
+	Level_limit	75		
+	Mob	2506		
+	Type	limit		
+}				
+				
+Group	�ƱͰ������			
+{				
+	Level_limit	75		
+	Mob	2507		
+	Type	limit		
+}				
+				
+Group	��Ȱ�ѾƱͺ�			
+{				
+	Level_limit	75		
+	Mob	2541		
+	Type	limit		
+}				
+				
+Group	��Ȱ�ѾƱͱú�			
+{				
+	Level_limit	75		
+	Mob	2542		
+	Type	limit		
+}				
+				
+Group	��Ȱ�ѾƱ�â��			
+{				
+	Level_limit	75		
+	Mob	2543		
+	Type	limit		
+}				
+				
+Group	��Ȱ�ѾƱ��ּ���			
+{				
+	Level_limit	75		
+	Mob	2544		
+	Type	limit		
+}				
+				
+Group	��Ȱ�ѾƱͰ˺�			
+{				
+	Level_limit	75		
+	Mob	2545		
+	Type	limit		
+}				
+				
+Group	��Ȱ�ѾƱ͸��˻�			
+{				
+	Level_limit	75		
+	Mob	2546		
+	Type	limit		
+}				
+				
+Group	��Ȱ�ѾƱ����			
+{				
+	Level_limit	75		
+	Mob	2547		
+	Type	limit		
+}				
+				
+Group	�Ʊʹ��屺			
+{				
+	Level_limit	75		
+	Mob	2591		
+	Type	limit		
+}				
+				
+Group	�ƱͿտ�õ			
+{				
+	Level_limit	75		
+	Mob	2597		
+	Type	limit		
+}				
+				
+Group	devil_catacomb_boss
+{
+	Level_limit	76
+	Mob	2598
+	Type	limit
+	1	71159	1	70
+	2	71084	5	20
+	3	71084	5	300
+	4	71094	1	300
+	5	50186	1	300
+	6	31044	1	10
+	7	30195	1	15
+	8	71001	1	300
+	9	27987	2	300
+	10	30168	1	20
+	11	70043	1	300
+	12	70005	1	300
+	13	76029	1	50
+	14	80019	1	50
+	15	50255	1	50
+}
+Group	ingerul_coasa			
+{				
+	Level_limit	90		
+	Mob	1093		
+	Type	limit
+}								
+Group	����ô�ĺ�			
+{				
+	Type	limit		
+	Mob	1402		
+	level_limit	50		
+	
+}				
+				
+Group	����			
+{				
+	Type	limit		
+	Mob	1501		
+	level_limit	50		
+	
+}				
+				
+Group	������			
+{				
+	Type	limit		
+	Mob	1502		
+	level_limit	50		
+	
+}				
+				
+Group	�Ŵ�������			
+{				
+	Type	limit		
+	Mob	1503		
+	level_limit	50		
+	
+}				
+				
+Group	�����ϱ�			
+{				
+	Type	limit		
+	Mob	1601		
+	level_limit	50		
+	
+}				
+				
+Group	���Ͱ�����			
+{				
+	Type	limit		
+	Mob	1602		
+	level_limit	50		
+	
+}				
+				
+Group	����õ���1			
+{				
+	Type	drop		
+	Mob	1403		
+	
+}				
+				
+Group	���͹����2			
+{				
+	Type	drop		
+	Mob	1603		
+	
+}
+Group	�Ź̵���3��_���հŹ�_�Ǹ����
+{				
+	Type	limit		
+	Mob	2094		
+	level_limit	60		
+	1	30327	1	100
+}
+
+Group	�����糪��Ź�			
+{				
+	type	limit		
+	mob	2071		
+	level_limit	60		
+	
+}				
+				
+Group	�ͻ糪��Ź�			
+{				
+	type	limit		
+	mob	2072		
+	level_limit	60			
+}								
+Group	�����ͻ糪��Ź�			
+{				
+	type	limit		
+	mob	2073		
+	level_limit	60			
+}								
+Group	���Ի糪��Ź�			
+{				
+	type	limit		
+	mob	2074		
+	level_limit	60			
+}							
+Group	�������糪��Ź�			
+{				
+	type	limit		
+	mob	2076		
+	level_limit	60		
+	
+}				
+Group	���հŹ�2�����۵��				
+{					
+	Level_limit	45			
+	Mob	2091			
+	Type	limit			
+	1	30324	1	40	
+}					
+Group	baroneasa
+{
+	Level_limit	55
+	Mob	2092
+	Type	drop
+	1	50083	1	300	--cufar_baroneasa_100%
+	2	30168	1	20	--item_1
+	3	70043	1	20	--item_2
+	4	50513	1	25	--ss
+	5	70005	1	10	--item_3
+	6	72725	1	50	--elixir_1
+	7	72729	1	50	--elixir_2
+	8	70102	5	30	--boabe_zen_x5
+	9	27987	1	100	--scoica
+	10	30326	1	30	--otrava_reginei_paianjen
+	11	71084	1	100	--schimba
+	12	71084	1	100	--schimba
+	13	71084	1	100	--schimba
+	14	25040	1	100	--bless
+}
+
+Group	���κ�				
+{					
+	type 	kill			
+	mob	3001			
+	kill_drop	30			
+	1	30500	1	100	0
+	2	30512	1	100	0
+}					
+					
+Group	���αû�				
+{					
+	type 	kill			
+	mob	3002			
+	kill_drop	300			
+	1	30500	1	100	0
+	2	30512	1	100	0
+}					
+					
+Group	����ô�ĺ�				
+{					
+	type 	kill			
+	mob	3003			
+	kill_drop	250			
+	1	30500	1	100	0
+	2	30512	1	100	0
+}					
+					
+Group	���δ����				
+{					
+	type 	kill			
+	mob	3004			
+	kill_drop	200			
+	1	30500	1	100	0
+	2	30512	1	100	0
+}					
+					
+Group	���λ���屺				
+{					
+	type 	kill			
+	mob	3005			
+	kill_drop	150			
+	1	30500	1	100	0
+	2	30512	1	100	0
+}					
+					
+Group	������������				
+{					
+	type 	kill			
+	mob	3090			
+	kill_drop	1			
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3091			
+	kill_drop	1			
+}					
+					
+Group	�ܾ����ͺ�				
+{					
+	type 	kill			
+	mob	3101			
+	kill_drop	30			
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}					
+					
+Group	�ܾ�����ô�ĺ�				
+{					
+	type 	kill			
+	mob	3102			
+	kill_drop	300			
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}					
+					
+Group	�ܾ����͹���				
+{					
+	type 	kill			
+	mob	3103			
+	kill_drop	250			
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}					
+					
+Group	�ܾ������屺				
+{					
+	type 	kill			
+	mob	3104			
+	kill_drop	200			
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}					
+					
+Group	�ܾ����ͻ���屺				
+{					
+	type 	kill			
+	mob	3105			
+	kill_drop	150			
+}					
+					
+Group	�ܾ�������������				
+{					
+	type 	kill			
+	mob	3190			
+	kill_drop	1			
+}					
+					
+Group	�ܾ���������				
+{					
+	type 	kill			
+	mob	3191			
+	kill_drop	1			
+}					
+					
+Group	���ͺ�				
+{					
+	type 	kill			
+	mob	3201			
+	kill_drop	30			
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}					
+					
+Group	����ô�ĺ�				
+{					
+	type 	kill			
+	mob	3202			
+	kill_drop	300			
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}					
+					
+Group	���͹���				
+{					
+	type 	kill			
+	mob	3203			
+	kill_drop	250			
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}					
+					
+Group	�����屺				
+{					
+	type 	kill			
+	mob	3204			
+	kill_drop	200			
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}					
+					
+Group	���ͻ���屺				
+{					
+	type 	kill			
+	mob	3205			
+	kill_drop	150			
+}					
+					
+Group	������������				
+{					
+	type 	kill			
+	mob	3290			
+	kill_drop	1			
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3291			
+	kill_drop	1			
+}					
+					
+Group	������				
+{					
+	type 	kill			
+	mob	3301			
+	kill_drop	30			
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}					
+					
+Group	����ô�ĺ�				
+{					
+	type 	kill			
+	mob	3302			
+	kill_drop	300			
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3303			
+	kill_drop	250			
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}					
+					
+Group	�����屺				
+{					
+	type 	kill			
+	mob	3304			
+	kill_drop	200			
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30523	1	100	0
+}					
+					
+Group	��������屺				
+{					
+	type 	kill			
+	mob	3305			
+	kill_drop	150			
+
+}					
+					
+Group	������������				
+{					
+	type 	kill			
+	mob	3390			
+	kill_drop	1			
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3391			
+	kill_drop	1			
+}					
+					
+Group	���κ�				
+{					
+	type 	kill			
+	mob	3401			
+	kill_drop	30			
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}					
+					
+Group	����ô�ĺ�				
+{					
+	type 	kill			
+	mob	3402			
+	kill_drop	300			
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}					
+					
+Group	���ι���				
+{					
+	type 	kill			
+	mob	3403			
+	kill_drop	250			
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}					
+					
+Group	�����屺				
+{					
+	type 	kill			
+	mob	3404			
+	kill_drop	200			
+	1	30501	1	100	0
+	2	30511	1	100	0
+	3	30520	1	100	0
+}					
+					
+Group	���λ���屺				
+{					
+	type 	kill			
+	mob	3405			
+	kill_drop	150			
+}					
+					
+Group	������������				
+{					
+	type 	kill			
+	mob	3490			
+	kill_drop	1			
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3491			
+	kill_drop	1			
+}					
+					
+Group	���������ܿ�				
+{					
+	type 	kill			
+	mob	3501			
+	kill_drop	30			
+	1	30508	1	100	0
+}					
+					
+Group	���������ܻ�޴ܿ�				
+{					
+	type 	kill			
+	mob	3502			
+	kill_drop	300			
+	1	30508	1	100	0
+}					
+					
+Group	���������ܹ���				
+{					
+	type 	kill			
+	mob	3503			
+	kill_drop	250			
+	1	30508	1	100	0
+}					
+					
+Group	�������������				
+{					
+	type 	kill			
+	mob	3504			
+	kill_drop	200			
+	1	30508	1	100	0
+}					
+					
+Group	���������ܻ���屺				
+{					
+	type 	kill			
+	mob	3505			
+	kill_drop	150			
+	1	30508	1	100	0
+}					
+					
+Group	���������ܺδ���				
+{					
+	type 	kill			
+	mob	3590			
+	kill_drop	1			
+}					
+					
+Group	���������ܴ���				
+{					
+	type 	kill			
+	mob	3591			
+	kill_drop	1			
+}					
+					
+Group	�����������ܿ�				
+{					
+	type 	kill			
+	mob	3551			
+	kill_drop	30			
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}					
+					
+Group	�����������ܻ�޴ܿ�				
+{					
+	type 	kill			
+	mob	3552			
+	kill_drop	300			
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}					
+					
+Group	�����������ܹ���				
+{					
+	type 	kill			
+	mob	3553			
+	kill_drop	250			
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}					
+					
+Group	���������������				
+{					
+	type 	kill			
+	mob	3554			
+	kill_drop	200			
+	1	30508	1	100	0
+	2	30513	1	100	0
+	3	30519	1	100	0
+}					
+					
+Group	�����������ܻ���屺				
+{					
+	type 	kill			
+	mob	3555			
+	kill_drop	150			
+}					
+					
+Group	�����������ܺδ���				
+{					
+	type 	kill			
+	mob	3595			
+	kill_drop	1			
+}					
+					
+Group	�����������ܴ���				
+{					
+	type 	kill			
+	mob	3596			
+	kill_drop	1			
+}					
+					
+Group	������				
+{					
+	type 	kill			
+	mob	3601			
+	kill_drop	30			
+	1	30505	1	100	0
+	2	30515	1	100	0
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3602			
+	kill_drop	300			
+	1	30505	1	100	0
+	2	30515	1	100	0
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3603			
+	kill_drop	250			
+	1	30505	1	100	0
+	2	30515	1	100	0
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3604			
+	kill_drop	200			
+	1	30505	1	100	0
+	2	30515	1	100	0
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3605			
+	kill_drop	150			
+}					
+					
+Group	�Ŵ방��������				
+{					
+	type 	kill			
+	mob	3690			
+	kill_drop	1			
+}					
+					
+Group	���������				
+{					
+	type 	kill			
+	mob	3691			
+	kill_drop	1			
+}					
+					
+Group	���κ�				
+{					
+	type 	kill			
+	mob	3701			
+	kill_drop	30			
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}					
+					
+Group	����ô�ĺ�				
+{					
+	type 	kill			
+	mob	3702			
+	kill_drop	300			
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}					
+					
+Group	���ι���				
+{					
+	type 	kill			
+	mob	3703			
+	kill_drop	250			
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}					
+					
+Group	�����屺				
+{					
+	type 	kill			
+	mob	3704			
+	kill_drop	200			
+	1	30502	1	100	0
+	2	30514	1	100	0
+	3	30518	1	100	0
+}					
+					
+Group	���λ���屺				
+{					
+	type 	kill			
+	mob	3705			
+}					
+					
+Group	������������				
+{					
+	type 	kill			
+	mob	3790			
+	kill_drop	1			
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3791			
+	kill_drop	1			
+}					
+					
+Group	���κ�				
+{					
+	type 	kill			
+	mob	3801			
+	kill_drop	30			
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}					
+					
+Group	���αû�				
+{					
+	type 	kill			
+	mob	3802			
+	kill_drop	300			
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}					
+					
+Group	����ô�ĺ�				
+{					
+	type 	kill			
+	mob	3803			
+	kill_drop	250			
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}					
+					
+Group	���ι���				
+{					
+	type 	kill			
+	mob	3804			
+	kill_drop	200			
+	1	30507	1	100	0
+	2	30517	1	100	0
+	3	30519	1	100	0
+}					
+					
+Group	���λ���屺				
+{					
+	type 	kill			
+	mob	3805			
+	kill_drop	150			
+}					
+					
+Group	������������				
+{					
+	type 	kill			
+	mob	3890			
+	kill_drop	1			
+}					
+					
+Group	��������				
+{					
+	type 	kill			
+	mob	3891			
+	kill_drop	1			
+}					
+					
+
+						
+Group	���κ�_����					
+{						
+	type	drop				
+	Mob	3001				
+}						
+						
+Group	���αû�_����					
+{						
+	type	drop				
+	Mob	3002				
+}						
+						
+Group	����ô�ĺ�_����					
+{						
+	type	drop				
+	Mob	3003				
+}						
+						
+Group	���δ����_����					
+{						
+	type	drop				
+	Mob	3004				
+}						
+						
+Group	���λ���屺_����					
+{						
+	type	drop				
+	Mob	3005				
+	1	31135	1	1
+}						
+						
+Group	������������_����_����					
+{						
+	type	drop				
+	Mob	3090				
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	30510	1	50
+	11	30505	1	50
+	12	30500	1	50
+}						
+						
+Group	��������_����_����					
+{						
+	type	drop				
+	Mob	3091				
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	31124	1	50
+	11	31036	1	50
+}						
+						
+Group	�ܾ����ͺ�_����					
+{						
+	type	drop				
+	Mob	3101				
+			
+}						
+						
+Group	�ܾ�����ô�ĺ�_����					
+{						
+	type	drop				
+	Mob	3102				
+			
+}						
+						
+Group	�ܾ����͹���_����					
+{						
+	type	drop				
+	Mob	3103				
+			
+}						
+						
+Group	�ܾ������屺_����					
+{						
+	type	drop				
+	Mob	3104				
+			
+}						
+						
+Group	�ܾ����ͻ���屺_����					
+{						
+	type	drop				
+	Mob	3105				
+			
+}						
+						
+Group	�ܾ�������������_����					
+{						
+	type	drop				
+	Mob	3190				
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	30514	1	50
+	11	31131	1	50
+}						
+						
+Group	�ܾ���������_����					
+{						
+	type	drop				
+	Mob	3191				
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	30508	1	50
+	11	31130	1	50
+}						
+						
+Group	���ͺ�_����					
+{						
+	type	drop				
+	Mob	3201				
+			
+}						
+						
+Group	����ô�ĺ�_����					
+{						
+	type	drop				
+	Mob	3202				
+			
+}						
+						
+Group	���͹���_����					
+{						
+	type	drop				
+	Mob	3203				
+			
+}						
+						
+Group	�����屺_����					
+{						
+	type	drop				
+	Mob	3204				
+			
+}						
+						
+Group	���ͻ���屺_����					
+{						
+	type	drop				
+	Mob	3205				
+		
+}						
+						
+Group	������������_����					
+{						
+	type	drop				
+	Mob	3290				
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	31024	1	50
+	11	30512	1	50
+}				
+				
+Group	��������_����			
+{				
+	type	drop		
+	Mob	3291		
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	30501	1	50
+	11	30515	1	50
+}				
+				
+Group	������_����			
+{				
+	type	drop		
+	Mob	3301		
+	
+}				
+				
+Group	����ô�ĺ�_����			
+{				
+	type	drop		
+	Mob	3302		
+	
+}				
+				
+Group	��������_����			
+{				
+	type	drop		
+	Mob	3303		
+	
+}				
+				
+Group	�����屺_����			
+{				
+	type	drop		
+	Mob	3304		
+	
+}				
+				
+Group	��������屺_����			
+{				
+	type	drop		
+	Mob	3305		
+	
+}				
+				
+Group	������������_����			
+{				
+	type	drop		
+	Mob	3390		
+}				
+				
+Group	��������_����			
+{				
+	type	drop		
+	Mob	3391		
+}				
+				
+Group	���κ�_����			
+{				
+	type	drop		
+	Mob	3401		
+	
+}				
+				
+Group	����ô�ĺ�_����			
+{				
+	type	drop		
+	Mob	3402		
+	
+}				
+				
+Group	���ι���_����			
+{				
+	type	drop		
+	Mob	3403		
+	
+}				
+				
+Group	�����屺_����			
+{				
+	type	drop		
+	Mob	3404		
+	
+}				
+				
+Group	���λ���屺_����			
+{				
+	type	drop		
+	Mob	3405		
+	
+}				
+				
+Group	������������_����			
+{				
+	type	drop		
+	Mob	3490		
+}				
+				
+Group	��������_����			
+{				
+	type	drop		
+	Mob	3491		
+}				
+				
+Group	���������ܿ�_����			
+{				
+	type	drop		
+	Mob	3501		
+	
+}				
+				
+Group	���������ܻ�޴ܿ�_����			
+{				
+	type	drop		
+	Mob	3502		
+	
+}				
+				
+Group	���������ܹ���_����			
+{				
+	type	drop		
+	Mob	3503		
+	
+}				
+				
+Group	�������������_����			
+{				
+	type	drop		
+	Mob	3504		
+	
+}				
+				
+Group	���������ܻ���屺_����			
+{				
+	type	drop		
+	Mob	3505		
+	
+}				
+				
+Group	���������ܺδ���_����			
+{				
+	type	drop		
+	Mob	3590		
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	30502	1	50
+	11	30509	1	50
+}				
+				
+Group	���������ܴ���_����			
+{				
+	type	drop		
+	Mob	3591		
+}				
+				
+Group	�����������ܿ�_����			
+{				
+	type	drop		
+	Mob	3551		
+	
+}				
+				
+Group	�����������ܻ�޴ܿ�_����			
+{				
+	type	drop		
+	Mob	3552		
+	
+}				
+				
+Group	�����������ܹ���_����			
+{				
+	type	drop		
+	Mob	3553		
+	
+}				
+				
+Group	���������������_����			
+{				
+	type	drop		
+	Mob	3554		
+	
+}				
+				
+Group	�����������ܻ���屺_����			
+{				
+	type	drop		
+	Mob	3555		
+	
+}				
+				
+Group	�����������ܺδ���_����			
+{				
+	type	drop		
+	Mob	3595		
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	31125	1	50
+	11	30503	1	50
+}				
+				
+Group	�����������ܴ���_����			
+{				
+	type	drop		
+	Mob	3596		
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	30503	1	50
+	11	31125	1	50
+}				
+				
+Group	������_����			
+{				
+	type	drop		
+	Mob	3601		
+	
+}				
+				
+Group	��������_����			
+{				
+	type	drop		
+	Mob	3602		
+	
+}				
+				
+Group	��������_����			
+{				
+	type	drop		
+	Mob	3603		
+	
+}				
+				
+Group	��������_����			
+{				
+	type	drop		
+	Mob	3604		
+	
+}				
+				
+Group	��������_����			
+{				
+	type	drop		
+	Mob	3605		
+	
+}				
+				
+Group	�Ŵ방��������_����			
+{				
+	type	drop		
+	Mob	3690		
+}				
+				
+Group	���������_����			
+{				
+	type	drop		
+	Mob	3691		
+}				
+				
+Group	���κ�_����			
+{				
+	type	drop		
+	Mob	3701		
+	
+}				
+				
+Group	����ô�ĺ�_����			
+{				
+	type	drop		
+	Mob	3702		
+	
+}				
+				
+Group	���ι���_����			
+{				
+	type	drop		
+	Mob	3703		
+	
+}				
+				
+Group	�����屺_����			
+{				
+	type	drop		
+	Mob	3704		
+	
+}				
+				
+Group	���λ���屺_����			
+{				
+	type	drop		
+	Mob	3705		
+	
+}				
+				
+Group	������������_����_����			
+{				
+	type	drop		
+	Mob	3790		
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	30519	1	50
+	11	30511	1	50
+}				
+				
+Group	��������_����_����			
+{				
+	type	drop		
+	Mob	3791		
+	1	71084	5	50
+	2	71084	5	50
+	3	50255	1	50
+	4	50255	1	50
+	5	80019	1	50
+	6	80019	1	50
+	7	70039	1	50
+	8	72347	1	50
+	9	72348	1	50
+	10	30516	1	50
+	11	30507	1	50
+	12	30506	1	50
+}				
+				
+Group	���κ�_����			
+{				
+	type	drop		
+	Mob	3801		
+	
+}				
+				
+Group	���αû�_����			
+{				
+	type	drop		
+	Mob	3802		
+	
+}				
+				
+Group	����ô�ĺ�_����			
+{				
+	type	drop		
+	Mob	3803		
+	
+}				
+				
+Group	���ι���_����			
+{				
+	type	drop		
+	Mob	3804		
+	
+}				
+				
+Group	���λ���屺_����			
+{				
+	type	drop		
+	Mob	3805		
+	
+}				
+				
+Group	������������_����_����			
+{				
+	type	drop		
+	Mob	3890		
+}				
+				
+Group	��������_����_����			
+{				
+	type	drop		
+	Mob	3891		
+}
+Group	Regatul_Inghetat_Boss1
+{
+	Level_limit	75
+	mob	4719
+	Type	limit
+	1	70035	1	100
+	2	70035	1	30
+}
+Group	Regatul_Inghetat_Boss2
+{
+	Level_limit	80
+	mob	4720
+	Type	limit
+	1	27987	1	100
+	2	27987	1	30
+}
+Group	Regatul_Inghetat_Boss3
+{
+	Level_limit	80
+	mob	4721
+	Type	limit
+	1	71084	1	100
+	2	71084	1	30
+	3	71084	1	100
+}
+Group	Regatul_Inghetat_BossFinal
+{
+	Level_limit	80
+	Mob	4722
+	Type	limit
+	1	30986	1	300
+	2	31019	1	15
+	3	70039	1	15
+	4	30198	1	10
+	5	71084	5	100
+	6	71159	1	100
+	7	70035	1	10
+	8	71035	1	300
+	9	71084	5	300
+	10	30168	1	20
+	11	76029	1	50
+	12	80019	1	50
+	13	80019	1	50
+	14	50255	1	50
+}
+Group	ȭ��				
+{					
+	type 	kill			
+	mob	6001			
+	kill_drop	1000			
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}					
+					
+Group	����				
+{					
+	type 	kill			
+	mob	6002			
+	kill_drop	1000			
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+}					
+					
+Group	�ؿ���				
+{					
+	type 	kill			
+	mob	6003			
+	kill_drop	500			
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+}					
+					
+Group	��ȭ��				
+{					
+	type 	kill			
+	mob	6004			
+	kill_drop	500			
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+}					
+					
+Group	ȭ��				
+{					
+	type 	kill			
+	mob	6005			
+	kill_drop	100			
+	1	30504	1	100	0
+	2	30516	1	100	0
+	3	30521	1	100	0
+	4	30550	1	10	0
+}					
+					
+Group	����				
+{					
+	type 	kill			
+	mob	6006			
+	kill_drop	100			
+	1	30503	1	100	0
+	2	30509	1	100	0
+	3	30513	1	100	0
+	4	30550	1	50	0
+}					
+					
+Group	ȭ��				
+{					
+	type 	kill			
+	mob	6007			
+	kill_drop	100			
+	1	30506	1	100	0
+	2	30510	1	100	0
+	3	30522	1	100	0
+	4	30550	1	60	0
+}									
+Group	����				
+{					
+	type 	kill			
+	mob	6008			
+	kill_drop	50			
+}										
+Group	�ʿ���				
+{					
+	type 	kill			
+	mob	6009			
+	kill_drop	50			
+}					
+					
+Group	Razador_Metin
+{
+	Level_limit	95
+	Mob	8057
+	Type	drop
+	1	71084	1	300
+	2	25040	1	2
+	3	70038	1	300
+	4	70038	1	40
+	5	160	1	20
+	6	161	1	16
+	7	162	1	12
+	8	163	1	10
+	9	240	1	20
+	10	241	1	16
+	11	242	1	12
+	12	243	1	10
+	13	1110	1	20
+	14	1111	1	16
+	15	1112	1	12
+	16	1113	1	10
+	17	2130	1	20
+	18	2131	1	16
+	19	2132	1	12
+	20	2133	1	10
+	21	3130	1	20
+	22	3131	1	16
+	23	3132	1	12
+	24	3133	1	10
+	25	5090	1	20
+	26	5091	1	16
+	27	5092	1	12
+	28	5093	1	10
+	29	7130	1	20
+	30	7131	1	16
+	31	7132	1	12
+	32	7133	1	10
+	33	11280	1	20
+	34	11281	1	16
+	35	11282	1	12
+	36	11283	1	10
+	37	11480	1	20
+	38	11481	1	16
+	39	11482	1	12
+	40	11483	1	10
+	41	11680	1	20
+	42	11681	1	16
+	43	11682	1	12
+	44	11683	1	10
+	45	11880	1	20
+	46	11881	1	16
+	47	11882	1	12
+	48	11883	1	10
+	49	70043	1	1
+	50	70005	1	1
+	51	31123	1	2
+	52	50255	1	3
+	53	76029	1	1
+}
+Group	Razador_Boss
+{
+	Level_limit	95
+	Mob	6091
+	Type	limit
+	1	31141	1	300
+	2	31128	1	20
+	3	31134	1	25
+	4	25041	1	20
+	5	70039	1	15
+	6	30131	1	10
+	7	27992	1	10
+	8	27993	1	10
+	9	27994	1	7
+	10	71159	1	20
+	11	71084	20	100
+	12	71084	15	100
+	13	72347	1	30
+	14	72348	1	20
+	15	72349	1	10
+	16	76029	4	50
+	17	76029	2	50
+	18	80019	4	50
+	19	80019	2	50
+	20	51640	1	50
+	21	50255	2	50
+	22	50255	1	50
+}
+Group	Regatul_Inghetat_Iceheart_Stone
+{
+	Level_limit	80
+	Mob	8803
+	Type	limit
+	1	71084	1	100
+	2	71084	1	30
+	3	71084	1	30
+}
+Group	Regatul_Inghetat_Winters_Shard
+{
+	Level_limit	80
+	Mob	8804
+	Type	drop
+	1	160	1	60
+	7	242	1	39
+	8	243	1	30
+	9	1110	1	60
+	10	1111	1	50
+	11	1112	1	39
+	12	1113	1	30
+	13	2130	1	60
+	14	2131	1	50
+	15	2132	1	39
+	16	2133	1	30
+	17	3130	1	60
+	18	3131	1	50
+	19	3132	1	39
+	20	3133	1	30
+	21	5090	1	60
+	22	5091	1	50
+	23	5092	1	39
+	24	5093	1	30
+	25	7130	1	60
+	26	7131	1	50
+	27	7132	1	39
+	28	7133	1	30
+	29	11280	1	50
+	30	11281	1	35
+	31	11282	1	30
+	32	11283	1	30
+	33	11480	1	50
+	34	11481	1	35
+	35	11482	1	30
+	36	11483	1	30
+	37	11680	1	50
+	38	11681	1	35
+	39	11682	1	30
+	40	11683	1	30
+	41	11880	1	50
+	42	11881	1	35
+	43	11882	1	30
+	44	11883	1	30
+	45	13100	1	1.5
+	46	13080	1	1.5
+	47	13060	1	1.5
+	48	13120	1	1.5
+	49	71084	1	37
+	50	71085	1	4
+	51	25040	1	2
+	52	70038	1	132
+	53	70043	1	2
+	54	70005	1	2
+	55	25100	1	2
+	56	27991	1	3.5
+}
+Group	metinul_noptii
+{
+	Level_limit	90
+	Mob	8424
+	Type	limit
+	1	27991	1	1.4
+	2	71085	1	7
+	3	71084	1	300
+	4	25040	1	7
+	5	70005	1	1.2
+	6	31009	1	1
+	7	70024	1	2.7
+	8	27987	1	4.5
+	9	71084	1	20
+	10	160	1	50
+	11	2130	1	50
+	12	1110	1	50
+	13	5090	1	50
+	14	7130	1	50
+	15	25100	1	2.5
+	16	11280	1	40
+	17	11480	1	40
+	18	11680	1	40
+	19	11880	1	40
+	20	71084	1	300
+	21	71084	1	300
+	22	71084	1	300
+	23	72063	1	50
+	24	3140	1	50 
+	25	240	1	50 
+	26	5090	1	40 
+	27	7130	1	40
+	28	1110	1	40
+	29	71084	1	20	
+	30	71084	1	50
+}
+Group Metin_Frostbane
+{
+	Level_limit	35
+	Mob	8821
+	Type	limit
+	1	50300	1	72
+	2	100	1	60
+	3	101	1	50
+	4	102	1	39
+	5	110	1	60
+	6	111	1	50
+	7	112	1	39
+	8	1060	1	60
+	9	1061	1	50
+	10	1062	1	39
+	11	1063	1	30
+	12	1070	1	60
+	13	1071	1	50
+	14	1072	1	39
+	15	1073	1	30
+	16	2090	1	60
+	17	2091	1	50
+	18	2092	1	39
+	19	2093	1	30
+	20	2100	1	60
+	21	2101	1	50
+	22	2102	1	39
+	23	2103	1	30
+	24	3090	1	60
+	25	3091	1	50
+	26	3092	1	39
+	27	3093	1	30
+	28	3100	1	60
+	29	3101	1	50
+	30	3102	1	39
+	31	3103	1	30
+	32	5060	1	60
+	33	5061	1	50
+	34	5062	1	39
+	35	5063	1	30
+	36	5070	1	60
+	37	5071	1	50
+	38	5072	1	39
+	39	5073	1	30
+	40	7090	1	60
+	41	7091	1	50
+	42	7092	1	39
+	43	7093	1	30
+	44	7100	1	60
+	45	7101	1	50
+	46	7102	1	39
+	47	7103	1	30
+	48	11260	1	50
+	49	11261	1	35
+	50	11262	1	30
+	51	11263	1	30
+	52	11460	1	50
+	53	11461	1	35
+	54	11462	1	30
+	55	11463	1	30
+	56	11660	1	50
+	57	11661	1	35
+	58	11662	1	30
+	59	11663	1	30
+	60	11860	1	50
+	61	11861	1	35
+	62	11862	1	30
+	63	11863	1	30
+	64	71084	1	24
+	65	71085	1	12
+	66	70024	1	6
+	67	25040	1	10
+	68	70038	1	132
+	69	71083	1	5
+	70	50302	1	8
+	71	28440	1	0
+}
+
+Group	Metin_Frostbane_2
+{
+	Level_limit	35
+	Mob	8822
+	Type	limit
+	1	50300	1	72
+	2	100	1	60
+	3	101	1	50
+	4	102	1	39
+	5	110	1	60
+	6	111	1	50
+	7	112	1	39
+	8	1060	1	60
+	9	1061	1	50
+	10	1062	1	39
+	11	1063	1	30
+	12	1070	1	60
+	13	1071	1	50
+	14	1072	1	39
+	15	1073	1	30
+	16	2090	1	60
+	17	2091	1	50
+	18	2092	1	39
+	19	2093	1	30
+	20	2100	1	60
+	21	2101	1	50
+	22	2102	1	39
+	23	2103	1	30
+	24	3090	1	60
+	25	3091	1	50
+	26	3092	1	39
+	27	3093	1	30
+	28	3100	1	60
+	29	3101	1	50
+	30	3102	1	39
+	31	3103	1	30
+	32	5060	1	60
+	33	5061	1	50
+	34	5062	1	39
+	35	5063	1	30
+	36	5070	1	60
+	37	5071	1	50
+	38	5072	1	39
+	39	5073	1	30
+	40	7090	1	60
+	41	7091	1	50
+	42	7092	1	39
+	43	7093	1	30
+	44	7100	1	60
+	45	7101	1	50
+	46	7102	1	39
+	47	7103	1	30
+	48	11260	1	50
+	49	11261	1	35
+	50	11262	1	30
+	51	11263	1	30
+	52	11460	1	50
+	53	11461	1	35
+	54	11462	1	30
+	55	11463	1	30
+	56	11660	1	50
+	57	11661	1	35
+	58	11662	1	30
+	59	11663	1	30
+	60	11860	1	50
+	61	11861	1	35
+	62	11862	1	30
+	63	11863	1	30
+	64	71084	1	24
+	65	71085	1	12
+	66	70024	1	6
+	67	25040	1	10
+	68	70038	1	132
+	69	71083	1	5
+	70	50302	1	8
+	71	28440	1	0
+}
+
+Group	cazanul_vrajitoarei
+{
+	Level_limit	75
+	Mob	8823
+	Type	limit
+	1	70064	1	10
+	2	70035	1	10
+}
+Group	dovleac_blestemat
+{
+	Level_limit	75
+	Mob	8824
+	Type	limit
+	1	71084	10	300
+	2	71084	15	300
+}
+
+
+Group	wukong_boss_4622
+{
+	Level_limit	30
+	Mob	4622
+	Type	limit
+	1	71027	3	100	--site_x3_100%
+	2	71028	3	100	--site_x3_100%
+	3	71029	3	100	--site_x3_100%
+	4	71030	3	100	--site_x3_100%
+	5	71044	1	100	--carte_upgrade_skill_100%
+	6	71045	1	100	--carte_upgrade_skill_100%
+	7	27987	1	100	--scoica_100%
+}
+
+Group	wukong_boss_4624
+{
+	Level_limit	30
+	Mob	4624
+	Type	limit
+	1	71001	1	150	--exo_50%
+	2	71094	1	150	--citit_50%
+	3	70024	1	150	--marmura_50%
+	4	71085	1	150	--add_50%
+	5	71084	1	150	--schimba_50%
+	6	50130	1	150	--cufar_competitie_50%
+	7	27102	1	150	--licoare_verde_L_50%
+	8	27105	3	150	--licoare_mov_L_x3_50%
+	9	25040	1	150	--bless_x2_50%
+	10	30137	1	10	--sange_de_maimuta
+	11	79507	1	300	--cufar_wukong
+}
+
+Group	mini_wukong
+{
+	Level_limit	30
+	Mob	8780
+	Type	drop
+	1	50300	1	72
+	2	80	1	60
+	3	81	1	50
+	4	82	1	39
+	5	90	1	60
+	6	91	1	50
+	7	92	1	39
+	8	1040	1	60
+	9	1041	1	50
+	10	1042	1	39
+	11	1043	1	30
+	12	2070	1	60
+	13	2071	1	50
+	14	2072	1	39
+	15	2073	1	30
+	16	3070	1	60
+	17	3071	1	50
+	18	3072	1	39
+	19	3073	1	30
+	20	5050	1	60
+	21	5051	1	50
+	22	5052	1	39
+	23	5053	1	30
+	24	7080	1	60
+	25	7081	1	50
+	26	7082	1	39
+	27	7083	1	30
+	28	11240	1	50
+	29	11241	1	35
+	30	11242	1	30
+	31	11243	1	30
+	32	11440	1	50
+	33	11441	1	35
+	34	11442	1	30
+	35	11443	1	30
+	36	11640	1	50
+	37	11641	1	35
+	38	11642	1	30
+	39	11643	1	30
+	40	11840	1	50
+	41	11841	1	35
+	42	11842	1	30
+	43	11843	1	30
+	44	71151	1	20
+	45	71152	1	12
+	46	76015	1	6
+	47	76016	1	10
+	48	70038	1	132
+	49	50301	1	0.5
+	50	28440	1	0
+}
+Group	Fear_Metin_First
+{
+	Level_limit	90
+	Mob	8439
+	Type	drop
+	1	71084	1	300
+	2	71084	1	15
+	3	25040	1	2
+	4	70038	1	300
+	5	70038	1	40
+	6	160	1	20
+	7	161	1	16
+	8	162	1	12
+	9	163	1	10
+	10	240	1	20
+	11	241	1	16
+	12	242	1	12
+	13	243	1	10
+	14	1110	1	20
+	15	1111	1	16
+	16	1112	1	12
+	17	1113	1	10
+	18	2130	1	20
+	19	2131	1	16
+	20	2132	1	12
+	21	2133	1	10
+	22	3130	1	20
+	23	3131	1	16
+	24	3132	1	12
+	25	3133	1	10
+	26	5090	1	20
+	27	5091	1	16
+	28	5092	1	12
+	29	5093	1	10
+	30	7130	1	20
+	31	7131	1	16
+	32	7132	1	12
+	33	7133	1	10
+	34	11280	1	20
+	35	11281	1	16
+	36	11282	1	12
+	37	11283	1	10
+	38	11480	1	20
+	39	11481	1	16
+	40	11482	1	12
+	41	11483	1	10
+	42	11680	1	20
+	43	11681	1	16
+	44	11682	1	12
+	45	11683	1	10
+	46	11880	1	20
+	47	11881	1	16
+	48	11882	1	12
+	49	11883	1	10
+	50	70043	1	1
+	51	70005	1	1
+	52	80019	1	1
+	53	50255	1	3
+	54	76029	1	1
+}
+Group	Fear_Mob_FirstBoss
+{
+	Level_limit	90
+	Mob	24009
+	Type	drop
+	1	71084	1	30
+	2	71084	1	15
+}
+Group	Fear_Mob_SecondBoss
+{
+	Level_limit	90
+	Mob	24010
+	Type	drop
+	1	71084	1	30
+	2	71084	1	15
+}
+Group	Fear_Metin_Second
+{
+	Level_limit	90
+	Mob	8440
+	Type	drop
+	1	71084	1	300
+	2	71084	1	15
+	3	25040	1	2
+	4	70038	1	300
+	5	70038	1	40
+	6	160	1	20
+	7	161	1	16
+	8	162	1	12
+	9	163	1	10
+	10	240	1	20
+	11	241	1	16
+	12	242	1	12
+	13	243	1	10
+	14	1110	1	20
+	15	1111	1	16
+	16	1112	1	12
+	17	1113	1	10
+	18	2130	1	20
+	19	2131	1	16
+	20	2132	1	12
+	21	2133	1	10
+	22	3130	1	20
+	23	3131	1	16
+	24	3132	1	12
+	25	3133	1	10
+	26	5090	1	20
+	27	5091	1	16
+	28	5092	1	12
+	29	5093	1	10
+	30	7130	1	20
+	31	7131	1	16
+	32	7132	1	12
+	33	7133	1	10
+	34	11280	1	20
+	35	11281	1	16
+	36	11282	1	12
+	37	11283	1	10
+	38	11480	1	20
+	39	11481	1	16
+	40	11482	1	12
+	41	11483	1	10
+	42	11680	1	20
+	43	11681	1	16
+	44	11682	1	12
+	45	11683	1	10
+	46	11880	1	20
+	47	11881	1	16
+	48	11882	1	12
+	49	11883	1	10
+	50	70043	1	1
+	51	70005	1	1
+	52	80019	1	1
+	53	50255	1	3
+	54	76029	1	1
+}
+Group	Fear_Boss_Final
+{
+	Level_limit	90
+	Mob	24011
+	Type	limit
+	1	30951	1	300
+	2	31133	1	20
+	3	30620	1	15
+	4	31126	1	15
+	5	30630	1	15
+	6	25041	1	20
+	7	70039	1	15
+	8	30131	1	10
+	9	27992	1	10
+	10	27993	1	10
+	11	27994	1	7
+	12	31127	1	15
+	13	71159	1	20
+	14	71084	15	100
+	15	71084	10	100
+	16	72347	1	30
+	17	72348	1	20
+	18	72349	1	10
+	19	76029	2	50
+	20	76029	1	50
+	21	80019	2	50
+	22	80019	2	50
+	23	50255	2	50
+	24	51639	1	50
+	25	30168	1	50
+	26	31045	1	50
+}				
+Group	Metin_lvl_8052			
+{				
+	type	drop		
+	Mob	8052			
+	1	71084	1	15
+	2	25040	1	2
+	3	70038	1	300
+	4	70038	1	40
+	5	160	1	20
+	6	161	1	16
+	7	162	1	12
+	8	163	1	10
+	9	240	1	20
+	10	241	1	16
+	11	242	1	12
+	12	243	1	10
+	13	1110	1	20
+	14	1111	1	16
+	15	1112	1	12
+	16	1113	1	10
+	17	2130	1	20
+	18	2131	1	16
+	19	2132	1	12
+	20	2133	1	10
+	21	3130	1	20
+	22	3131	1	16
+	23	3132	1	12
+	24	3133	1	10
+	25	5090	1	20
+	26	5091	1	16
+	27	5092	1	12
+	28	5093	1	10
+	29	7130	1	20
+	30	7131	1	16
+	31	7132	1	12
+	32	7133	1	10
+	33	11280	1	20
+	34	11281	1	16
+	35	11282	1	12
+	36	11283	1	10
+	37	11480	1	20
+	38	11481	1	16
+	39	11482	1	12
+	40	11483	1	10
+	41	11680	1	20
+	42	11681	1	16
+	43	11682	1	12
+	44	11683	1	10
+	45	11880	1	20
+	46	11881	1	16
+	47	11882	1	12
+	48	11883	1	10
+	49	70043	1	1
+	50	70005	1	1
+	51	50255	1	3
+	52	31122	1	1
+	53	76029	1	1
+}				
+				
+Group	Metin_lvl_8054			
+{				
+	type	drop		
+	Mob	8054			
+	1	71084	1	300
+	2	25040	1	2
+	3	70038	1	300
+	4	70038	1	40
+	5	160	1	20
+	6	161	1	16
+	7	162	1	12
+	8	163	1	10
+	9	240	1	20
+	10	241	1	16
+	11	242	1	12
+	12	243	1	10
+	13	1110	1	20
+	14	1111	1	16
+	15	1112	1	12
+	16	1113	1	10
+	17	2130	1	20
+	18	2131	1	16
+	19	2132	1	12
+	20	2133	1	10
+	21	3130	1	20
+	22	3131	1	16
+	23	3132	1	12
+	24	3133	1	10
+	25	5090	1	20
+	26	5091	1	16
+	27	5092	1	12
+	28	5093	1	10
+	29	7130	1	20
+	30	7131	1	16
+	31	7132	1	12
+	32	7133	1	10
+	33	11280	1	20
+	34	11281	1	16
+	35	11282	1	12
+	36	11283	1	10
+	37	11480	1	20
+	38	11481	1	16
+	39	11482	1	12
+	40	11483	1	10
+	41	11680	1	20
+	42	11681	1	16
+	43	11682	1	12
+	44	11683	1	10
+	45	11880	1	20
+	46	11881	1	16
+	47	11882	1	12
+	48	11883	1	10
+	49	70043	1	1
+	50	70005	1	1
+	51	31123	1	2
+	52	50255	1	3
+	53	76029	1	1
+}				
+				
+Group	Metin_lvl_8055			
+{				
+	type	drop		
+	Mob	8055			
+	1	71084	1	300
+	2	71084	1	15
+	3	25040	1	2
+	4	70038	1	300
+	5	70038	1	40
+	6	160	1	20
+	7	161	1	16
+	8	162	1	12
+	9	163	1	10
+	10	240	1	20
+	11	241	1	16
+	12	242	1	12
+	13	243	1	10
+	14	1110	1	20
+	15	1111	1	16
+	16	1112	1	12
+	17	1113	1	10
+	18	2130	1	20
+	19	2131	1	16
+	20	2132	1	12
+	21	2133	1	10
+	22	3130	1	20
+	23	3131	1	16
+	24	3132	1	12
+	25	3133	1	10
+	26	5090	1	20
+	27	5091	1	16
+	28	5092	1	12
+	29	5093	1	10
+	30	7130	1	20
+	31	7131	1	16
+	32	7132	1	12
+	33	7133	1	10
+	34	11280	1	20
+	35	11281	1	16
+	36	11282	1	12
+	37	11283	1	10
+	38	11480	1	20
+	39	11481	1	16
+	40	11482	1	12
+	41	11483	1	10
+	42	11680	1	20
+	43	11681	1	16
+	44	11682	1	12
+	45	11683	1	10
+	46	11880	1	20
+	47	11881	1	16
+	48	11882	1	12
+	49	11883	1	10
+	50	70043	1	1
+	51	70005	1	1
+	52	80019	1	1
+	53	50255	1	3
+	54	76029	1	1
+}				
+				
