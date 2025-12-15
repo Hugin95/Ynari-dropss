@@ -5444,6 +5444,9 @@ Group	Nemere_Boss
 	25	50255	1	150
 	26	71084	5	300
 	27	71084	5	300
+	28	100400	1	80
+	29	100400	1	60
+	30	71159	1	90
 }
 Group	Regatul_Inghetat_Iceheart_Stone
 {
