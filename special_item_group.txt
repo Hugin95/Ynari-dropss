@@ -773,26 +773,26 @@ Group	����ǻ���
 Group	barones_chest
 {
 	Vnum	50083
-	1	14201	1	100	--bratara_lacrima
-	2	16201	1	100	--colier_lacrima
-	3	17201	1	100	--cercei_lacrima
-	4	16163	1	100	--colier_cristal
-	5	16182	1	100	--colier_ametist
+	1	14201	1	10	--bratara_lacrima
+	2	16201	1	10	--colier_lacrima
+	3	17201	1	10	--cercei_lacrima
+	4	16163	1	8	--colier_cristal
+	5	16182	1	8	--colier_ametist
 	6	72347	1	10	--spirala_10%_RARA
-	7	71001	2	100	--exo_x2
-	8	71094	2	100	--citit
-	9	70024	1	100	--marmura
-	10	70102	3	100	--boabe_zen_x3
-	11	50513	1	100	--ss
-	12	71084	3	100	--schimba
-	13	62150	1	100	--cercei_bossi
-	14	62170	1	100	--colier_bossi
-	15	52000	1	100	--shop_decorativ
-	16	72724	1	100	--elixir_soare_M
-	17	72728	1	100	--elixir_lunii_M
-	18	71035	1	100	--elixir_explorarii
-	19	30324	2	100	--cheie_arahnidelor_x2
-	20	30326	1	100	--otrava
+	7	71001	2	8	--exo_x2
+	8	71094	2	8	--citit
+	9	70024	1	6	--marmura
+	10	70102	3	10	--boabe_zen_x3
+	11	50513	1	8	--ss
+	12	71084	3	8	--schimba
+	13	62150	1	4	--cercei_bossi
+	14	62170	1	4	--colier_bossi
+	15	52000	1	8	--shop_decorativ
+	16	72724	1	10	--elixir_soare_M
+	17	72728	1	10	--elixir_lunii_M
+	18	71035	1	8	--elixir_explorarii
+	19	30324	2	8	--cheie_arahnidelor_x2
+	20	30326	1	6	--otrava
 }
 Group	fear_immortal_chest
 {
