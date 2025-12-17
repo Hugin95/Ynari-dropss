@@ -753,6 +753,7 @@ Group	�б�������
 	Mob	701
 	Type	drop
 	1	30008	1	0.03
+	2	3210	1	8
 }
 Group	�б����Ѻ�
 {
@@ -765,6 +766,7 @@ Group	�б����Ѻ�
 	Mob	702
 	Type	drop
 	1	30078	1	0.02
+	2	3210	1	8
 }
 Group	�б���������
 {
@@ -776,7 +778,6 @@ Group	�б���������
 {
 	Mob	703
 	Type	drop
-	1	3210	1	2
 }
 Group	�б�������
 {
@@ -788,8 +789,7 @@ Group	�б�������
 {
 	Mob	704
 	Type	drop
-	1	3210	1	2
-	2	30051	1	0.03
+	1	30051	1	0.03
 }
 Group	�б����ິ
 {
@@ -868,7 +868,7 @@ Group	high_arahan
 {
 	Mob	752
 	Type	drop
-	1	3210	1	6	
+	1	3210	1	20	
 	2	30078	1	0.02
 }
 Group	high_arahan96
