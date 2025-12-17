@@ -981,7 +981,158 @@
       ]
 
     },
+    
+    {
 
+      "level": 26,
+
+      "monster_vnum": 401,
+
+      "count": 200,
+
+      "reward_yang": 30000,
+
+      "reward_exp": 94400,
+
+      "reward_items": [
+
+        {"vnum": 70038, "count": 20},
+
+        {"vnum": 71045, "count": 1},
+
+        {"vnum": 71044, "count": 1},
+
+        {"vnum": 71027, "count": 1},
+
+        {"vnum": 71028, "count": 1},
+
+        {"vnum": 71029, "count": 1},
+
+        {"vnum": 71030, "count": 1},
+
+        {"vnum": 27101, "count": 2},
+
+        {"vnum": 27104, "count": 2},
+
+        {"vnum": 76014, "count": 2}
+
+      ]
+
+    },
+        
+    {
+
+      "level": 27,
+
+      "monster_vnum": 402,
+
+      "count": 200,
+
+      "reward_yang": 30000,
+
+      "reward_exp": 94400,
+
+      "reward_items": [
+
+        {"vnum": 70038, "count": 20},
+
+        {"vnum": 71045, "count": 1},
+
+        {"vnum": 71044, "count": 1},
+
+        {"vnum": 71027, "count": 1},
+
+        {"vnum": 71028, "count": 1},
+
+        {"vnum": 71029, "count": 1},
+
+        {"vnum": 71030, "count": 1},
+
+        {"vnum": 27101, "count": 2},
+
+        {"vnum": 27104, "count": 2},
+
+        {"vnum": 76014, "count": 2}
+
+      ]
+
+    },
+        
+    {
+
+      "level": 28,
+
+      "monster_vnum": 501,
+
+      "count": 200,
+
+      "reward_yang": 30000,
+
+      "reward_exp": 94400,
+
+      "reward_items": [
+
+        {"vnum": 70038, "count": 20},
+
+        {"vnum": 71045, "count": 1},
+
+        {"vnum": 71044, "count": 1},
+
+        {"vnum": 71027, "count": 1},
+
+        {"vnum": 71028, "count": 1},
+
+        {"vnum": 71029, "count": 1},
+
+        {"vnum": 71030, "count": 1},
+
+        {"vnum": 27101, "count": 2},
+
+        {"vnum": 27104, "count": 2},
+
+        {"vnum": 76014, "count": 2}
+
+      ]
+
+    },
+    
+    {
+
+      "level": 29,
+
+      "monster_vnum": 502,
+
+      "count": 200,
+
+      "reward_yang": 30000,
+
+      "reward_exp": 94400,
+
+      "reward_items": [
+
+        {"vnum": 70038, "count": 20},
+
+        {"vnum": 71045, "count": 1},
+
+        {"vnum": 71044, "count": 1},
+
+        {"vnum": 71027, "count": 1},
+
+        {"vnum": 71028, "count": 1},
+
+        {"vnum": 71029, "count": 1},
+
+        {"vnum": 71030, "count": 1},
+
+        {"vnum": 27101, "count": 2},
+
+        {"vnum": 27104, "count": 2},
+
+        {"vnum": 76014, "count": 2}
+
+      ]
+
+    },
     {
 
       "level": 30,
