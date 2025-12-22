@@ -2376,7 +2376,7 @@ Group	boss_4815_final
 	5	71084	1	150	--schimba_50%
 	6	50130	1	100	--cufar_competitie_50%
 	7	70102	3	80	--boabe_zen_x3_50%
-	8	70042	1	30	--aschia_diavolului
+	8	70042	1	300	--aschia_diavolului
 	9	25040	1	100	--bless_50%
 }
 Group	halloween_vrajitorul
@@ -4257,7 +4257,7 @@ Group	baroneasa
 	7	72729	1	50	--elixir_2
 	8	70102	5	30	--boabe_zen_x5
 	9	27987	1	100	--scoica
-	10	30326	1	30	--otrava_reginei_paianjen
+	10	30326	1	300	--otrava_reginei_paianjen
 	11	71084	1	100	--schimba
 	12	71084	1	100	--schimba
 	13	71084	1	100	--schimba
@@ -5330,7 +5330,7 @@ Group	wukong_boss_4624
 	7	27102	3	150	--licoare_verde_L_50%
 	8	27105	3	150	--licoare_mov_L_x3_50%
 	9	25040	1	100	--bless_x2_50%
-	10	30137	1	10	--sange_de_maimuta
+	10	30137	1	300	--sange_de_maimuta
 	11	79507	1	300	--cufar_wukong
 	12	50050	1	40	
 }
