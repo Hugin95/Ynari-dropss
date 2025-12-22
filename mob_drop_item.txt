@@ -2343,19 +2343,18 @@ Group dungeon_mic_1
 	Level_limit	35
 	Mob	4812
 	Type	limit
-	1	70024	1	150	--schimba_verde_50%
-	2	71151	1	150	--magie_verde_50%
-	3	71152	1	150	--putere_verde_50%
-	4	50131	1	150	--cutie_citrin_50%
+	1	70024	1	50	--schimba_verde_50%
+	2	71151	1	50	--magie_verde_50%
+	3	71152	1	50	--putere_verde_50%
+	4	50131	1	50	--cutie_citrin_50%
 }
 Group dungeon_mic_2
 {
 	Level_limit	35
 	Mob	4813
 	Type	limit
-	1	70025	1	150	--schimba_alba_50%
-	2	71084	1	105	--vrajeste_obiectul_35%
-	3	71085	1	105	--imbunatatirea_obiectului_35%
+	1	71084	1	105	--vrajeste_obiectul_35%
+	2	71085	1	50	--imbunatatirea_obiectului_35%
 }
 Group	boss_4814
 {
@@ -2363,22 +2362,22 @@ Group	boss_4814
 	Mob	4814
 	Type	limit
 	1	71084	1	90	--schimba_vrajeste_obiectul_30%
-	2	27987	1	100	--scoica
+	2	27987	1	70	--scoica
 }
 Group	boss_4815_final
 {
 	Level_limit	35
 	Mob	4815
 	Type	limit
-	1	71001	1	100	--exo_50%
-	2	71094	1	100	--citit_50%
-	3	70024	1	100	--marmura_50%
-	4	71085	1	150	--add_50%
+	1	71001	1	60	--exo_50%
+	2	71094	1	60	--citit_50%
+	3	70024	1	80	--marmura_50%
+	4	71085	1	100	--add_50%
 	5	71084	1	150	--schimba_50%
-	6	50130	1	150	--cufar_competitie_50%
-	7	70102	3	150	--boabe_zen_x3_50%
-	8	70042	1	10	--aschia_diavolului
-	9	25040	1	150	--bless_50%
+	6	50130	1	100	--cufar_competitie_50%
+	7	70102	3	80	--boabe_zen_x3_50%
+	8	70042	1	30	--aschia_diavolului
+	9	25040	1	100	--bless_50%
 }
 Group	halloween_vrajitorul
 {
@@ -5312,8 +5311,8 @@ Group	wukong_boss_4622
 	2	71028	3	100	--site_x3_100%
 	3	71029	3	100	--site_x3_100%
 	4	71030	3	100	--site_x3_100%
-	5	71044	1	100	--carte_upgrade_skill_100%
-	6	71045	1	100	--carte_upgrade_skill_100%
+	5	71044	3	100	--carte_upgrade_skill_100%
+	6	71045	3	100	--carte_upgrade_skill_100%
 	7	27987	1	100	--scoica_100%
 }
 
@@ -5333,6 +5332,7 @@ Group	wukong_boss_4624
 	9	25040	1	100	--bless_x2_50%
 	10	30137	1	10	--sange_de_maimuta
 	11	79507	1	300	--cufar_wukong
+	12	50050	1	40	
 }
 
 Group	mini_wukong
