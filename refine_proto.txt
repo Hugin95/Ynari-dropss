@@ -1,4 +1,4 @@
-id	prob	cost	vnum0	count0	vnum1	count1	vnum2	count2	vnum3	count3	vnum4	count4
+54r	prob	cost	vnum0	count0	vnum1	count1	vnum2	count2	vnum3	count3	vnum4	count4
 1	95	600	0	0	0	0	0	0	0	0	0	0
 2	95	1200	0	0	0	0	0	0	0	0	0	0
 3	95	2500	0	0	0	0	0	0	0	0	0	0
@@ -692,5 +692,3 @@ id	prob	cost	vnum0	count0	vnum1	count1	vnum2	count2	vnum3	count3	vnum4	count4
 625	50	1100000	30005	2	0	0	0	0	0	0	0	0
 626	45	1200000	30075	2	27799	1	0	0	0	0	0	0
 627	40	1300000	30078	2	27987	1	0	0	0	0	0	0
-												
-1135												
