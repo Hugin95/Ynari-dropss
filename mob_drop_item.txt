@@ -5321,12 +5321,12 @@ Group	wukong_boss_4624
 	Level_limit	30
 	Mob	4624
 	Type	limit
-	1	71001	1	100	--exo_50%
-	2	71094	1	100	--citit_50%
-	3	70024	1	100	--marmura_50%
-	4	71085	1	150	--add_50%
+	1	71001	1	60	--exo_50%
+	2	71094	1	60	--citit_50%
+	3	70024	1	50	--marmura_50%
+	4	71085	1	50	--add_50%
 	5	71084	1	150	--schimba_50%
-	6	50130	1	150	--cufar_competitie_50%
+	6	50130	1	100	--cufar_competitie_50%
 	7	27102	3	150	--licoare_verde_L_50%
 	8	27105	3	150	--licoare_mov_L_x3_50%
 	9	25040	1	100	--bless_x2_50%
