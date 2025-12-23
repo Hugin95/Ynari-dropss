@@ -318,7 +318,7 @@ end
 
 section
 npc	20016
-category    OTHERS
+category    UPGRADES
 item	25040	15
 item	70102	5
 item	70035	10
@@ -330,7 +330,7 @@ end
 
 section
 npc	20016
-category    OTHERS
+category    UPGRADES
 item	27991	3
 item	70024	20
 item	71085	50
@@ -341,7 +341,7 @@ end
 
 section
 npc	20016
-category    OTHERS
+category    UPGRADES
 item    70039	5
 item	50513	15
 item	70102	10
@@ -354,7 +354,7 @@ end
 
 section
 npc	20016
-category    OTHERS
+category    ARMORS
 item    11299   1
 item    30515	5
 item	30503	5
@@ -367,7 +367,7 @@ end
 
 section
 npc	20016
-category    OTHERS
+category    ARMORS
 item    11499   1
 item    30515	5
 item	30503	5
@@ -380,7 +380,7 @@ end
 
 section
 npc	20016
-category    OTHERS
+category    ARMORS
 item    11699   1
 item    30515	5
 item	30503	5
@@ -393,7 +393,7 @@ end
 
 section
 npc	20016
-category    OTHERS
+category    ARMORS
 item    11899   1
 item    30515   5
 item	30503	5
