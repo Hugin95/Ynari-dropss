@@ -187,19 +187,6 @@ end
 #percent	10
 #end
 
-
-section
-npc	20381
-category    BUFFS
-item	25040	15
-item	70102	5
-item	70035	10
-item	50513	5
-reward	70039	1
-gold	5000000
-percent	100
-end
-
 section
 npc	20095
 category    CHESTS
@@ -241,30 +228,6 @@ end
 
 section
 npc	20381
-category    BUFFS
-item	27991	3
-item	70024	20
-item	71085	50
-reward	30131	1
-gold	10000000
-percent	100
-end
-
-section
-npc	20381
-category    BUFFS
-item    70039	5
-item	50513	15
-item	70102	10
-item    70035   15
-item	25040	20
-reward	25041	1
-gold	10000000
-percent	100
-end
-
-section
-npc	20381
 category	BUFFS
 item	72002	6
 reward	70005	1
@@ -281,24 +244,6 @@ item	71094	25
 item    71151   50
 reward	71188	1
 gold	5000000
-percent	100
-end
-
-section
-npc	20381
-category    OTHERS
-item	27990	10
-reward	27987	1
-gold	100000
-percent	100
-end
-
-section
-npc	20381
-category    OTHERS
-item	27990	20
-reward	27803	5
-gold	100000
 percent	100
 end
 
