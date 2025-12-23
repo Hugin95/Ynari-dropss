@@ -2346,7 +2346,7 @@ Group dungeon_mic_1
 	1	70024	1	50	--schimba_verde_50%
 	2	71151	1	50	--magie_verde_50%
 	3	71152	1	50	--putere_verde_50%
-	4	50131	1	50	--cutie_citrin_50%
+	4	50131	1	30	--cutie_citrin_50%
 }
 Group dungeon_mic_2
 {
@@ -2362,20 +2362,20 @@ Group	boss_4814
 	Mob	4814
 	Type	limit
 	1	71084	1	90	--schimba_vrajeste_obiectul_30%
-	2	27987	1	70	--scoica
+	2	27987	1	50	--scoica
 }
 Group	boss_4815_final
 {
 	Level_limit	35
 	Mob	4815
 	Type	limit
-	1	71001	1	60	--exo_50%
-	2	71094	1	60	--citit_50%
-	3	70024	1	80	--marmura_50%
+	1	71001	1	50	--exo_50%
+	2	71094	1	50	--citit_50%
+	3	70024	1	60	--marmura_50%
 	4	71085	1	100	--add_50%
 	5	71084	1	150	--schimba_50%
 	6	50130	1	100	--cufar_competitie_50%
-	7	70102	3	80	--boabe_zen_x3_50%
+	7	70102	3	60	--boabe_zen_x3_50%
 	8	70042	1	300	--aschia_diavolului
 	9	25040	1	100	--bless_50%
 }
