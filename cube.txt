@@ -252,17 +252,6 @@ end
 
 section
 npc	20381
-category    SEALS
-item	71152	20
-item	50050	2
-item	50128	5
-reward	53289	1
-gold	1000000
-percent	100
-end
-
-section
-npc	20381
 category    BUFFS
 item    70039	5
 item	50513	15
@@ -276,139 +265,10 @@ end
 
 section
 npc	20381
-category    HAIRSTYLES
-item	71152	20
-item	71151	50
-item	70024	5
-item	50129	10
-reward	45281	1
-gold	1000000
-percent	100
-end
-
-section
-npc	20381
-category    HAIRSTYLES
-item	71152	20
-item	71151	50
-item	70024	5
-item	50129	10
-reward	45279	1
-gold	1000000
-percent	100
-end
-
-section
-npc	20381
-category	WEAPONSKINS
-item	25040	100
-item	50129	100
-item	30075	40
-item	50037	100
-item	50513	50
-gold	225000000
-magic_pct	1
-reward	40108	1
-percent	100
-end
-
-section
-npc	20381
-category	WEAPONSKINS
-item	25040	100
-item	50129	100
-item	30075	40
-item	50037	100
-item	50513	50
-gold	225000000
-magic_pct	1
-reward	40109	1
-percent	100
-end
-
-section
-npc	20381
-category	WEAPONSKINS
-item	25040	100
-item	50129	100
-item	30075	40
-item	50037	100
-item	50513	50
-gold	225000000
-magic_pct	1
-reward	40110	1
-percent	100
-end
-
-section
-npc	20381
-category	WEAPONSKINS
-item	25040	100
-item	50129	100
-item	30075	40
-item	50037	100
-item	50513	50
-gold	225000000
-magic_pct	1
-reward	40111	1
-percent	100
-end
-
-section
-npc	20381
-category	WEAPONSKINS
-item	25040	100
-item	50129	100
-item	30075	40
-item	50037	100
-item	50513	50
-gold	225000000
-magic_pct	1
-reward	40112	1
-percent	100
-end
-
-section
-npc	20381
-category	WEAPONSKINS
-item	25040	100
-item	50129	100
-item	30075	40
-item	50037	100
-item	50513	50
-gold	225000000
-magic_pct	1
-reward	40113	1
-percent	100
-end
-
-section
-npc	20381
 category	BUFFS
 item	72002	6
 reward	70005	1
 gold	100000
-percent	100
-end
-
-section
-npc	20381
-category	BUFFS
-item	72005	6
-reward	70043	1
-gold	100000
-percent	100
-end
-
-section
-npc	20381
-category    COSTUMES
-item	71085	30
-item	71084	100
-item	70024	5
-item	50130	10
-reward	41590	1
-gold	1000000
 percent	100
 end
 
@@ -444,102 +304,11 @@ end
 
 section
 npc	20381
-category    CHESTS
-item	50024	10
-reward	50025	1
-gold	100000
-percent	100
-end
-
-section
-npc	20381
-category    CHESTS
-item	50096	10
-reward	50265	1
-gold	100000
-percent	100
-end
-
-
-section
-npc	20381
-category    COSTUMES
-item	71085	30
-item	71084	100
-item	70024	5
-item	50130	10
-reward	41588	1
-gold	1000000
-percent	100
-end
-
-
-section
-npc	20381
-category    SEALS
-item	71085	30
-item	50050	5
-item	71094	5
-item    71001   5
-reward	71124	1
-gold	1000000
-percent	100
-end
-
-
-section
-npc	20381
 category    BUFFS
 item	72347	14
 item	72348	7
 reward	72349	1
 gold	20000000
-percent	100
-end
-
-section
-npc	20381
-category    BUFFS
-item	40004	15
-item	71094	25
-item	70035	20
-reward	71145	1
-gold	20000000
-percent	100
-end
-
-section
-npc	20381
-category    BUFFS
-item	71145	1
-item	40002	20
-item	40004	5
-item	70102	60
-reward	71143	1
-gold	40000000
-percent	100
-end
-
-section
-npc	20381
-category    BUFFS
-item	40003	15
-item	71001	30
-item	25040	80
-reward	71158	1
-gold	20000000
-percent	100
-end
-
-section
-npc	20381
-category    BUFFS
-item	71158	1
-item	40003	5
-item	39114	20
-item	50513	60
-reward	71135	1
-gold	40000000
 percent	100
 end
 
@@ -554,40 +323,6 @@ reward	71035	1
 gold	10000000
 percent	100
 end
-
-section
-npc	20381
-category    BELTS
-item	30550	15
-item	79605	25
-item	50513	25
-reward	18010	1
-gold	250000000
-percent	100
-end
-
-section
-npc	20381
-category    BELTS
-item	30550	5
-item	70003	10
-item	70005	15
-reward	18030	1
-gold	50000000
-percent	100
-end
-
-section
-npc	20381
-category    SEALS
-item	70003	5
-item	31009	25
-item	70005	10
-reward	86099	1
-gold	25000000
-percent	100
-end
-
 
 section
 npc	20001
@@ -636,43 +371,6 @@ gold	5000000
 percent	100
 end
 
-
-section
-npc	20381
-category    COSTUMES
-item	25105	25
-reward	41528	1
-gold	100000
-percent	100
-end
-
-section
-npc	20381
-category    COSTUMES
-item	25105	25
-reward	41530	1
-gold	100000
-percent	100
-end
-
-section
-npc	20381
-category    HAIRSTYLES
-item	25105	25
-reward	45266	1
-gold	100000
-percent	100
-end
-
-section
-npc	20381
-category    HAIRSTYLES
-item	25105	25
-reward	45268	1
-gold	100000
-percent	100
-end
-
 section
 npc	9433
 category	OTHERS
@@ -682,4 +380,108 @@ gold	50000
 percent	100
 end
 
+section
+npc	20016
+category    OTHERS
+item	25040	15
+item	70102	5
+item	70035	10
+item	50513	5
+reward	70039	1
+gold	5000000
+percent	100
+end
 
+section
+npc	20016
+category    OTHERS
+item	27991	3
+item	70024	20
+item	71085	50
+reward	30131	1
+gold	10000000
+percent	100
+end
+
+section
+npc	20016
+category    OTHERS
+item    70039	5
+item	50513	15
+item	70102	10
+item    70035   15
+item	25040	20
+reward	25041	1
+gold	10000000
+percent	100
+end
+
+section
+npc	20016
+category    OTHERS
+item    11299   1
+item    30515	5
+item	30503	5
+item	71123	5
+item    71129   5
+reward	21210	1
+gold	50000000
+percent	100
+end
+
+section
+npc	20016
+category    OTHERS
+item    11499   1
+item    30515	5
+item	30503	5
+item	71123	5
+item    71129   5
+reward	21230	1
+gold	50000000
+percent	100
+end
+
+section
+npc	20016
+category    OTHERS
+item    11699   1
+item    30515	5
+item	30503	5
+item	71123	5
+item    71129   5
+reward	21250	1
+gold	50000000
+percent	100
+end
+
+section
+npc	20016
+category    OTHERS
+item    11899   1
+item    30515   5
+item	30503	5
+item	71123	5
+item    71129   5
+reward	21270	1
+gold	50000000
+percent	100
+end
+
+section
+npc	9009
+category    OTHERS
+item	27990	10
+reward	27987	1
+gold	100000
+percent	100
+end
+
+section
+npc	9009
+category    OTHERS
+item	27990	20
+reward	27803	5
+gold	100000
+percent	100
+end
