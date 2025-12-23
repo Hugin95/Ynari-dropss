@@ -228,15 +228,6 @@ end
 
 section
 npc	20381
-category	BUFFS
-item	72002	6
-reward	70005	1
-gold	100000
-percent	100
-end
-
-section
-npc	20381
 category    BUFFS
 item	50131	20
 item	25100	25
