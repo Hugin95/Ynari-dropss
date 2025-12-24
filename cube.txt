@@ -361,8 +361,8 @@ item	30503	5
 item	71123	5
 item    71129   5
 reward	21210	1
-allow_copy_attr
-allow_copy_socket
+allow_copy_attr 1
+allow_copy_socket   1
 gold	50000000
 percent	100
 end
@@ -376,8 +376,8 @@ item	30503	5
 item	71123	5
 item    71129   5
 reward	21230	1
-allow_copy_attr
-allow_copy_socket
+allow_copy_attr 1
+allow_copy_socket   1
 gold	50000000
 percent	100
 end
@@ -391,8 +391,8 @@ item	30503	5
 item	71123	5
 item    71129   5
 reward	21250	1
-allow_copy_attr
-allow_copy_socket
+allow_copy_attr 1
+allow_copy_socket   1
 gold	50000000
 percent	100
 end
@@ -406,8 +406,8 @@ item	30503	5
 item	71123	5
 item    71129   5
 reward	21270	1
-allow_copy_attr
-allow_copy_socket
+allow_copy_attr 1
+allow_copy_socket   1
 gold	50000000
 percent	100
 end
