@@ -571,8 +571,8 @@
     },
     {
       "level": 30,
-      "monster_vnum": 454,
-      "count": 40,
+      "monster_vnum": 8006,
+      "count": 30,
       "reward_yang": 300000,
       "reward_exp": 424400,
       "reward_items": [
@@ -594,8 +594,8 @@
     },   
     {
       "level": 31,
-      "monster_vnum": 502,
-      "count": 200,
+      "monster_vnum": 454,
+      "count": 40,
       "reward_yang": 150000,
       "reward_exp": 185700,
       "reward_items": [
@@ -691,25 +691,6 @@
         {"vnum": 71035, "count": 1}
       ]
     },
-    {
-      "level": 36,
-      "monster_vnum": 8006,
-      "count": 30,
-      "reward_yang": 300000,
-      "reward_exp": 463200,
-      "reward_items": [
-        {"vnum": 70038, "count": 20},
-        {"vnum": 71045, "count": 1},
-        {"vnum": 71044, "count": 1},
-        {"vnum": 71027, "count": 1},
-        {"vnum": 71028, "count": 1},
-        {"vnum": 71029, "count": 1},
-        {"vnum": 71030, "count": 1},
-        {"vnum": 27101, "count": 2},
-        {"vnum": 27104, "count": 2},
-        {"vnum": 71084, "count": 2}
-      ]
-    },   
     {
       "level": 36,
       "monster_vnum": 8007,
