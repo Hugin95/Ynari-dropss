@@ -3,1725 +3,1829 @@
   "hunting_missions": [
 
     {
-
       "level": 2,
-
       "monster_vnum": 102,
-
       "count": 15,
-
       "reward_yang": 15000,
-
       "reward_exp": 200,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76024, "count": 1},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 3,
-
       "monster_vnum": 172,
-
       "count": 10,
-
       "reward_yang": 15000,
-
       "reward_exp": 400,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76024, "count": 1},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 4,
-
       "monster_vnum": 173,
-
       "count": 10,
-
       "reward_yang": 15000,
-
       "reward_exp": 800,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76024, "count": 1},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 5,
-
       "monster_vnum": 8001,
-
-      "count": 15,
-
-      "reward_yang": 30000,
-
-      "reward_exp": 1400,
-
-      "reward_items": [
-
-        {"vnum": 70038, "count": 10},
-
-        {"vnum": 72038, "count": 1},
-
-        {"vnum": 72033, "count": 1},
-
-        {"vnum": 72042, "count": 1},
-
-        {"vnum": 72034, "count": 1},
-
-        {"vnum": 72048, "count": 1},
-
-        {"vnum": 72027, "count": 1},
-
-        {"vnum": 27101, "count": 2},
-
-        {"vnum": 27104, "count": 2},
-
-        {"vnum": 76024, "count": 2},
-
-        {"vnum": 76023, "count": 5}
-
-      ]
-
-    },
-
-    {
-
-      "level": 6,
-
-      "monster_vnum": 108,
-
       "count": 10,
-
+      "reward_yang": 30000,
+      "reward_exp": 1400,
+      "reward_items": [
+        {"vnum": 70038, "count": 10},
+        {"vnum": 72038, "count": 1},
+        {"vnum": 72033, "count": 1},
+        {"vnum": 72042, "count": 1},
+        {"vnum": 72034, "count": 1},
+        {"vnum": 72048, "count": 1},
+        {"vnum": 72027, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 76024, "count": 2},
+        {"vnum": 76023, "count": 5}
+      ]
+    },
+    {
+      "level": 6,
+      "monster_vnum": 108,
+      "count": 10,
       "reward_yang": 15000,
-
       "reward_exp": 1800,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76024, "count": 1},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 7,
-
       "monster_vnum": 109,
-
       "count": 15,
-
       "reward_yang": 15000,
-
       "reward_exp": 2200,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76024, "count": 1},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 8,
-
       "monster_vnum": 110,
-
       "count": 20,
-
       "reward_yang": 15000,
-
       "reward_exp": 3400,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76024, "count": 1},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 9,
-
       "monster_vnum": 180,
-
       "count": 20,
-
       "reward_yang": 15000,
-
       "reward_exp": 4800,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 10,
-
       "monster_vnum": 8002,
-
-      "count": 15,
-
+      "count": 10,
       "reward_yang": 30000,
-
       "reward_exp": 6600,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 10},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76023, "count": 5}
-
       ]
-
     },
-
     {
-
       "level": 11,
-
       "monster_vnum": 111,
-
       "count": 20,
-
       "reward_yang": 15000,
-
       "reward_exp": 8600,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 12,
-
       "monster_vnum": 181,
-
       "count": 20,
-
       "reward_yang": 15000,
-
       "reward_exp": 11600,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 13,
-
       "monster_vnum": 182,
-
-      "count": 9,
-
+      "count": 6,
       "reward_yang": 15000,
-
       "reward_exp": 15200,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 14,
-
       "monster_vnum": 107,
-
       "count": 25,
-
       "reward_yang": 15000,
-
       "reward_exp": 20000,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 5},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76023, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 15,
-
       "monster_vnum": 8003,
-
       "count": 15,
-
-      "reward_yang": 30000,
-
+      "reward_yang": 50000,
       "reward_exp": 26000,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 10},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76023, "count": 5}
-
       ]
-
     },
-
     {
-
       "level": 16,
-
       "monster_vnum": 184,
-
       "count": 20,
-
       "reward_yang": 30000,
-
       "reward_exp": 33649,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 10},
-
         {"vnum": 71027, "count": 1},
-
         {"vnum": 71028, "count": 1},
-
         {"vnum": 71029, "count": 1},
-
         {"vnum": 71030, "count": 1},
-
         {"vnum": 71044, "count": 1},
-
         {"vnum": 71045, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76013, "count": 2},
-
         {"vnum": 76014, "count": 2},
-
         {"vnum": 17006, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 17,
-
       "monster_vnum": 113,
-
       "count": 20,
-
       "reward_yang": 30000,
-
       "reward_exp": 43548,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 10},
-
         {"vnum": 71027, "count": 1},
-
         {"vnum": 71028, "count": 1},
-
         {"vnum": 71029, "count": 1},
-
         {"vnum": 71030, "count": 1},
-
         {"vnum": 71044, "count": 1},
-
         {"vnum": 71045, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76013, "count": 2},
-
         {"vnum": 76014, "count": 2},
-
         {"vnum": 15006, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 18,
-
       "monster_vnum": 301,
-
       "count": 50,
-
       "reward_yang": 30000,
-
       "reward_exp": 56359,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 10},
-
         {"vnum": 71027, "count": 1},
-
         {"vnum": 71028, "count": 1},
-
         {"vnum": 71029, "count": 1},
-
         {"vnum": 71030, "count": 1},
-
         {"vnum": 71044, "count": 1},
-
         {"vnum": 71045, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76013, "count": 2},
-
         {"vnum": 76014, "count": 2},
-
         {"vnum": 14006, "count": 1}
-
       ]
-
     },
-
     {
-
       "level": 19,
-
       "monster_vnum": 8004,
-
       "count": 20,
-
       "reward_yang": 30000,
-
       "reward_exp": 72939,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 10},
-
         {"vnum": 71027, "count": 1},
-
         {"vnum": 71028, "count": 1},
-
         {"vnum": 71029, "count": 1},
-
         {"vnum": 71030, "count": 1},
-
         {"vnum": 71044, "count": 1},
-
         {"vnum": 71045, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76013, "count": 2},
-
         {"vnum": 76014, "count": 2}
-
       ]
-
     },
-
     {
-
       "level": 20,
-
       "monster_vnum": 304,
-
       "count": 25,
-
-      "reward_yang": 30000,
-
-      "reward_exp": 94400,
-
+      "reward_yang": 50000,
+      "reward_exp": 47200,
       "reward_items": [
-
         {"vnum": 70038, "count": 10},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76013, "count": 3},
-
         {"vnum": 76014, "count": 3},
-
         {"vnum": 76016, "count": 2}
-
       ]
-
     },
-
     {
-
       "level": 21,
-
       "monster_vnum": 302,
-
       "count": 50,
-
       "reward_yang": 30000,
-
-      "reward_exp": 94400,
-
+      "reward_exp": 61000,
       "reward_items": [
-
         {"vnum": 70038, "count": 20},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76021, "count": 1}, 
-
         {"vnum": 76004, "count": 1},
-
         {"vnum": 76016, "count": 1},
-
         {"vnum": 76013, "count": 2},
-
         {"vnum": 76014, "count": 2}
-
       ]
-
     },
-
     {
-
       "level": 22,
-
       "monster_vnum": 303,
-
       "count": 50,
-
       "reward_yang": 30000,
-
-      "reward_exp": 94400,
-
+      "reward_exp": 70500,
       "reward_items": [
-
         {"vnum": 70038, "count": 20},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76021, "count": 1}, 
-
         {"vnum": 76004, "count": 1},
-
         {"vnum": 76016, "count": 1},
-
         {"vnum": 76013, "count": 2},
-
         {"vnum": 76014, "count": 2}
-
       ]
-
     },
-
     {
-
       "level": 23,
-
       "monster_vnum": 396,
-
       "count": 5,
-
       "reward_yang": 30000,
-
-      "reward_exp": 94400,
-
+      "reward_exp": 81300,
       "reward_items": [
-
         {"vnum": 70038, "count": 20},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76021, "count": 1}, 
-
         {"vnum": 76004, "count": 1},
-
         {"vnum": 76016, "count": 1},
-
         {"vnum": 76013, "count": 2},
-
         {"vnum": 76014, "count": 2}
-
       ]
-
     },
-
     {
-
       "level": 24,
-
       "monster_vnum": 398,
-
       "count": 5,
-
       "reward_yang": 30000,
-
-      "reward_exp": 94400,
-
+      "reward_exp": 93700,
       "reward_items": [
-
         {"vnum": 70038, "count": 20},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76021, "count": 1}, 
-
         {"vnum": 76004, "count": 1},
-
         {"vnum": 76016, "count": 1},
-
         {"vnum": 76013, "count": 2},
-
         {"vnum": 76014, "count": 2}
-
       ]
-
     },
-
     {
-
       "level": 25,
-
       "monster_vnum": 8005,
-
-      "count": 20,
-
-      "reward_yang": 30000,
-
+      "count": 25,
+      "reward_yang": 50000,
       "reward_exp": 215400,
-
       "reward_items": [
-
         {"vnum": 70038, "count": 10},
-
         {"vnum": 72038, "count": 1},
-
         {"vnum": 72033, "count": 1},
-
         {"vnum": 72042, "count": 1},
-
         {"vnum": 72034, "count": 1},
-
         {"vnum": 72048, "count": 1},
-
         {"vnum": 72027, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76013, "count": 3},
-
         {"vnum": 76014, "count": 3},
-
         {"vnum": 76016, "count": 2}
-
       ]
-
     },
-    
     {
-
       "level": 26,
-
       "monster_vnum": 401,
-
       "count": 200,
-
       "reward_yang": 30000,
-
-      "reward_exp": 94400,
-
+      "reward_exp": 123700,
       "reward_items": [
-
         {"vnum": 70038, "count": 20},
-
         {"vnum": 71045, "count": 1},
-
         {"vnum": 71044, "count": 1},
-
         {"vnum": 71027, "count": 1},
-
         {"vnum": 71028, "count": 1},
-
         {"vnum": 71029, "count": 1},
-
         {"vnum": 71030, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76014, "count": 2}
-
       ]
-
-    },
-        
+    },   
     {
-
       "level": 27,
-
       "monster_vnum": 402,
-
       "count": 200,
-
       "reward_yang": 30000,
-
-      "reward_exp": 94400,
-
+      "reward_exp": 141800,
       "reward_items": [
-
         {"vnum": 70038, "count": 20},
-
         {"vnum": 71045, "count": 1},
-
         {"vnum": 71044, "count": 1},
-
         {"vnum": 71027, "count": 1},
-
         {"vnum": 71028, "count": 1},
-
         {"vnum": 71029, "count": 1},
-
         {"vnum": 71030, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76014, "count": 2}
-
       ]
-
-    },
-        
+    },   
     {
-
       "level": 28,
-
       "monster_vnum": 501,
-
       "count": 200,
-
       "reward_yang": 30000,
-
-      "reward_exp": 94400,
-
+      "reward_exp": 162400,
       "reward_items": [
-
         {"vnum": 70038, "count": 20},
-
         {"vnum": 71045, "count": 1},
-
         {"vnum": 71044, "count": 1},
-
         {"vnum": 71027, "count": 1},
-
         {"vnum": 71028, "count": 1},
-
         {"vnum": 71029, "count": 1},
-
         {"vnum": 71030, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76014, "count": 2}
-
       ]
-
     },
-    
     {
 
       "level": 29,
-
       "monster_vnum": 502,
-
       "count": 200,
-
       "reward_yang": 30000,
-
-      "reward_exp": 94400,
-
+      "reward_exp": 185700,
       "reward_items": [
-
         {"vnum": 70038, "count": 20},
-
         {"vnum": 71045, "count": 1},
-
         {"vnum": 71044, "count": 1},
-
         {"vnum": 71027, "count": 1},
-
         {"vnum": 71028, "count": 1},
-
         {"vnum": 71029, "count": 1},
-
         {"vnum": 71030, "count": 1},
-
         {"vnum": 27101, "count": 2},
-
         {"vnum": 27104, "count": 2},
-
         {"vnum": 76014, "count": 2}
-
       ]
-
     },
     {
-
       "level": 30,
-
-      "monster_vnum": 491,
-
-      "count": 5,
-
-      "reward_yang": 50000,
-
-      "reward_exp": 424400,
-
-      "reward_items": [
-
-        {"vnum": 70038, "count": 10},
-
-        {"vnum": 72038, "count": 2},
-
-        {"vnum": 72033, "count": 2},
-
-        {"vnum": 72042, "count": 2},
-
-        {"vnum": 72034, "count": 2},
-
-        {"vnum": 72048, "count": 2},
-
-        {"vnum": 72027, "count": 2},
-
-        {"vnum": 27101, "count": 2},
-
-        {"vnum": 27104, "count": 2},
-
-        {"vnum": 76013, "count": 3},
-
-        {"vnum": 76014, "count": 5},
-
-        {"vnum": 71001, "count": 1},
-
-        {"vnum": 71094, "count": 1},
-
-        {"vnum": 76016, "count": 2}
-
-      ]
-
-    },
-
-    {
-
-      "level": 35,
-
-      "monster_vnum": 591,
-
-      "count": 10,
-
-      "reward_yang": 75000,
-
-      "reward_exp": 407300,
-
-      "reward_items": [
-
-        {"vnum": 70038, "count": 10},
-
-        {"vnum": 72038, "count": 2},
-
-        {"vnum": 72033, "count": 2},
-
-        {"vnum": 72042, "count": 2},
-
-        {"vnum": 72034, "count": 2},
-
-        {"vnum": 72048, "count": 2},
-
-        {"vnum": 72027, "count": 2},
-
-        {"vnum": 27101, "count": 2},
-
-        {"vnum": 27104, "count": 2},
-
-        {"vnum": 76013, "count": 3},
-
-        {"vnum": 76014, "count": 5},
-
-        {"vnum": 71001, "count": 1},
-
-        {"vnum": 71094, "count": 1},
-
-        {"vnum": 70024, "count": 2},
-
-        {"vnum": 71035, "count": 1}
-
-      ]
-
-    },
-
-    {
-
-      "level": 40,
-
-      "monster_vnum": 4624,
-
-      "count": 8,
-
-      "reward_yang": 100000,
-
-      "reward_exp": 683700,
-
-      "reward_items": [
-
-        {"vnum": 70038, "count": 10},
-
-        {"vnum": 72038, "count": 2},
-
-        {"vnum": 72033, "count": 2},
-
-        {"vnum": 72042, "count": 2},
-
-        {"vnum": 72034, "count": 2},
-
-        {"vnum": 72048, "count": 2},
-
-        {"vnum": 72027, "count": 2},
-
-        {"vnum": 27102, "count": 2},
-
-        {"vnum": 27105, "count": 2},
-
-        {"vnum": 76014, "count": 5},
-
-        {"vnum": 71001, "count": 1},
-
-        {"vnum": 71094, "count": 1},
-
-        {"vnum": 70024, "count": 2},
-
-        {"vnum": 71035, "count": 2}
-
-      ]
-
-    },
-
-    {
-
-      "level": 45,
-
-      "monster_vnum": 8009,
-
-      "count": 30,
-
-      "reward_yang": 120000,
-
-      "reward_exp": 1056000,
-
-      "reward_items": [
-
-        {"vnum": 70038, "count": 20},
-
-        {"vnum": 72038, "count": 3},
-
-        {"vnum": 72033, "count": 3},
-
-        {"vnum": 72042, "count": 3},
-
-        {"vnum": 72034, "count": 3},
-
-        {"vnum": 72048, "count": 3},
-
-        {"vnum": 72027, "count": 3},
-
-        {"vnum": 27102, "count": 2},
-
-        {"vnum": 27105, "count": 2},
-
-        {"vnum": 71084, "count": 5},
-
-        {"vnum": 71001, "count": 1},
-
-        {"vnum": 71094, "count": 1},
-
-        {"vnum": 70024, "count": 2},
-
-        {"vnum": 71035, "count": 2}
-
-      ]
-
-    },
-
-    {
-
-      "level": 50,
-
-      "monster_vnum": 4815,
-
-      "count": 8,
-
-      "reward_yang": 150000,
-
-      "reward_exp": 1534000,
-
-      "reward_items": [
-
-        {"vnum": 70038, "count": 20},
-
-        {"vnum": 72038, "count": 3},
-
-        {"vnum": 72033, "count": 3},
-
-        {"vnum": 72042, "count": 3},
-
-        {"vnum": 72034, "count": 3},
-
-        {"vnum": 72048, "count": 3},
-
-        {"vnum": 72027, "count": 3},
-
-        {"vnum": 27102, "count": 2},
-
-        {"vnum": 27105, "count": 2},
-
-        {"vnum": 71084, "count": 5},
-
-        {"vnum": 71001, "count": 1},
-
-        {"vnum": 71094, "count": 1},
-
-        {"vnum": 71035, "count": 2},
-
-        {"vnum": 72347, "count": 2}
-
-      ]
-
-    },
-
-    {
-
-      "level": 55,
-
-      "monster_vnum": 4815,
-
-      "count": 8,
-
-      "reward_yang": 200000,
-
-      "reward_exp": 2293000,
-
-      "reward_items": [
-
-        {"vnum": 70038, "count": 20},
-
-        {"vnum": 72038, "count": 5},
-
-        {"vnum": 72033, "count": 5},
-
-        {"vnum": 72042, "count": 5},
-
-        {"vnum": 72034, "count": 5},
-
-        {"vnum": 72048, "count": 5},
-
-        {"vnum": 72027, "count": 5},
-
-        {"vnum": 27102, "count": 5},
-
-        {"vnum": 27105, "count": 5},
-
-        {"vnum": 71084, "count": 5},
-
-        {"vnum": 71001, "count": 1},
-
-        {"vnum": 71094, "count": 1},
-
-        {"vnum": 71035, "count": 2},
-
-        {"vnum": 72347, "count": 2},
-
-        {"vnum": 70039, "count": 1},
-
-        {"vnum": 72724, "count": 1},
-
-        {"vnum": 72728, "count": 1}
-
-      ]
-
-    },
-
-    {
-
-      "level": 60,
-
-      "monster_vnum": 2092,
-
-      "count": 8,
-
-      "reward_yang": 250000,
-
-      "reward_exp": 3278000,
-
-      "reward_items": [
-
-        {"vnum": 51639, "count": 1},
-
-        {"vnum": 72038, "count": 5},
-
-        {"vnum": 72033, "count": 5},
-
-        {"vnum": 72042, "count": 5},
-
-        {"vnum": 72034, "count": 5},
-
-        {"vnum": 72048, "count": 5},
-
-        {"vnum": 72027, "count": 5},
-
-        {"vnum": 27102, "count": 5},
-
-        {"vnum": 27105, "count": 5},
-
-        {"vnum": 71084, "count": 5},
-
-        {"vnum": 71001, "count": 1},
-
-        {"vnum": 71094, "count": 1},
-
-        {"vnum": 71035, "count": 2},
-
-        {"vnum": 72347, "count": 2},
-
-        {"vnum": 70039, "count": 1},
-
-        {"vnum": 72724, "count": 1},
-
-        {"vnum": 72728, "count": 1}
-
-      ]
-
-    },
-
-    {
-
-      "level": 65,
-
-      "monster_vnum": 8013,
-
-      "count": 50,
-
+      "monster_vnum": 454,
+      "count": 40,
       "reward_yang": 300000,
-
-      "reward_exp": 5280000,
-
+      "reward_exp": 424400,
       "reward_items": [
-
-        {"vnum": 51639, "count": 1},
-
-        {"vnum": 72038, "count": 5},
-
-        {"vnum": 72033, "count": 5},
-
-        {"vnum": 72042, "count": 5},
-
-        {"vnum": 72034, "count": 5},
-
-        {"vnum": 72048, "count": 5},
-
-        {"vnum": 72027, "count": 5},
-
-        {"vnum": 27102, "count": 5},
-
-        {"vnum": 27105, "count": 5},
-
-        {"vnum": 71084, "count": 5},
-
+        {"vnum": 70038, "count": 30},
+        {"vnum": 71045, "count": 2},
+        {"vnum": 71044, "count": 2},
+        {"vnum": 71027, "count": 2},
+        {"vnum": 71028, "count": 2},
+        {"vnum": 71029, "count": 2},
+        {"vnum": 71030, "count": 2},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 76013, "count": 3},
+        {"vnum": 76014, "count": 5},
         {"vnum": 71001, "count": 1},
-
         {"vnum": 71094, "count": 1},
-
-        {"vnum": 71035, "count": 2},
-
-        {"vnum": 72347, "count": 2},
-
-        {"vnum": 70039, "count": 1},
-
-        {"vnum": 72724, "count": 1},
-
-        {"vnum": 72728, "count": 1}
-
+        {"vnum": 76016, "count": 2}
       ]
-
-    },
-
+    },   
     {
-
-      "level": 70,
-
-      "monster_vnum": 2206,
-
-      "count": 10,
-
-      "reward_yang": 350000,
-
-      "reward_exp": 8504000,
-
+      "level": 31,
+      "monster_vnum": 502,
+      "count": 200,
+      "reward_yang": 150000,
+      "reward_exp": 185700,
       "reward_items": [
-
-        {"vnum": 51641, "count": 1},
-
-        {"vnum": 72038, "count": 5},
-
-        {"vnum": 72033, "count": 5},
-
-        {"vnum": 72042, "count": 5},
-
-        {"vnum": 72034, "count": 5},
-
-        {"vnum": 72048, "count": 5},
-
-        {"vnum": 72027, "count": 5},
-
-        {"vnum": 27102, "count": 5},
-
-        {"vnum": 27105, "count": 5},
-
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 76014, "count": 2}
+      ]
+    },   
+    {
+      "level": 32,
+      "monster_vnum": 403,
+      "count": 50,
+      "reward_yang": 200000,
+      "reward_exp": 276100,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 33,
+      "monster_vnum": 405,
+      "count": 30,
+      "reward_yang": 250000,
+      "reward_exp": 314500,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 34,
+      "monster_vnum": 504,
+      "count": 50,
+      "reward_yang": 300000,
+      "reward_exp": 358000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 35,
+      "monster_vnum": 554,
+      "count": 10,
+      "reward_yang": 600000,
+      "reward_exp": 407300,
+      "reward_items": [
+        {"vnum": 70038, "count": 30},
+        {"vnum": 71045, "count": 2},
+        {"vnum": 71044, "count": 2},
+        {"vnum": 71027, "count": 2},
+        {"vnum": 71028, "count": 2},
+        {"vnum": 71029, "count": 2},
+        {"vnum": 71030, "count": 2},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 71084, "count": 3},
+        {"vnum": 71001, "count": 1},
+        {"vnum": 71094, "count": 1},
+        {"vnum": 70024, "count": 2},
+        {"vnum": 71035, "count": 1}
+      ]
+    },
+    {
+      "level": 36,
+      "monster_vnum": 8006,
+      "count": 30,
+      "reward_yang": 300000,
+      "reward_exp": 463200,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },   
+    {
+      "level": 36,
+      "monster_vnum": 8007,
+      "count": 35,
+      "reward_yang": 300000,
+      "reward_exp": 358000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },   
+    {
+      "level": 37,
+      "monster_vnum": 2103,
+      "count": 100,
+      "reward_yang": 300000,
+      "reward_exp": 519400,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 38,
+      "monster_vnum": 634,
+      "count": 100,
+      "reward_yang": 300000,
+      "reward_exp": 571700,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 39,
+      "monster_vnum": 8008,
+      "count": 40,
+      "reward_yang": 300000,
+      "reward_exp": 626400,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27101, "count": 2},
+        {"vnum": 27104, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 40,
+      "monster_vnum": 4624,
+      "count": 8,
+      "reward_yang": 600000,
+      "reward_exp": 683700,
+      "reward_items": [
+        {"vnum": 70038, "count": 30},
+        {"vnum": 71045, "count": 2},
+        {"vnum": 71044, "count": 2},
+        {"vnum": 71027, "count": 2},
+        {"vnum": 71028, "count": 2},
+        {"vnum": 71029, "count": 2},
+        {"vnum": 71030, "count": 2},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
         {"vnum": 71084, "count": 5},
-
-        {"vnum": 80019, "count": 10},
-
-        {"vnum": 71035, "count": 2},
-
-        {"vnum": 72347, "count": 2},
-
-        {"vnum": 70039, "count": 1},
-
-        {"vnum": 72724, "count": 1},
-
-        {"vnum": 72728, "count": 1}
-
+        {"vnum": 71001, "count": 1},
+        {"vnum": 71094, "count": 1}
       ]
-
-    },
-
+    },   
     {
-
-      "level": 75,
-
-      "monster_vnum": 1093,
-
-      "count": 10,
-
+      "level": 41,
+      "monster_vnum": 633,
+      "count": 100,
       "reward_yang": 400000,
-
-      "reward_exp": 13700000,
-
+      "reward_exp": 760000,
       "reward_items": [
-
-        {"vnum": 51642, "count": 1},
-
-        {"vnum": 72038, "count": 5},
-
-        {"vnum": 72033, "count": 5},
-
-        {"vnum": 72042, "count": 5},
-
-        {"vnum": 72034, "count": 5},
-
-        {"vnum": 72048, "count": 5},
-
-        {"vnum": 72027, "count": 5},
-
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 42,
+      "monster_vnum": 631,
+      "count": 100,
+      "reward_yang": 400000,
+      "reward_exp": 827400,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 43,
+      "monster_vnum": 632,
+      "count": 100,
+      "reward_yang": 400000,
+      "reward_exp": 899000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 44,
+      "monster_vnum": 636,
+      "count": 100,
+      "reward_yang": 400000,
+      "reward_exp": 975300,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 45,
+      "monster_vnum": 8009,
+      "count": 45,
+      "reward_yang": 800000,
+      "reward_exp": 1056000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 3},
+        {"vnum": 71044, "count": 3},
+        {"vnum": 71027, "count": 3},
+        {"vnum": 71028, "count": 3},
+        {"vnum": 71029, "count": 3},
+        {"vnum": 71030, "count": 3},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 5},
+        {"vnum": 71001, "count": 1},
+        {"vnum": 71094, "count": 1}
+      ]
+    },
+    {
+      "level": 46,
+      "monster_vnum": 635,
+      "count": 100,
+      "reward_yang": 400000,
+      "reward_exp": 1141100,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 47,
+      "monster_vnum": 2107,
+      "count": 50,
+      "reward_yang": 400000,
+      "reward_exp": 1232000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },   
+    {
+      "level": 48,
+      "monster_vnum": 2106,
+      "count": 200,
+      "reward_yang": 400000,
+      "reward_exp": 1327000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 49,
+      "monster_vnum": 2108,
+      "count": 20,
+      "reward_yang": 400000,
+      "reward_exp": 1428000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 50,
+      "monster_vnum": 4814,
+      "count": 18,
+      "reward_yang": 800000,
+      "reward_exp": 1534000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 3},
+        {"vnum": 71044, "count": 3},
+        {"vnum": 71027, "count": 3},
+        {"vnum": 71028, "count": 3},
+        {"vnum": 71029, "count": 3},
+        {"vnum": 71030, "count": 3},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 5},
+        {"vnum": 71001, "count": 1},
+        {"vnum": 71094, "count": 1},
+        {"vnum": 72347, "count": 2}
+      ]
+    },
+    {
+      "level": 51,
+      "monster_vnum": 8010,
+      "count": 50,
+      "reward_yang": 400000,
+      "reward_exp": 1687000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 52,
+      "monster_vnum": 903,
+      "count": 300,
+      "reward_yang": 400000,
+      "reward_exp": 1896000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 53,
+      "monster_vnum": 904,
+      "count": 300,
+      "reward_yang": 400000,
+      "reward_exp": 1998000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 54,
+      "monster_vnum": 902,
+      "count": 300,
+      "reward_yang": 400000,
+      "reward_exp": 1998000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 55,
+      "monster_vnum": 4815,
+      "count": 8,
+      "reward_yang": 800000,
+      "reward_exp": 2293000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 5},
+        {"vnum": 71044, "count": 5},
+        {"vnum": 71027, "count": 5},
+        {"vnum": 71028, "count": 5},
+        {"vnum": 71029, "count": 5},
+        {"vnum": 71030, "count": 5},
         {"vnum": 27102, "count": 5},
-
         {"vnum": 27105, "count": 5},
-
-        {"vnum": 71084, "count": 10},
-
-        {"vnum": 80019, "count": 10},
-
-        {"vnum": 71035, "count": 2},
-
-        {"vnum": 72348, "count": 1},
-
+        {"vnum": 71084, "count": 5},
+        {"vnum": 71001, "count": 1},
+        {"vnum": 71094, "count": 1},
+        {"vnum": 72347, "count": 2},
+        {"vnum": 70039, "count": 1},
         {"vnum": 72724, "count": 1},
-
         {"vnum": 72728, "count": 1}
-
       ]
-
-    },
-
+    },   
     {
-
-      "level": 80,
-
-      "monster_vnum": 2598,
-
-      "count": 10,
-
-      "reward_yang": 450000,
-
-      "reward_exp": 28678000,
-
+      "level": 56,
+      "monster_vnum": 8011,
+      "count": 55,
+      "reward_yang": 400000,
+      "reward_exp": 2458000,
       "reward_items": [
-
-        {"vnum": 51643, "count": 1},
-
-        {"vnum": 72038, "count": 10},
-
-        {"vnum": 72033, "count": 10},
-
-        {"vnum": 72042, "count": 10},
-
-        {"vnum": 72034, "count": 10},
-
-        {"vnum": 72048, "count": 10},
-
-        {"vnum": 72027, "count": 10},
-
-        {"vnum": 27102, "count": 10},
-
-        {"vnum": 27105, "count": 10},
-
-        {"vnum": 71084, "count": 10},
-
-        {"vnum": 80019, "count": 15},
-
-        {"vnum": 71035, "count": 2},
-
-        {"vnum": 72348, "count": 1},
-
-        {"vnum": 72726, "count": 1},
-
-        {"vnum": 72730, "count": 1}
-
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
       ]
-
     },
-
     {
-
-      "level": 85,
-
-      "monster_vnum": 4722,
-
-      "count": 10,
-
+      "level": 57,
+      "monster_vnum": 734,
+      "count": 300,
+      "reward_yang": 400000,
+      "reward_exp": 2620000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 58,
+      "monster_vnum": 731,
+      "count": 300,
+      "reward_yang": 400000,
+      "reward_exp": 2796000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },   
+    {
+      "level": 59,
+      "monster_vnum": 736,
+      "count": 300,
+      "reward_yang": 400000,
+      "reward_exp": 2980000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 60,
+      "monster_vnum": 2092,
+      "count": 8,
+      "reward_yang": 100000,
+      "reward_exp": 3278000,
+      "reward_items": [
+        {"vnum": 51639, "count": 1},
+        {"vnum": 71045, "count": 5},
+        {"vnum": 71044, "count": 5},
+        {"vnum": 71027, "count": 5},
+        {"vnum": 71028, "count": 5},
+        {"vnum": 71029, "count": 5},
+        {"vnum": 71030, "count": 5},
+        {"vnum": 27102, "count": 5},
+        {"vnum": 27105, "count": 5},
+        {"vnum": 71084, "count": 5},
+        {"vnum": 71001, "count": 1},
+        {"vnum": 71094, "count": 1},
+        {"vnum": 71035, "count": 2},
+        {"vnum": 72347, "count": 2},
+        {"vnum": 70039, "count": 1},
+        {"vnum": 72724, "count": 1},
+        {"vnum": 72728, "count": 1}
+      ]
+    },
+    {
+      "level": 61,
+      "monster_vnum": 8012,
+      "count": 60,
       "reward_yang": 500000,
-
-      "reward_exp": 46176000,
-
+      "reward_exp": 3606000,
       "reward_items": [
-
-        {"vnum": 51644, "count": 1},
-
-        {"vnum": 72038, "count": 10},
-
-        {"vnum": 72033, "count": 10},
-
-        {"vnum": 72042, "count": 10},
-
-        {"vnum": 72034, "count": 10},
-
-        {"vnum": 72048, "count": 10},
-
-        {"vnum": 72027, "count": 10},
-
-        {"vnum": 27102, "count": 10},
-
-        {"vnum": 27105, "count": 10},
-
-        {"vnum": 71084, "count": 10},
-
-        {"vnum": 80019, "count": 15},
-
-        {"vnum": 71035, "count": 2},
-
-        {"vnum": 72348, "count": 1},
-
-        {"vnum": 72726, "count": 1},
-
-        {"vnum": 72730, "count": 1},
-
-        {"vnum": 25041, "count": 1}
-
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
       ]
-
     },
-
+    {
+      "level": 62,
+      "monster_vnum": 1302,
+      "count": 300,
+      "reward_yang": 500000,
+      "reward_exp": 3967000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 63,
+      "monster_vnum": 1301,
+      "count": 300,
+      "reward_yang": 500000,
+      "reward_exp": 4364000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 64,
+      "monster_vnum": 1303,
+      "count": 500,
+      "reward_yang": 500000,
+      "reward_exp": 4800000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2}
+      ]
+    },
+    {
+      "level": 65,
+      "monster_vnum": 8013,
+      "count": 65,
+      "reward_yang": 1000000,
+      "reward_exp": 5280000,
+      "reward_items": [
+        {"vnum": 51639, "count": 1},
+        {"vnum": 71045, "count": 5},
+        {"vnum": 71044, "count": 5},
+        {"vnum": 71027, "count": 5},
+        {"vnum": 71028, "count": 5},
+        {"vnum": 71029, "count": 5},
+        {"vnum": 71030, "count": 5},
+        {"vnum": 27102, "count": 5},
+        {"vnum": 27105, "count": 5},
+        {"vnum": 71084, "count": 5},
+        {"vnum": 71001, "count": 1},
+        {"vnum": 71094, "count": 1},
+        {"vnum": 71035, "count": 2},
+        {"vnum": 72347, "count": 2},
+        {"vnum": 70039, "count": 1},
+        {"vnum": 72724, "count": 1},
+        {"vnum": 72728, "count": 1}
+      ]
+    },
+    {
+      "level": 66,
+      "monster_vnum": 1104,
+      "count": 300,
+      "reward_yang": 500000,
+      "reward_exp": 5808000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5}
+      ]
+    },
+    {
+      "level": 67,
+      "monster_vnum": 1103,
+      "count": 300,
+      "reward_yang": 500000,
+      "reward_exp": 6389000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5}
+      ]
+    },
+    {
+      "level": 68,
+      "monster_vnum": 1106,
+      "count": 200,
+      "reward_yang": 500000,
+      "reward_exp": 7028000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5}
+      ]
+    },
+    {
+      "level": 69,
+      "monster_vnum": 1107,
+      "count": 200,
+      "reward_yang": 500000,
+      "reward_exp": 7731000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5}
+      ]
+    },
+    {
+      "level": 70,
+      "monster_vnum": 8014,
+      "count": 70,
+      "reward_yang": 1000000,
+      "reward_exp": 8504000,
+      "reward_items": [
+        {"vnum": 51641, "count": 1},
+        {"vnum": 71045, "count": 5},
+        {"vnum": 71044, "count": 5},
+        {"vnum": 71027, "count": 5},
+        {"vnum": 71028, "count": 5},
+        {"vnum": 71029, "count": 5},
+        {"vnum": 71030, "count": 5},
+        {"vnum": 27102, "count": 5},
+        {"vnum": 27105, "count": 5},
+        {"vnum": 71084, "count": 5},
+        {"vnum": 80019, "count": 10},
+        {"vnum": 71035, "count": 2},
+        {"vnum": 72347, "count": 2},
+        {"vnum": 70039, "count": 1},
+        {"vnum": 72724, "count": 1},
+        {"vnum": 72728, "count": 1}
+      ]
+    },
+    {
+      "level": 71,
+      "monster_vnum": 2203,
+      "count": 400,
+      "reward_yang": 500000,
+      "reward_exp": 9354000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 72,
+      "monster_vnum": 2204,
+      "count": 400,
+      "reward_yang": 500000,
+      "reward_exp": 10290000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 73,
+      "monster_vnum": 2205,
+      "count": 400,
+      "reward_yang": 500000,
+      "reward_exp": 11320000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 74,
+      "monster_vnum": 2201,
+      "count": 400,
+      "reward_yang": 500000,
+      "reward_exp": 12450000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 75,
+      "monster_vnum": 1093,
+      "count": 8,
+      "reward_yang": 7000000,
+      "reward_exp": 13700000,
+      "reward_items": [
+        {"vnum": 51642, "count": 1},
+        {"vnum": 71045, "count": 5},
+        {"vnum": 71044, "count": 5},
+        {"vnum": 71027, "count": 5},
+        {"vnum": 71028, "count": 5},
+        {"vnum": 71029, "count": 5},
+        {"vnum": 71030, "count": 5},
+        {"vnum": 27102, "count": 5},
+        {"vnum": 27105, "count": 5},
+        {"vnum": 71084, "count": 10},
+        {"vnum": 80019, "count": 10},
+        {"vnum": 71035, "count": 2},
+        {"vnum": 72348, "count": 1},
+        {"vnum": 72724, "count": 1},
+        {"vnum": 72728, "count": 1}
+      ]
+    },
+    {
+      "level": 76,
+      "monster_vnum": 8024,
+      "count": 75,
+      "reward_yang": 7000000,
+      "reward_exp": 15070000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 77,
+      "monster_vnum": 2302,
+      "count": 400,
+      "reward_yang": 7000000,
+      "reward_exp": 16570000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 78,
+      "monster_vnum": 2305,
+      "count": 400,
+      "reward_yang": 7000000,
+      "reward_exp": 23699000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 79,
+      "monster_vnum": 2304,
+      "count": 400,
+      "reward_yang": 7000000,
+      "reward_exp": 26065000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 80,
+      "monster_vnum": 2598,
+      "count": 8,
+      "reward_yang": 8000000,
+      "reward_exp": 28678000,
+      "reward_items": [
+        {"vnum": 51643, "count": 1},
+        {"vnum": 71045, "count": 10},
+        {"vnum": 71044, "count": 10},
+        {"vnum": 71027, "count": 10},
+        {"vnum": 71028, "count": 10},
+        {"vnum": 71029, "count": 10},
+        {"vnum": 71030, "count": 10},
+        {"vnum": 27102, "count": 10},
+        {"vnum": 27105, "count": 10},
+        {"vnum": 71084, "count": 10},
+        {"vnum": 80019, "count": 15},
+        {"vnum": 71035, "count": 2},
+        {"vnum": 72348, "count": 1},
+        {"vnum": 72726, "count": 1},
+        {"vnum": 72730, "count": 1}
+      ]
+    },
+    {
+      "level": 81,
+      "monster_vnum": 8025,
+      "count": 80,
+      "reward_yang": 8100000,
+      "reward_exp": 31500000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 82,
+      "monster_vnum": 2302,
+      "count": 400,
+      "reward_yang": 8200000,
+      "reward_exp": 34697000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 83,
+      "monster_vnum": 2305,
+      "count": 400,
+      "reward_yang": 8300000,
+      "reward_exp": 38168000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 84,
+      "monster_vnum": 2304,
+      "count": 400,
+      "reward_yang": 8400000,
+      "reward_exp": 41977000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 85,
+      "monster_vnum": 4722,
+      "count": 8,
+      "reward_yang": 8500000,
+      "reward_exp": 46176000,
+      "reward_items": [
+        {"vnum": 51644, "count": 1},
+        {"vnum": 71045, "count": 10},
+        {"vnum": 71044, "count": 10},
+        {"vnum": 71027, "count": 10},
+        {"vnum": 71028, "count": 10},
+        {"vnum": 71029, "count": 10},
+        {"vnum": 71030, "count": 10},
+        {"vnum": 27102, "count": 10},
+        {"vnum": 27105, "count": 10},
+        {"vnum": 71084, "count": 10},
+        {"vnum": 80019, "count": 15},
+        {"vnum": 71035, "count": 2},
+        {"vnum": 72348, "count": 1},
+        {"vnum": 72726, "count": 1},
+        {"vnum": 72730, "count": 1},
+        {"vnum": 25041, "count": 1}
+      ]
+    },
+    {
+      "level": 86,
+      "monster_vnum": 8026,
+      "count": 85,
+      "reward_yang": 8600000,
+      "reward_exp": 50804000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 87,
+      "monster_vnum": 1132,
+      "count": 500,
+      "reward_yang": 8700000,
+      "reward_exp": 55874000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 88,
+      "monster_vnum": 1133,
+      "count": 500,
+      "reward_yang": 8800000,
+      "reward_exp": 61464000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
+    {
+      "level": 89,
+      "monster_vnum": 1134,
+      "count": 500,
+      "reward_yang": 8900000,
+      "reward_exp": 67613000,
+      "reward_items": [
+        {"vnum": 70038, "count": 20},
+        {"vnum": 71045, "count": 1},
+        {"vnum": 71044, "count": 1},
+        {"vnum": 71027, "count": 1},
+        {"vnum": 71028, "count": 1},
+        {"vnum": 71029, "count": 1},
+        {"vnum": 71030, "count": 1},
+        {"vnum": 27102, "count": 2},
+        {"vnum": 27105, "count": 2},
+        {"vnum": 71084, "count": 2},
+        {"vnum": 50255, "count": 5},
+        {"vnum": 80019, "count": 3}
+      ]
+    },
     {
       "level": 90,
-      "monster_vnum": 2402,
-      "count": 400,
-      "reward_yang": 600000,
+      "monster_vnum": 8027,
+      "count": 90,
+      "reward_yang": 9000000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51645, "count": 1},
@@ -1746,7 +1850,7 @@
       "level": 91,
       "monster_vnum": 2403,
       "count": 300,
-      "reward_yang": 600000,
+      "reward_yang": 9100000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51645, "count": 1},
@@ -1763,15 +1867,14 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 92,
       "monster_vnum": 2401,
       "count": 1000,
-      "reward_yang": 600000,
+      "reward_yang": 9200000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51645, "count": 1},
@@ -1788,15 +1891,14 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 93,
       "monster_vnum": 2411,
       "count": 800,
-      "reward_yang": 600000,
+      "reward_yang": 9300000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51645, "count": 1},
@@ -1813,15 +1915,14 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 94,
       "monster_vnum": 2412,
       "count": 300,
-      "reward_yang": 600000,
+      "reward_yang": 9400000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51645, "count": 1},
@@ -1838,15 +1939,14 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 95,
-      "monster_vnum": 2413,
-      "count": 200,
-      "reward_yang": 600000,
+      "monster_vnum": 8052,
+      "count": 95,
+      "reward_yang": 9500000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
@@ -1871,7 +1971,7 @@
       "level": 96,
       "monster_vnum": 3001,
       "count": 1000,
-      "reward_yang": 600000,
+      "reward_yang": 9600000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
@@ -1888,15 +1988,14 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 97,
       "monster_vnum": 3002,
       "count": 500,
-      "reward_yang": 600000,
+      "reward_yang": 9700000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
@@ -1913,15 +2012,14 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 98,
       "monster_vnum": 3003,
       "count": 500,
-      "reward_yang": 600000,
+      "reward_yang": 9800000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
@@ -1938,15 +2036,14 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 99,
       "monster_vnum": 3004,
-      "count": 300,
-      "reward_yang": 600000,
+      "count": 500,
+      "reward_yang": 9900000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
@@ -1963,15 +2060,14 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 100,
-      "monster_vnum": 3005,
-      "count": 200,
-      "reward_yang": 1000000,
+      "monster_vnum": 8054,
+      "count": 100,
+      "reward_yang": 10000000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
@@ -1995,8 +2091,8 @@
     {
       "level": 101,
       "monster_vnum": 3553,
-      "count": 300,
-      "reward_yang": 1000000,
+      "count": 500,
+      "reward_yang": 10100000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
@@ -2013,15 +2109,14 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 102,
       "monster_vnum": 3554,
-      "count": 300,
-      "reward_yang": 1000000,
+      "count": 500,
+      "reward_yang": 10200000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
@@ -2038,15 +2133,38 @@
         {"vnum": 71035, "count": 3},
         {"vnum": 72348, "count": 2},
         {"vnum": 72726, "count": 1},
-        {"vnum": 72730, "count": 1},
-        {"vnum": 25041, "count": 1}
+        {"vnum": 72730, "count": 1}
       ]
     },
     {
       "level": 103,
       "monster_vnum": 3702,
-      "count": 400,
-      "reward_yang": 1000000,
+      "count": 500,
+      "reward_yang": 10300000,
+      "reward_exp": 0,
+      "reward_items": [
+        {"vnum": 51646, "count": 1},
+        {"vnum": 71027, "count": 10},
+        {"vnum": 71028, "count": 10},
+        {"vnum": 71029, "count": 10},
+        {"vnum": 71030, "count": 10},
+        {"vnum": 71044, "count": 10},
+        {"vnum": 71045, "count": 10},
+        {"vnum": 27102, "count": 10},
+        {"vnum": 27105, "count": 10},
+        {"vnum": 71084, "count": 10},
+        {"vnum": 80019, "count": 20},
+        {"vnum": 71035, "count": 3},
+        {"vnum": 72348, "count": 2},
+        {"vnum": 72726, "count": 1},
+        {"vnum": 72730, "count": 1}
+      ]
+    },
+    {
+      "level": 104,
+      "monster_vnum": 3904,
+      "count": 500,
+      "reward_yang": 10400000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
@@ -2068,10 +2186,10 @@
       ]
     },
     {
-      "level": 104,
-      "monster_vnum": 3904,
-      "count": 50,
-      "reward_yang": 1000000,
+      "level": 105,
+      "monster_vnum": 8055,
+      "count": 105,
+      "reward_yang": 10500000,
       "reward_exp": 0,
       "reward_items": [
         {"vnum": 51646, "count": 1},
