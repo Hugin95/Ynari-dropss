@@ -358,8 +358,8 @@ category    ARMORS
 item    11299   1
 item    30515	5
 item	30503	5
-item	71123	5
-item    71129   5
+item	71123	3
+item    71129   3
 reward	21210	1
 allow_copy_attr 1
 allow_copy_socket   1
@@ -373,8 +373,8 @@ category    ARMORS
 item    11499   1
 item    30515	5
 item	30503	5
-item	71123	5
-item    71129   5
+item	71123	3
+item    71129   3
 reward	21230	1
 allow_copy_attr 1
 allow_copy_socket   1
@@ -388,8 +388,8 @@ category    ARMORS
 item    11699   1
 item    30515	5
 item	30503	5
-item	71123	5
-item    71129   5
+item	71123	3
+item    71129   3
 reward	21250	1
 allow_copy_attr 1
 allow_copy_socket   1
@@ -403,8 +403,8 @@ category    ARMORS
 item    11899   1
 item    30515   5
 item	30503	5
-item	71123	5
-item    71129   5
+item	71123	3
+item    71129   3
 reward	21270	1
 allow_copy_attr 1
 allow_copy_socket   1
