@@ -793,6 +793,7 @@ Group	barones_chest
 	18	71035	1	8	--elixir_explorarii
 	19	30324	2	8	--cheie_arahnidelor_x2
 	20	30326	1	6	--otrava
+	21	50056	2	10
 }
 Group	fear_immortal_chest
 {
@@ -10965,6 +10966,8 @@ Group	wukong_chest
 	14	30137	1	6
 	15	62100	1	4
 	16	62180	1	14
+	17	50054	2	10
+	18	50062	1	12
 }
 Group	razador_chest
 {
@@ -11048,4 +11051,5 @@ Group	ynari_chest
 	26	70042	1	5
 	27	27102	5	8
 	28	27105	5	8
+	29	50055	2	14
 }
