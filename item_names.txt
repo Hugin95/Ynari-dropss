@@ -1919,14 +1919,14 @@ Vnum	LocaleName
 9508	Evantai+3
 9509	Torta de Otel+3
 9510	Ragnaroek
-9511	Ostøí Nekoneèna
+9511	Ostï¿½ï¿½ Nekoneï¿½na
 9512	Gott Der Server
 9513	CanonjawS
 9514	Lethal Damage
 9515	L'ame de Pitchou
 9516	Kusanagi
 9517	TritaRifiuti
-9518	£owca Smoczych Monet
+9518	ï¿½owca Smoczych Monet
 9519	Jokiy's 2020
 9520	Sabie Dragon
 9521	MUHAFIZ
@@ -6583,7 +6583,7 @@ Vnum	LocaleName
 30325	Cheia Arahnidelor
 30326	Otrava Reginei Paianjen
 30327	Fluierul Arahnidelor
-30328	¿ë½ÅÀÇ »óÀÚ
+30328	ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 30329	Roata Zimtata de Aur
 30330	Piatra Maat
 30331	Cheie de Gheata
@@ -7035,7 +7035,7 @@ Vnum	LocaleName
 38016	Moneda Campionului (Rosu)
 38017	TC Voucher (50)
 38018	TC Voucher (100)
-38020	¼s¸¶ÇÁ¸®¹Ì¾ö¹öÇÁ
+38020	ï¿½sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾ï¿½ï¿½ï¿½ï¿½ï¿½
 38050	Cufarul Pescarului
 38051	Cristal Tigru Regal
 38052	Cufarul Regilor
@@ -7520,7 +7520,7 @@ Vnum	LocaleName
 41316	Armura Azrael (f)
 41317	Armura Azrael+ (m)
 41318	Armura Azrael+ (f)
-41319	Èæ»ç°©
+41319	ï¿½ï¿½ç°©
 41320	Costum Jack Dovleacul(m)
 41321	Rochie Jack Dovleacul(f)
 41322	Costum Jack Dovleac+ (m)
@@ -8114,7 +8114,7 @@ Vnum	LocaleName
 45152	Coif Azrael (f)
 45153	Coif Azrael+ (m)
 45154	Coif Azrael+ (f)
-45155	Èæ»çÅõ±¸
+45155	ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 45156	Capatana Jack Dovleac(m)
 45157	Capatana Jack Dovleac(f)
 45158	Cap Jack Dovleacul+ (m)
@@ -11083,7 +11083,7 @@ Vnum	LocaleName
 62189	Cizmele Suflet Rubin+9
 79600	Premium Farmer Token
 80000	Atac-Automat
-30949	72 transformations amulet
+30949	Labirintul Iluziilor lui Wukong
 30950	Fire egg
 30951	Immortal life chest
 30740	Fear dragon stone

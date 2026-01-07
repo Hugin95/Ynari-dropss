@@ -429,3 +429,13 @@ reward	27803	5
 gold	100000
 percent	100
 end
+
+section
+npc	20381
+category    UPGRADES
+item	50050	1
+item	50055	7
+reward	31040	1
+gold	500000
+percent	100
+end
