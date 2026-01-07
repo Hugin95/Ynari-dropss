@@ -435,6 +435,7 @@ Group	��ȯ
 	Type	drop
 	1	50129	1	150
 	2	30075	1	70
+	3	50054	1	60
 }
 Group	����
 {
@@ -442,6 +443,7 @@ Group	����
 	Type	drop
 	1	50129	1	150
 	2	30075	1	70
+	3	50054	1	60
 
 }
 Group	����
@@ -450,6 +452,7 @@ Group	����
 	Type	drop
 	1	50129	1	150
 	2	30075	1	70
+	3	50054	1	60
 
 }
 Group	����
@@ -458,6 +461,7 @@ Group	����
 	Type	drop
 	1	50129	1	150
 	2	30075	1	70
+	3	50054	1	60
 
 }
 Group	infanteris_salbatic
@@ -1236,8 +1240,6 @@ Group	���
 	10	76029	1	75
 	11	50255	2	150	
 	12	80019	1	300
-	13	80019	1	100
-
 }
 Group	death_reaper_upp
 {
@@ -2120,7 +2122,6 @@ Group	boss_trent2
 	26	50255	1	300
 	27	80019	1	300
 	28	80019	1	100
-	29	26029	1	100
 }
 Group	���͸�
 {
@@ -2420,6 +2421,7 @@ Group	boss_4815_final
 	7	70102	3	60	--boabe_zen_x3_50%
 	8	70042	1	300	--aschia_diavolului
 	9	25040	1	100	--bless_50%
+	10	50055	1	300	--morcov pentru cal
 }
 Group	halloween_vrajitorul
 {
@@ -4308,6 +4310,7 @@ Group	baroneasa
 	14	25040	1	100	--bless
 	15	50255	1	80	--cor
 	16	80019	1	60	--panza fina
+	17	50056	1	300  -ginseng normal
 }						
 Group	���λ���屺				
 {					
@@ -4949,8 +4952,8 @@ Group	Regatul_Inghetat_BossFinal
 	13	80019	1	300
 	14	50255	1	300
 	15	50255	1	300
-	16	50255	1	300
-	17	50255	1	150
+	16	50255	1	50
+	17	50255	1	50
 }
 Group	Razador_Metin
 {
@@ -5392,7 +5395,9 @@ Group	wukong_boss_4624
 	9	25040	1	100	--bless_x2_50%
 	10	30137	1	300	--sange_de_maimuta
 	11	79507	1	300	--cufar_wukong
-	12	50050	1	40	
+	12	50050	1	40	--medalie de cal
+	13	50062	1	150  --manual skill pasiv cal
+	14	50054	1	150  --fan pentru cal
 }
 
 Group	mini_wukong
@@ -5619,10 +5624,10 @@ Group	Fear_Boss_Final
 	25	30168	1	50
 	26	31045	1	25
 	27	50255	2	300
-	28	50255	1	100
-	29	50255	1	100
+	28	50255	1	50
+	29	50255	1	50
 	30	80019	1	100
-	31	76029	1	300
+	31	76029	1	100
 }				
 Group	Metin_lvl_8052			
 {				
