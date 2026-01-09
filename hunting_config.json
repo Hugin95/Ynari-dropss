@@ -79,7 +79,8 @@
         {"vnum": 27101, "count": 2},
         {"vnum": 27104, "count": 2},
         {"vnum": 76024, "count": 2},
-        {"vnum": 76023, "count": 5}
+        {"vnum": 76023, "count": 5},
+        {"vnum": 17006, "count": 1}
       ]
     },
     {
@@ -99,7 +100,8 @@
         {"vnum": 27101, "count": 2},
         {"vnum": 27104, "count": 2},
         {"vnum": 76024, "count": 1},
-        {"vnum": 76023, "count": 1}
+        {"vnum": 76023, "count": 1},
+        {"vnum": 15006, "count": 1}
       ]
     },
     {
@@ -119,7 +121,8 @@
         {"vnum": 27101, "count": 2},
         {"vnum": 27104, "count": 2},
         {"vnum": 76024, "count": 1},
-        {"vnum": 76023, "count": 1}
+        {"vnum": 76023, "count": 1},
+        {"vnum": 14006, "count": 1}
       ]
     },
     {
@@ -292,8 +295,7 @@
         {"vnum": 27101, "count": 2},
         {"vnum": 27104, "count": 2},
         {"vnum": 76013, "count": 2},
-        {"vnum": 76014, "count": 2},
-        {"vnum": 17006, "count": 1}
+        {"vnum": 76014, "count": 2}
       ]
     },
     {
@@ -313,8 +315,7 @@
         {"vnum": 27101, "count": 2},
         {"vnum": 27104, "count": 2},
         {"vnum": 76013, "count": 2},
-        {"vnum": 76014, "count": 2},
-        {"vnum": 15006, "count": 1}
+        {"vnum": 76014, "count": 2}
       ]
     },
     {
@@ -334,8 +335,7 @@
         {"vnum": 27101, "count": 2},
         {"vnum": 27104, "count": 2},
         {"vnum": 76013, "count": 2},
-        {"vnum": 76014, "count": 2},
-        {"vnum": 14006, "count": 1}
+        {"vnum": 76014, "count": 2}
       ]
     },
     {
